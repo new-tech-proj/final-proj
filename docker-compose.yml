@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  postgres-db:
+    image: postgres:latest
+    container_name: database
+    restart: always
+    environment:
+      - POSTGRES_DB=fitbi
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - postgresql_bin:/usr/lib/postgresql
+      - postgresql_data:/var/lib/postgresql/data
+      - ./data/fit.sql:/docker-entrypoint-initdb.d/fit.sql
+    ports:
+      - 2001:5432
+    networks:
+      - mynet
+    
+  metabase-app:
+    image: metabase/metabase:latest
+    container_name: metabase
+    restart: always
+    environment:
+      - MB_DB_TYPE=postgres
+      - MB_DB_NAME=metabase
+      - MB_DB_PORT=5432
+      - MB_DB_USER=postgres
+      - MB_DB_PASS=postgres
+      - MB_DB_HOST=postgres-db
+    depends_on:
+      - postgres-db
+    ports:
+      - 3000:3000
+    networks:
+      - mynet
+
+networks:
+  mynet:
+    driver: bridge
+
+volumes:
+  postgresql_bin:
+    driver: local
+  postgresql_data:
+    driver: local
