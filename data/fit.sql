@@ -56,8 +56,8 @@ CREATE TABLE course
     lecturer_in_charge_id INTEGER,
     course_name VARCHAR(200),
     total_credit INTEGER,
-    practice_credit INTEGER,
     theory_credit INTEGER,
+    practice_credit INTEGER,
     self_learning_credit INTEGER,
     FOREIGN KEY (lecturer_in_charge_id) REFERENCES lecturer (lecturer_id)
 );
