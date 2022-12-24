@@ -1,0 +1,169 @@
+Lecturer ID,Employee ID,Academic Title,Academic Title Date,Degree,Degree Issue Date,Degree Issue Place,Major,Department,Number Of Exp
+1,1,Không,2015-03-31,Tiến sĩ,2015-03-31,Poland,Công nghệ thông tin,Khoa Công nghệ thông tin,5
+2,2,Không,2015-02-05,Thạc sĩ,2015-02-05,Russia,Khoa học máy tính,Khoa Công nghệ thông tin,14
+3,3,Không,2012-12-09,Tiến sĩ,2012-12-09,China,Hệ thống thông tin,Khoa Công nghệ thông tin,5
+4,4,Không,2006-03-21,Thạc sĩ,2006-03-21,Russia,Khoa học máy tính,Khoa Công nghệ thông tin,1
+5,5,Không,2014-07-16,Thạc sĩ,2014-07-16,Portugal,Công nghệ thông tin,Khoa Công nghệ thông tin,7
+6,6,Không,2005-05-08,Thạc sĩ,2005-05-08,Brazil,Khoa học máy tính,Khoa Công nghệ thông tin,14
+7,7,Không,2011-05-27,Thạc sĩ,2011-05-27,China,Hệ thống thông tin,Khoa Công nghệ thông tin,10
+8,8,Không,2011-11-05,Thạc sĩ,2011-11-05,Russia,Hệ thống thông tin,Khoa Công nghệ thông tin,4
+9,9,Không,2006-11-17,Tiến sĩ,2006-11-17,China,An toàn thông tin,Khoa Công nghệ thông tin,9
+10,10,Không,2013-11-14,Thạc sĩ,2013-11-14,Peru,Công nghệ thông tin,Khoa Công nghệ thông tin,1
+11,11,Không,2007-10-29,Thạc sĩ,2007-10-29,Philippines,Công nghệ thông tin,Khoa Công nghệ thông tin,4
+12,12,Không,2014-11-22,Thạc sĩ,2014-11-22,North Korea,Công nghệ thông tin,Khoa Công nghệ thông tin,13
+13,13,Không,2017-01-23,Thạc sĩ,2017-01-23,Brazil,Khoa học máy tính,Khoa Công nghệ thông tin,7
+14,14,Không,2016-11-21,Thạc sĩ,2016-11-21,China,An toàn thông tin,Khoa Công nghệ thông tin,9
+15,15,Phó giáo sư,2017-11-07,Thạc sĩ,2017-11-07,Poland,Khoa học máy tính,Khoa Công nghệ thông tin,13
+16,16,Phó giáo sư,2006-04-18,Thạc sĩ,2006-04-18,Indonesia,Công nghệ thông tin,Khoa Công nghệ thông tin,5
+17,17,Phó giáo sư,2006-08-24,Thạc sĩ,2006-08-24,Indonesia,An toàn thông tin,Khoa Công nghệ thông tin,1
+18,18,Không,2007-03-15,Thạc sĩ,2007-03-15,Poland,An toàn thông tin,Khoa Công nghệ thông tin,8
+19,19,Không,2015-05-23,Thạc sĩ,2015-05-23,France,Khoa học máy tính,Khoa Công nghệ thông tin,7
+20,20,Không,2011-01-30,Thạc sĩ,2011-01-30,China,Công nghệ thông tin,Khoa Công nghệ thông tin,15
+21,21,Không,2006-11-10,Thạc sĩ,2006-11-10,China,An toàn thông tin,Khoa Công nghệ thông tin,2
+22,22,Không,2009-07-23,Thạc sĩ,2009-07-23,China,Hệ thống thông tin,Khoa Công nghệ thông tin,4
+23,23,Không,2009-11-27,Thạc sĩ,2009-11-27,Indonesia,Công nghệ thông tin,Khoa Công nghệ thông tin,2
+24,24,Không,2006-09-17,Thạc sĩ,2006-09-17,Colombia,Hệ thống thông tin,Khoa Công nghệ thông tin,6
+25,25,Không,2014-06-30,Thạc sĩ,2014-06-30,Belarus,Công nghệ thông tin,Khoa Công nghệ thông tin,5
+26,26,Không,2006-10-29,Thạc sĩ,2006-10-29,Portugal,Khoa học máy tính,Khoa Công nghệ thông tin,3
+27,27,Không,2012-06-12,Thạc sĩ,2012-06-12,China,Công nghệ thông tin,Khoa Công nghệ thông tin,8
+28,28,Không,2012-07-26,Tiến sĩ,2012-07-26,Indonesia,Công nghệ thông tin,Khoa Công nghệ thông tin,14
+29,29,Không,2013-06-20,Thạc sĩ,2013-06-20,Indonesia,Hệ thống thông tin,Khoa Công nghệ thông tin,3
+30,30,Không,2007-12-29,Thạc sĩ,2007-12-29,China,Khoa học máy tính,Khoa Công nghệ thông tin,8
+31,31,Không,2017-05-25,Thạc sĩ,2017-05-25,China,Công nghệ thông tin,Khoa Công nghệ thông tin,15
+32,32,Không,2013-02-06,Thạc sĩ,2013-02-06,Zimbabwe,Hệ thống thông tin,Khoa Công nghệ thông tin,15
+33,33,Không,2006-09-14,Thạc sĩ,2006-09-14,China,An toàn thông tin,Khoa Công nghệ thông tin,5
+34,34,Không,2008-03-30,Tiến sĩ,2008-03-30,Belarus,An toàn thông tin,Khoa Công nghệ thông tin,13
+35,35,Phó giáo sư,2014-04-07,Tiến sĩ,2014-04-07,Trinidad and Tobago,An toàn thông tin,Khoa Công nghệ thông tin,14
+36,36,Không,2017-03-12,Thạc sĩ,2017-03-12,Argentina,Công nghệ thông tin,Khoa Công nghệ thông tin,1
+37,37,Không,2010-02-11,Thạc sĩ,2010-02-11,Russia,Khoa học máy tính,Khoa Công nghệ thông tin,6
+38,38,Không,2007-11-18,Thạc sĩ,2007-11-18,Croatia,Khoa học máy tính,Khoa Công nghệ thông tin,6
+39,39,Không,2013-01-16,Thạc sĩ,2013-01-16,Ireland,An toàn thông tin,Khoa Công nghệ thông tin,13
+40,40,Không,2015-10-02,Cử nhân,2015-10-02,Pakistan,Khoa học máy tính,Khoa Công nghệ thông tin,8
+41,41,Không,2011-07-23,Thạc sĩ,2011-07-23,China,Khoa học máy tính,Khoa Công nghệ thông tin,5
+42,42,Không,2016-06-07,Thạc sĩ,2016-06-07,Croatia,Hệ thống thông tin,Khoa Công nghệ thông tin,1
+43,43,Không,2005-12-08,Thạc sĩ,2005-12-08,France,Hệ thống thông tin,Khoa Công nghệ thông tin,9
+44,44,Phó giáo sư,2012-11-18,Tiến sĩ,2012-11-18,China,Khoa học máy tính,Khoa Công nghệ thông tin,4
+45,45,Không,2005-11-02,Thạc sĩ,2005-11-02,Czech Republic,Khoa học máy tính,Khoa Công nghệ thông tin,3
+46,46,Không,2017-02-03,Thạc sĩ,2017-02-03,Yemen,Hệ thống thông tin,Khoa Công nghệ thông tin,6
+47,47,Không,2012-03-31,Thạc sĩ,2012-03-31,Poland,Công nghệ thông tin,Khoa Công nghệ thông tin,2
+48,48,Không,2005-08-19,Thạc sĩ,2005-08-19,Ireland,Khoa học máy tính,Khoa Công nghệ thông tin,5
+49,49,Không,2015-04-13,Thạc sĩ,2015-04-13,Indonesia,An toàn thông tin,Khoa Công nghệ thông tin,3
+50,50,Không,2016-09-26,Thạc sĩ,2016-09-26,Haiti,Khoa học máy tính,Khoa Công nghệ thông tin,8
+51,51,Không,2009-09-16,Thạc sĩ,2009-09-16,China,Công nghệ thông tin,Khoa Công nghệ thông tin,11
+52,52,Không,2016-03-21,Thạc sĩ,2016-03-21,Bosnia and Herzegovina,Hệ thống thông tin,Khoa Công nghệ thông tin,12
+53,53,Không,2013-02-02,Thạc sĩ,2013-02-02,Brazil,An toàn thông tin,Khoa Công nghệ thông tin,7
+54,54,Không,2010-07-16,Thạc sĩ,2010-07-16,China,An toàn thông tin,Khoa Công nghệ thông tin,11
+55,55,Không,2015-11-07,Cử nhân,2015-11-07,Czech Republic,Công nghệ thông tin,Khoa Công nghệ thông tin,11
+56,56,Không,2010-03-03,Thạc sĩ,2010-03-03,Dominican Republic,Hệ thống thông tin,Khoa Công nghệ thông tin,3
+57,57,Không,2012-10-27,Thạc sĩ,2012-10-27,Spain,Khoa học máy tính,Khoa Công nghệ thông tin,3
+58,58,Không,2008-01-16,Thạc sĩ,2008-01-16,China,Hệ thống thông tin,Khoa Công nghệ thông tin,11
+59,59,Không,2018-03-15,Thạc sĩ,2018-03-15,Brazil,Hệ thống thông tin,Khoa Công nghệ thông tin,15
+60,60,Không,2008-05-29,Thạc sĩ,2008-05-29,Zambia,An toàn thông tin,Khoa Công nghệ thông tin,6
+61,61,Không,2011-11-12,Thạc sĩ,2011-11-12,Indonesia,Toán siêu cấp,Khoa Cơ bản,3
+62,62,Không,2016-10-20,Thạc sĩ,2016-10-20,Portugal,Lịch sử Việt Nam,Khoa Lý luận chính trị,7
+63,63,Không,2008-01-09,Tiến sĩ,2008-01-09,China,Lý luận học,Khoa Cơ bản,5
+64,64,Không,2016-07-21,Thạc sĩ,2016-07-21,Brazil,Quản lý giáo dục,Khoa Cơ bản,14
+65,65,Không,2017-07-25,Thạc sĩ,2017-07-25,Mongolia,Văn học Việt Nam,Khoa Cơ bản,2
+66,66,Không,2017-03-23,Thạc sĩ,2017-03-23,Indonesia,Ngôn ngữ Anh,Khoa Ngoại ngữ,5
+67,67,Không,2008-11-02,Thạc sĩ,2008-11-02,United States,Ngôn ngữ Nhật,Khoa Ngoại ngữ,1
+68,68,Phó giáo sư,2009-02-07,Thạc sĩ,2009-02-07,Indonesia,Ngôn ngữ Nhật,Khoa Ngoại ngữ,7
+69,69,Không,2015-06-11,Thạc sĩ,2015-06-11,Indonesia,Toán siêu cấp,Khoa Cơ bản,4
+70,70,Phó giáo sư,2006-09-04,Thạc sĩ,2006-09-04,Indonesia,Ngôn ngữ Nhật,Khoa Ngoại ngữ,12
+71,71,Không,2007-12-08,Thạc sĩ,2007-12-08,United Kingdom,Kinh tế chính trị,Khoa Lý luận chính trị,2
+72,72,Không,2009-01-08,Thạc sĩ,2009-01-08,China,Lý luận học,Khoa Cơ bản,13
+73,73,Không,2006-04-07,Thạc sĩ,2006-04-07,Colombia,Ngôn ngữ Trung,Khoa Ngoại ngữ,4
+74,74,Không,2010-01-27,Thạc sĩ,2010-01-27,Saudi Arabia,Lịch sử Việt Nam,Khoa Lý luận chính trị,5
+75,75,Không,2010-11-25,Thạc sĩ,2010-11-25,Russia,Lịch sử Đảng,Khoa Lý luận chính trị,9
+76,76,Phó giáo sư,2010-07-13,Thạc sĩ,2010-07-13,China,Ngôn ngữ Nhật,Khoa Ngoại ngữ,9
+77,77,Không,2017-08-08,Thạc sĩ,2017-08-08,South Korea,Văn học Việt Nam,Khoa Cơ bản,9
+78,78,Không,2005-10-02,Thạc sĩ,2005-10-02,Philippines,Ngôn ngữ Nhật,Khoa Ngoại ngữ,6
+79,79,Không,2011-09-02,Thạc sĩ,2011-09-02,Nepal,Ngôn ngữ Nhật,Khoa Ngoại ngữ,10
+80,80,Không,2014-01-13,Thạc sĩ,2014-01-13,China,Ngôn ngữ Nhật,Khoa Ngoại ngữ,6
+81,81,Không,2014-04-12,Thạc sĩ,2014-04-12,Russia,Quản lý giáo dục,Khoa Cơ bản,5
+82,82,Không,2011-12-21,Thạc sĩ,2011-12-21,Cuba,Toán siêu cấp,Khoa Cơ bản,6
+83,83,Phó giáo sư,2009-05-10,Thạc sĩ,2009-05-10,Czech Republic,Văn học Việt Nam,Khoa Cơ bản,6
+84,84,Không,2006-01-21,Thạc sĩ,2006-01-21,Somalia,Ngôn ngữ Pháp,Khoa Ngoại ngữ,3
+85,85,Không,2006-06-25,Tiến sĩ,2006-06-25,China,Toán siêu cấp,Khoa Cơ bản,5
+86,86,Không,2015-09-20,Thạc sĩ,2015-09-20,Serbia,Văn học Việt Nam,Khoa Cơ bản,15
+87,87,Không,2012-11-22,Thạc sĩ,2012-11-22,China,Văn học Việt Nam,Khoa Cơ bản,2
+88,88,Phó giáo sư,2014-01-09,Cử nhân,2014-01-09,Portugal,Kinh tế chính trị,Khoa Lý luận chính trị,11
+89,89,Không,2017-09-24,Thạc sĩ,2017-09-24,Ethiopia,Lịch sử Đảng,Khoa Lý luận chính trị,12
+90,90,Không,2011-12-20,Thạc sĩ,2011-12-20,Colombia,Lịch sử Đảng,Khoa Lý luận chính trị,12
+91,91,Không,2006-05-15,Thạc sĩ,2006-05-15,Egypt,Quản lý giáo dục,Khoa Cơ bản,1
+92,92,Không,2010-02-27,Tiến sĩ,2010-02-27,Russia,Kinh tế chính trị,Khoa Lý luận chính trị,8
+93,93,Không,2015-07-12,Thạc sĩ,2015-07-12,Brazil,Ngôn ngữ Nhật,Khoa Ngoại ngữ,11
+94,94,Không,2012-01-03,Thạc sĩ,2012-01-03,Russia,Ngôn ngữ Nhật,Khoa Ngoại ngữ,10
+95,95,Không,2013-11-04,Thạc sĩ,2013-11-04,Kyrgyzstan,Quản lý giáo dục,Khoa Cơ bản,3
+96,96,Không,2014-07-25,Thạc sĩ,2014-07-25,Philippines,Lý luận học,Khoa Cơ bản,10
+97,97,Không,2018-02-10,Thạc sĩ,2018-02-10,China,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,11
+98,98,Phó giáo sư,2010-01-01,Tiến sĩ,2010-01-01,Russia,Ngôn ngữ Anh,Khoa Ngoại ngữ,1
+99,99,Không,2009-11-09,Thạc sĩ,2009-11-09,Thailand,Quản lý giáo dục,Khoa Cơ bản,13
+100,100,Giáo sư,2017-06-11,Cử nhân,2017-06-11,Vietnam,Lý luận học,Khoa Cơ bản,1
+101,101,Không,2012-10-06,Thạc sĩ,2012-10-06,China,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,14
+102,102,Không,2017-03-29,Thạc sĩ,2017-03-29,Costa Rica,Lịch sử Việt Nam,Khoa Lý luận chính trị,2
+103,103,Không,2016-01-12,Cử nhân,2016-01-12,China,Ngôn ngữ Anh,Khoa Ngoại ngữ,9
+104,104,Không,2009-07-05,Thạc sĩ,2009-07-05,Yemen,Lịch sử Việt Nam,Khoa Lý luận chính trị,14
+105,105,Không,2016-09-03,Thạc sĩ,2016-09-03,Poland,Ngôn ngữ Anh,Khoa Ngoại ngữ,7
+106,106,Không,2008-05-25,Thạc sĩ,2008-05-25,China,Kinh tế chính trị,Khoa Lý luận chính trị,8
+107,107,Không,2007-05-18,Thạc sĩ,2007-05-18,Malaysia,Ngôn ngữ Nhật,Khoa Ngoại ngữ,3
+108,108,Không,2015-09-25,Thạc sĩ,2015-09-25,Indonesia,Lịch sử Đảng,Khoa Lý luận chính trị,9
+109,109,Không,2008-03-03,Thạc sĩ,2008-03-03,China,Ngôn ngữ Trung,Khoa Ngoại ngữ,8
+110,110,Không,2007-06-13,Thạc sĩ,2007-06-13,Mozambique,Lịch sử Đảng,Khoa Lý luận chính trị,3
+111,111,Không,2011-02-18,Thạc sĩ,2011-02-18,Peru,Lý luận học,Khoa Cơ bản,11
+112,112,Không,2017-12-16,Thạc sĩ,2017-12-16,Bulgaria,Quản lý giáo dục,Khoa Cơ bản,13
+113,113,Không,2016-01-10,Tiến sĩ,2016-01-10,China,Ngôn ngữ Pháp,Khoa Ngoại ngữ,4
+114,114,Không,2009-06-05,Thạc sĩ,2009-06-05,Brazil,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,4
+115,115,Không,2016-09-21,Thạc sĩ,2016-09-21,France,Kinh tế chính trị,Khoa Lý luận chính trị,8
+116,116,Không,2014-06-20,Cử nhân,2014-06-20,Colombia,Ngôn ngữ Pháp,Khoa Ngoại ngữ,14
+117,117,Không,2017-12-06,Thạc sĩ,2017-12-06,Pakistan,Kinh tế chính trị,Khoa Lý luận chính trị,6
+118,118,Không,2006-02-27,Thạc sĩ,2006-02-27,France,Quản lý giáo dục,Khoa Cơ bản,15
+119,119,Không,2009-07-16,Thạc sĩ,2009-07-16,Indonesia,Ngôn ngữ Anh,Khoa Ngoại ngữ,9
+120,120,Không,2011-12-21,Thạc sĩ,2011-12-21,Nicaragua,Ngôn ngữ Pháp,Khoa Ngoại ngữ,3
+121,121,Không,2013-08-04,Thạc sĩ,2013-08-04,Trinidad and Tobago,Văn học Việt Nam,Khoa Cơ bản,5
+122,122,Không,2016-09-02,Thạc sĩ,2016-09-02,Canada,Quản lý giáo dục,Khoa Cơ bản,14
+123,123,Không,2017-05-06,Thạc sĩ,2017-05-06,France,Văn học Việt Nam,Khoa Cơ bản,9
+124,124,Không,2014-11-16,Thạc sĩ,2014-11-16,Sweden,Ngôn ngữ Trung,Khoa Ngoại ngữ,15
+125,125,Không,2015-05-04,Thạc sĩ,2015-05-04,Equatorial Guinea,Toán siêu cấp,Khoa Cơ bản,3
+126,126,Không,2015-11-09,Tiến sĩ,2015-11-09,Philippines,Quản lý giáo dục,Khoa Cơ bản,8
+127,127,Phó giáo sư,2017-02-12,Thạc sĩ,2017-02-12,Indonesia,Ngôn ngữ Anh,Khoa Ngoại ngữ,14
+128,128,Không,2010-03-15,Cử nhân,2010-03-15,Indonesia,Văn học Việt Nam,Khoa Cơ bản,10
+129,129,Không,2006-01-17,Cử nhân,2006-01-17,Indonesia,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,1
+130,130,Không,2005-12-20,Thạc sĩ,2005-12-20,Uganda,Lý luận học,Khoa Cơ bản,6
+131,131,Không,2012-02-02,Thạc sĩ,2012-02-02,China,Lịch sử Đảng,Khoa Lý luận chính trị,14
+132,132,Không,2006-10-27,Thạc sĩ,2006-10-27,Indonesia,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,4
+133,133,Không,2007-08-05,Tiến sĩ,2007-08-05,Costa Rica,Kinh tế chính trị,Khoa Lý luận chính trị,2
+134,134,Không,2007-02-11,Thạc sĩ,2007-02-11,Kenya,Ngôn ngữ Trung,Khoa Ngoại ngữ,15
+135,135,Không,2006-04-08,Thạc sĩ,2006-04-08,Indonesia,Lý luận học,Khoa Cơ bản,13
+136,136,Không,2014-04-30,Thạc sĩ,2014-04-30,Indonesia,Ngôn ngữ Anh,Khoa Ngoại ngữ,2
+137,137,Không,2017-05-25,Tiến sĩ,2017-05-25,Brazil,Ngôn ngữ Pháp,Khoa Ngoại ngữ,7
+138,138,Không,2007-01-11,Thạc sĩ,2007-01-11,Colombia,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,5
+139,139,Không,2009-09-07,Tiến sĩ,2009-09-07,China,Ngôn ngữ Anh,Khoa Ngoại ngữ,13
+140,140,Không,2014-07-30,Thạc sĩ,2014-07-30,Czech Republic,Kinh tế chính trị,Khoa Lý luận chính trị,2
+141,141,Không,2016-02-14,Thạc sĩ,2016-02-14,Indonesia,Lịch sử Việt Nam,Khoa Lý luận chính trị,15
+142,142,Không,2006-02-23,Tiến sĩ,2006-02-23,Indonesia,Văn học Việt Nam,Khoa Cơ bản,5
+143,143,Không,2010-01-16,Tiến sĩ,2010-01-16,Venezuela,Tư tưởng Hồ Chí Minh,Khoa Lý luận chính trị,11
+144,144,Không,2007-05-22,Thạc sĩ,2007-05-22,Norway,Lý luận học,Khoa Cơ bản,2
+145,145,Không,2013-01-22,Thạc sĩ,2013-01-22,Philippines,Văn học Việt Nam,Khoa Cơ bản,1
+146,146,Không,2013-02-27,Thạc sĩ,2013-02-27,Libya,Lịch sử Đảng,Khoa Lý luận chính trị,12
+147,147,Không,2012-09-08,Thạc sĩ,2012-09-08,China,Văn học Việt Nam,Khoa Cơ bản,13
+148,148,Không,2007-01-09,Thạc sĩ,2007-01-09,France,Lịch sử Việt Nam,Khoa Lý luận chính trị,3
+149,149,Không,2010-03-30,Thạc sĩ,2010-03-30,Philippines,Lý luận học,Khoa Cơ bản,13
+150,150,Không,2010-02-12,Thạc sĩ,2010-02-12,Brazil,Quản lý giáo dục,Khoa Cơ bản,9
+151,151,Không,2012-03-09,Thạc sĩ,2012-03-09,Cambodia,Văn học Việt Nam,Khoa Cơ bản,1
+152,152,Không,2011-05-24,Tiến sĩ,2011-05-24,Japan,Ngôn ngữ Pháp,Khoa Ngoại ngữ,15
+153,153,Không,2005-06-02,Thạc sĩ,2005-06-02,Brazil,Lý luận học,Khoa Cơ bản,12
+154,154,Không,2013-10-04,Thạc sĩ,2013-10-04,Indonesia,Kinh tế chính trị,Khoa Lý luận chính trị,7
+155,155,Không,2017-01-17,Thạc sĩ,2017-01-17,China,Lịch sử Việt Nam,Khoa Lý luận chính trị,8
+156,156,Không,2013-04-22,Thạc sĩ,2013-04-22,Russia,Lý luận học,Khoa Cơ bản,8
+157,157,Không,2013-02-24,Thạc sĩ,2013-02-24,Russia,Ngôn ngữ Trung,Khoa Ngoại ngữ,13
+158,158,Không,2006-06-10,Thạc sĩ,2006-06-10,Sweden,Lịch sử Đảng,Khoa Lý luận chính trị,1
+159,159,Không,2012-10-22,Thạc sĩ,2012-10-22,China,Kinh tế chính trị,Khoa Lý luận chính trị,5
+160,160,Phó giáo sư,2005-11-22,Thạc sĩ,2005-11-22,Poland,Văn học Việt Nam,Khoa Cơ bản,11
+161,161,Không,2013-01-01,Thạc sĩ,2013-01-01,Croatia,Ngôn ngữ Trung,Khoa Ngoại ngữ,1
+162,162,Không,2014-04-28,Tiến sĩ,2014-04-28,Cameroon,Quản lý giáo dục,Khoa Cơ bản,8
+163,163,Không,2007-05-14,Thạc sĩ,2007-05-14,France,Lý luận học,Khoa Cơ bản,12
+164,164,Không,2013-06-29,Thạc sĩ,2013-06-29,China,Ngôn ngữ Nhật,Khoa Ngoại ngữ,7
+165,165,Không,2010-12-08,Thạc sĩ,2010-12-08,Philippines,Ngôn ngữ Nhật,Khoa Ngoại ngữ,2
+166,166,Không,2011-10-25,Thạc sĩ,2011-10-25,Philippines,Ngôn ngữ Nhật,Khoa Ngoại ngữ,4
+167,167,Phó giáo sư,2010-06-15,Thạc sĩ,2010-06-15,China,Văn học Việt Nam,Khoa Cơ bản,1
+168,168,Không,2013-10-21,Thạc sĩ,2013-10-21,Libya,Văn học Việt Nam,Khoa Cơ bản,14

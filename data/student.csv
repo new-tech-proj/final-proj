@@ -1,0 +1,2162 @@
+mssv,student_name,class_name,edu_mail,national_id,address_id
+19333301,Nguyễn Thanh An,KHDL15A,an.19333301@student.iuh.edu.vn,712660055,21
+19333311,Thái Nữ Bình An,HTTT15A,an.19333311@student.iuh.edu.vn,971121231,203
+19333321,Trần Thị Mỹ An,HTTT15B,an.19333321@student.iuh.edu.vn,570468448,171
+19333331,Bùi Thị Nguyên Anh,HTTT15A,anh.19333331@student.iuh.edu.vn,559000364,44
+19333341,Châu Ngọc Thạch Anh,KTPM15B,anh.19333341@student.iuh.edu.vn,982742968,132
+19333351,Chu Thị Phương Anh,HTTT15C,anh.19333351@student.iuh.edu.vn,524308568,129
+19333361,Dương Mỹ Anh,HTTT15A,anh.19333361@student.iuh.edu.vn,263673258,172
+19333371,Đinh Thị Bích Anh,KHMT15A,anh.19333371@student.iuh.edu.vn,366941373,65
+19333381,Đỗ Thị Yến Anh,HTTT15B,anh.19333381@student.iuh.edu.vn,531606788,62
+19333391,Lê Kim Anh,KTPM15A,anh.19333391@student.iuh.edu.vn,637554297,73
+19333401,Lê Mai Hoàng Anh,HTTT15A,anh.19333401@student.iuh.edu.vn,237380986,254
+19333411,Lê Ngọc Anh,KTPM15B,anh.19333411@student.iuh.edu.vn,742277911,230
+19333421,Lê Thanh Vân Anh,KHMT15A,anh.19333421@student.iuh.edu.vn,924930277,75
+19333431,Lê Thị Anh,KHMT15A,anh.19333431@student.iuh.edu.vn,890857530,253
+19333441,Lê Thị Lan Anh,HTTT15A,anh.19333441@student.iuh.edu.vn,343761087,106
+19333451,Lê Thị Ngọc Anh,HTTT15A,anh.19333451@student.iuh.edu.vn,762456072,72
+19333461,Ngô Thị Thi Anh,HTTT15C,anh.19333461@student.iuh.edu.vn,642481915,62
+19333471,Nguyễn Phạm Thùy Anh,KHMT15A,anh.19333471@student.iuh.edu.vn,487382977,41
+19333481,Nguyễn Thị Lan Anh,HTTT15B,anh.19333481@student.iuh.edu.vn,927255582,170
+19333491,Nguyễn Thị Ngọc Anh,HTTT15C,anh.19333491@student.iuh.edu.vn,642650161,56
+19333501,Nguyễn Thị Quang Anh,KTPM15A,anh.19333501@student.iuh.edu.vn,708600950,261
+19333511,Nguyễn Thị Quang Anh,KTPM15A,anh.19333511@student.iuh.edu.vn,907001874,292
+19333521,Nguyễn Thị Tú Anh,HTTT15C,anh.19333521@student.iuh.edu.vn,972584073,137
+19333531,Phạm Ngọc Anh,KHDL15A,anh.19333531@student.iuh.edu.vn,502163788,89
+19333541,Phan Thị Hà Anh,KHDL15B,anh.19333541@student.iuh.edu.vn,943552075,112
+19333551,Phan Thị Minh Anh,KHDL15B,anh.19333551@student.iuh.edu.vn,226434342,146
+19333561,Trần Thị Hồng Anh,HTTT15C,anh.19333561@student.iuh.edu.vn,545325589,234
+19333571,Trần Thị Hồng Anh,KHDL15B,anh.19333571@student.iuh.edu.vn,626736452,11
+19333581,Trần Thị Quỳnh Anh,KTPM15B,anh.19333581@student.iuh.edu.vn,937696859,141
+19333591,Trương Thị Kiều Anh,KTPM15B,anh.19333591@student.iuh.edu.vn,768320935,44
+19333601,Lê Thị Ngọc Ánh,KTPM15A,anh.19333601@student.iuh.edu.vn,380654986,233
+19333611,Lê Thị Ngọc Ánh,HTTT15C,anh.19333611@student.iuh.edu.vn,342805066,188
+19333621,Nguyễn Thị Ngọc Ánh,KHMT15B,anh.19333621@student.iuh.edu.vn,256006515,297
+19333631,Phạm Thị Ngọc Ánh,KHMT15B,anh.19333631@student.iuh.edu.vn,624628193,51
+19333641,Thái Thùy Ân,KTPM15A,an.19333641@student.iuh.edu.vn,272105377,104
+19333651,Hồ Thị Bé,KHDL15A,be.19333651@student.iuh.edu.vn,379209974,213
+19333661,Đỗ Văn Biển,HTTT15B,bien.19333661@student.iuh.edu.vn,880596945,279
+19333671,Lê Ngọc Bình,HTTT15A,binh.19333671@student.iuh.edu.vn,891073010,134
+19333681,Phan Ngọc Thanh Bình,KHMT15B,binh.19333681@student.iuh.edu.vn,393061492,162
+19333691,Kiều Bích,KTPM15B,bich.19333691@student.iuh.edu.vn,258916989,177
+19333701,Nguyễn Thị Ngọc Bích,KHDL15B,bich.19333701@student.iuh.edu.vn,848273685,100
+19333711,Hoàng Lê Nhã Ca,KTPM15A,ca.19333711@student.iuh.edu.vn,511149315,296
+19333721,Dương Hoàng Lâm Châu,KTPM15B,chau.19333721@student.iuh.edu.vn,485728579,106
+19333731,Nguyễn Thị Minh Châu,HTTT15C,chau.19333731@student.iuh.edu.vn,655975826,73
+19333741,Trần Thị Phúc Châu,HTTT15B,chau.19333741@student.iuh.edu.vn,652585413,158
+19333751,Đặng Thị Kim Chi,HTTT15B,chi.19333751@student.iuh.edu.vn,287775806,273
+19333761,Hồ Khánh Chi,HTTT15C,chi.19333761@student.iuh.edu.vn,396031967,163
+19333771,Hồ Khánh Chi,HTTT15B,chi.19333771@student.iuh.edu.vn,266882070,49
+19333781,Trần Song Linh Chi,KHDL15B,chi.19333781@student.iuh.edu.vn,739414970,37
+19333791,Trần Thị Cẩm Chi,HTTT15B,chi.19333791@student.iuh.edu.vn,311700271,152
+19333801,Trịnh Thị Chi,HTTT15A,chi.19333801@student.iuh.edu.vn,656978132,150
+19333811,Ông Bảo Anh Chiêu,HTTT15A,chieu.19333811@student.iuh.edu.vn,383151413,130
+19333821,Văn Thị Chí,KHDL15A,chi.19333821@student.iuh.edu.vn,889304272,166
+19333831,Cao Thị Chung,KHDL15B,chung.19333831@student.iuh.edu.vn,259929006,167
+19333841,Hoàng Đức Chung,HTTT15A,chung.19333841@student.iuh.edu.vn,450377657,126
+19333851,Nguyễn Quốc Dân,KTPM15A,dan.19333851@student.iuh.edu.vn,918223977,20
+19333861,Nguyễn Thị Mỹ Dân,HTTT15A,dan.19333861@student.iuh.edu.vn,490214973,275
+19333871,Hồ Thị Diễm,KHDL15B,diem.19333871@student.iuh.edu.vn,910206457,146
+19333881,Nguyễn Thị Diễm,HTTT15C,diem.19333881@student.iuh.edu.vn,688421545,53
+19333891,Nguyễn Thị Phương Diễm,HTTT15A,diem.19333891@student.iuh.edu.vn,783373634,281
+19333901,Trần Thị Diễm,HTTT15B,diem.19333901@student.iuh.edu.vn,263788306,274
+19333911,Trần Thị Mỹ Diễm,HTTT15B,diem.19333911@student.iuh.edu.vn,515295892,278
+19333921,Đoàn Nhật Dương,HTTT15C,duong.19333921@student.iuh.edu.vn,507003049,132
+19333931,Đoàn Nhật Dương,HTTT15B,duong.19333931@student.iuh.edu.vn,695151476,9
+19333941,Đoàn Thị Thùy Dương,KTPM15A,duong.19333941@student.iuh.edu.vn,940447535,294
+19333951,Nguyễn Thùy Dương,KHMT15A,duong.19333951@student.iuh.edu.vn,943666311,296
+19333961,Bùi Phương Dung,HTTT15A,dung.19333961@student.iuh.edu.vn,391239638,150
+19333971,Cao Thị Khánh Dung,HTTT15C,dung.19333971@student.iuh.edu.vn,337341852,113
+19333981,Hoàng Phương Dung,HTTT15C,dung.19333981@student.iuh.edu.vn,944285234,273
+19333991,Lê Thị Thuỳ Dung,KTPM15A,dung.19333991@student.iuh.edu.vn,328156062,171
+19334001,Ngô Tuấn Phương Dung,HTTT15C,dung.19334001@student.iuh.edu.vn,824333178,42
+19334011,Nguyễn Phạm Ngọc Dung,KHMT15B,dung.19334011@student.iuh.edu.vn,834565429,10
+19334021,Nguyễn Thị Dung,HTTT15B,dung.19334021@student.iuh.edu.vn,987315541,94
+19334031,Nguyễn Thị Dung,HTTT15B,dung.19334031@student.iuh.edu.vn,347222059,67
+19334041,Nguyễn Thị Minh Dung,KHDL15B,dung.19334041@student.iuh.edu.vn,592625052,75
+19334051,Nguyễn Thị Thùy Dung,KTPM15A,dung.19334051@student.iuh.edu.vn,890465970,4
+19334061,Nguyễn Trần Thùy Dung,HTTT15A,dung.19334061@student.iuh.edu.vn,971901811,60
+19334071,Ông Phước Thiên Dung,HTTT15A,dung.19334071@student.iuh.edu.vn,925964599,43
+19334081,Phạm Thị Mỹ Dung,KTPM15B,dung.19334081@student.iuh.edu.vn,426145205,37
+19334091,Phan Quế Dung,KHDL15B,dung.19334091@student.iuh.edu.vn,472792008,101
+19334101,Trần Thị Ngọc Dung,HTTT15B,dung.19334101@student.iuh.edu.vn,597255739,50
+19334111,Trương Thị Lan Dung,HTTT15B,dung.19334111@student.iuh.edu.vn,301925569,233
+19334121,Văn Thị Hoài Dung,KHMT15A,dung.19334121@student.iuh.edu.vn,603761996,273
+19334131,Vũ Thị Kim Dung,HTTT15C,dung.19334131@student.iuh.edu.vn,850849763,285
+19334141,Lê Quốc Duy,KHMT15A,duy.19334141@student.iuh.edu.vn,425949668,85
+19334151,Nguyễn Long Duy,KHMT15A,duy.19334151@student.iuh.edu.vn,752075763,135
+19334161,Nguyễn Tấn Duy,KHDL15B,duy.19334161@student.iuh.edu.vn,791917161,112
+19334171,Nguyễn Thị Khánh Duy,HTTT15B,duy.19334171@student.iuh.edu.vn,987461609,256
+19334181,Nguyễn Thị Khánh Duy,HTTT15C,duy.19334181@student.iuh.edu.vn,257851309,119
+19334191,Lê Thị Mỹ Duyên,KTPM15B,duyen.19334191@student.iuh.edu.vn,998352505,91
+19334201,Lương Thị Mỹ Duyên,HTTT15A,duyen.19334201@student.iuh.edu.vn,636383192,211
+19334211,Lương Thị Mỹ Duyên,KTPM15B,duyen.19334211@student.iuh.edu.vn,784283594,141
+19334221,Lương Thị Mỹ Duyên,HTTT15B,duyen.19334221@student.iuh.edu.vn,939573384,263
+19334231,Lương Thị Mỹ Duyên,KHMT15A,duyen.19334231@student.iuh.edu.vn,693311407,2
+19334241,Ngô Thị Cẩm Duyên,KHMT15B,duyen.19334241@student.iuh.edu.vn,502299323,116
+19334251,Nguyễn Cửu Thị Mỹ Duyên,KHMT15B,duyen.19334251@student.iuh.edu.vn,503119374,156
+19334261,Nguyễn Thị Duyên,HTTT15B,duyen.19334261@student.iuh.edu.vn,616141078,99
+19334271,Trần Mỹ Duyên,KHMT15A,duyen.19334271@student.iuh.edu.vn,913041867,79
+19334281,Lê Thành Đạt,KTPM15B,dat.19334281@student.iuh.edu.vn,428528772,29
+19334291,Nguyễn Hoàng Thanh Đà,HTTT15B,da.19334291@student.iuh.edu.vn,662740246,152
+19334301,Nguyễn Thị Đào,HTTT15B,dao.19334301@student.iuh.edu.vn,971940772,68
+19334311,Huỳnh Bá Đẩu,HTTT15B,dau.19334311@student.iuh.edu.vn,303112149,116
+19334321,Lê Hồng Điệp,HTTT15A,diep.19334321@student.iuh.edu.vn,459754741,260
+19334331,Phạm Thị Ngọc Điệp,HTTT15B,diep.19334331@student.iuh.edu.vn,641449668,15
+19334341,Huỳnh Thị Phương Đông,HTTT15A,dong.19334341@student.iuh.edu.vn,581712402,138
+19334351,Lê Thị Thu Đông,HTTT15C,dong.19334351@student.iuh.edu.vn,359303828,264
+19334361,Nguyễn Vân Quỳnh Đoan,KHMT15A,doan.19334361@student.iuh.edu.vn,426511509,8
+19334371,Trần Thị Hạ Đoan,KTPM15B,doan.19334371@student.iuh.edu.vn,654716460,63
+19334381,Trương Minh Đức,KTPM15B,duc.19334381@student.iuh.edu.vn,601365626,263
+19334391,Ung Nho Đức,HTTT15A,duc.19334391@student.iuh.edu.vn,524963484,96
+19334401,Lê Thị Hồng Gấm,KHMT15A,gam.19334401@student.iuh.edu.vn,955503715,123
+19334411,Hồ Thu Giang,KTPM15B,giang.19334411@student.iuh.edu.vn,984460341,226
+19334421,Lê Thị Hương Giang,HTTT15A,giang.19334421@student.iuh.edu.vn,761172815,117
+19334431,Nguyễn Châu Giang,KTPM15A,giang.19334431@student.iuh.edu.vn,555598667,48
+19334441,Trương Thị Giang,KHMT15B,giang.19334441@student.iuh.edu.vn,927309581,156
+19334451,Lê Huỳnh Phương Giao,KHDL15A,giao.19334451@student.iuh.edu.vn,924104436,247
+19334461,Phan Quỳnh Giao,KHDL15A,giao.19334461@student.iuh.edu.vn,748681092,18
+19334471,Phan Quỳnh Giao,HTTT15A,giao.19334471@student.iuh.edu.vn,665409490,80
+19334481,Tạ Nguyễn Quỳnh Giao,HTTT15A,giao.19334481@student.iuh.edu.vn,284521607,63
+19334491,Tạ Nguyễn Quỳnh Giao,HTTT15A,giao.19334491@student.iuh.edu.vn,920330823,268
+19334501,Tạ Nguyễn Quỳnh Giao,KHDL15A,giao.19334501@student.iuh.edu.vn,831541408,189
+19334511,Tạ Nguyễn Quỳnh Giao,KTPM15A,giao.19334511@student.iuh.edu.vn,717374196,116
+19334521,Nguyễn Thị Hạ,HTTT15A,ha.19334521@student.iuh.edu.vn,839087315,221
+19334531,Phạm Nguyễn Nhật Hạ,KHDL15A,ha.19334531@student.iuh.edu.vn,713346889,120
+19334541,Phạm Nguyễn Nhật Hạ,HTTT15B,ha.19334541@student.iuh.edu.vn,529947086,125
+19334551,Bùi Thị Mỹ Hạnh,KTPM15B,hanh.19334551@student.iuh.edu.vn,527020071,99
+19334561,Hồ Hoàng Ngọc Hạnh,KHMT15A,hanh.19334561@student.iuh.edu.vn,426244271,21
+19334571,Nguyễn Ngọc Hạnh,KHDL15A,hanh.19334571@student.iuh.edu.vn,984015784,5
+19334581,Nguyễn Thị Hạnh,KHMT15A,hanh.19334581@student.iuh.edu.vn,705511942,295
+19334591,Nguyễn Thị Hồng Hạnh,HTTT15B,hanh.19334591@student.iuh.edu.vn,437159272,218
+19334601,Nguyễn Thị Mỹ Hạnh,KTPM15B,hanh.19334601@student.iuh.edu.vn,420171706,241
+19334611,Đào Thị Hằng,HTTT15A,hang.19334611@student.iuh.edu.vn,680428534,274
+19334621,Đào Thị Hằng,HTTT15C,hang.19334621@student.iuh.edu.vn,231801089,30
+19334631,Hoàng Thúy Hằng,HTTT15A,hang.19334631@student.iuh.edu.vn,974068542,102
+19334641,Hoàng Thúy Hằng,KHDL15B,hang.19334641@student.iuh.edu.vn,448723866,33
+19334651,Lê Thị Thúy Hằng,KTPM15B,hang.19334651@student.iuh.edu.vn,452238115,214
+19334661,Lê Thuý Hằng,HTTT15B,hang.19334661@student.iuh.edu.vn,946493203,202
+19334671,Nguyễn Thị Thu Hằng,HTTT15A,hang.19334671@student.iuh.edu.vn,862577490,243
+19334681,Lê Thị Hà,HTTT15C,ha.19334681@student.iuh.edu.vn,474723983,8
+19334691,Nguyễn Thị Bảo Hà,HTTT15B,ha.19334691@student.iuh.edu.vn,688827303,6
+19334701,Nguyễn Thị Ngân Hà,KTPM15B,ha.19334701@student.iuh.edu.vn,769198964,161
+19334711,Nguyễn Thị Ngân Hà,KHDL15A,ha.19334711@student.iuh.edu.vn,935303433,260
+19334721,Nguyễn Thị Ngọc Hà,HTTT15A,ha.19334721@student.iuh.edu.vn,705126340,36
+19334731,Phạm Ngọc Hà,HTTT15A,ha.19334731@student.iuh.edu.vn,741689770,135
+19334741,Trần Diệu Hà,HTTT15C,ha.19334741@student.iuh.edu.vn,329820431,163
+19334751,Xa Doãn Hồng Hà,KTPM15B,ha.19334751@student.iuh.edu.vn,770343543,152
+19334761,Nguyễn Thị Hậu,KHDL15A,hau.19334761@student.iuh.edu.vn,395417613,81
+19334771,Bùi Thị Minh Hiền,KHDL15A,hien.19334771@student.iuh.edu.vn,368744543,207
+19334781,Nguyễn Thị Hiền,HTTT15A,hien.19334781@student.iuh.edu.vn,254865668,124
+19334791,Phan Thị Hiền,KTPM15A,hien.19334791@student.iuh.edu.vn,524360912,152
+19334801,Trần Thị Thu Hiền,KTPM15A,hien.19334801@student.iuh.edu.vn,301431778,262
+19334811,Trương Thị Sĩ Hiền,KHMT15B,hien.19334811@student.iuh.edu.vn,331016498,259
+19334821,Trần Bình Hiển,KHMT15A,hien.19334821@student.iuh.edu.vn,298812212,266
+19334831,Nguyễn Đạt Trọng Hiếu,KTPM15B,hieu.19334831@student.iuh.edu.vn,978049051,69
+19334841,Trần Thị Hiếu,HTTT15A,hieu.19334841@student.iuh.edu.vn,643587480,285
+19334851,Đỗ Thị Thu Hồng,HTTT15B,hong.19334851@student.iuh.edu.vn,258171583,269
+19334861,Đỗ Thị Thu Hồng,KHMT15A,hong.19334861@student.iuh.edu.vn,663777741,266
+19334871,Nguyễn Thị Hồng,KHDL15A,hong.19334871@student.iuh.edu.vn,984682180,88
+19334881,Nguyễn Thị Thu Hồng,HTTT15A,hong.19334881@student.iuh.edu.vn,261685338,137
+19334891,Phan Thị Hồng,HTTT15B,hong.19334891@student.iuh.edu.vn,968561753,35
+19334901,Cao Thị Hoa,HTTT15C,hoa.19334901@student.iuh.edu.vn,314682756,65
+19334911,Cao Thị Hoa,KHMT15A,hoa.19334911@student.iuh.edu.vn,905051505,176
+19334921,Đoàn Ngọc Thanh Hoa,HTTT15B,hoa.19334921@student.iuh.edu.vn,862848662,292
+19334931,Nguyễn Thị Ngọc Hoa,KTPM15A,hoa.19334931@student.iuh.edu.vn,361951963,202
+19334941,Bùi Thị Minh Hoài,KTPM15A,hoai.19334941@student.iuh.edu.vn,988953664,77
+19334951,Hoàng Thị Hoàn,HTTT15B,hoan.19334951@student.iuh.edu.vn,901640043,193
+19334961,Đinh Ngọc Hoàng,HTTT15B,hoang.19334961@student.iuh.edu.vn,325448309,96
+19334971,Hồ Thị Hoàng,KHMT15B,hoang.19334971@student.iuh.edu.vn,854806599,245
+19334981,Nguyễn Viết Hoàng,KHDL15B,hoang.19334981@student.iuh.edu.vn,810578473,54
+19334991,Phan Thị Kim Hoàng,KTPM15A,hoang.19334991@student.iuh.edu.vn,665946928,50
+19335001,Lê Vũ Khánh Hòa,HTTT15C,hoa.19335001@student.iuh.edu.vn,583066302,36
+19335011,Luyện Việt Hòa,HTTT15C,hoa.19335011@student.iuh.edu.vn,375100514,172
+19335021,Nguyễn Thị Hiền Hòa,KHMT15A,hoa.19335021@student.iuh.edu.vn,445593437,140
+19335031,Đinh Minh Hóa,KHDL15A,hoa.19335031@student.iuh.edu.vn,587794008,287
+19335041,Nguyễn Ngọc Hưng,KHMT15A,hung.19335041@student.iuh.edu.vn,442152765,20
+19335051,Nguyễn Văn Hưng,KHMT15B,hung.19335051@student.iuh.edu.vn,856702065,2
+19335061,Nguyễn Văn Hưng,HTTT15B,hung.19335061@student.iuh.edu.vn,553615881,37
+19335071,Bùi Thị Hương,HTTT15C,huong.19335071@student.iuh.edu.vn,955424212,158
+19335081,Đặng Phạm Lan Hương,KTPM15B,huong.19335081@student.iuh.edu.vn,394504750,197
+19335091,Đỗ Thị Hương,HTTT15A,huong.19335091@student.iuh.edu.vn,565079536,238
+19335101,Mai Thị Hương,HTTT15B,huong.19335101@student.iuh.edu.vn,321339834,10
+19335111,Nguyễn Lan Hương,KHMT15A,huong.19335111@student.iuh.edu.vn,381704128,298
+19335121,Nguyễn Thị Hương,KHMT15B,huong.19335121@student.iuh.edu.vn,381775447,285
+19335131,Nguyễn Thị Thúy Hương,KHMT15A,huong.19335131@student.iuh.edu.vn,469398960,7
+19335141,Phạm Thị Mai Hương,HTTT15B,huong.19335141@student.iuh.edu.vn,599408043,138
+19335151,Phan Thị Hương,HTTT15B,huong.19335151@student.iuh.edu.vn,936475917,173
+19335161,Đào Thị Hường,KTPM15B,huong.19335161@student.iuh.edu.vn,866389167,62
+19335171,Nguyễn Hữu Thu Hường,KHDL15A,huong.19335171@student.iuh.edu.vn,500572647,100
+19335181,Nguyễn Thị Hường,HTTT15B,huong.19335181@student.iuh.edu.vn,783629587,240
+19335191,Trương Thị Hường,KHMT15B,huong.19335191@student.iuh.edu.vn,518213174,242
+19335201,Lê Thị Huệ,HTTT15C,hue.19335201@student.iuh.edu.vn,496018608,49
+19335211,Nguyễn Thị Huệ,HTTT15B,hue.19335211@student.iuh.edu.vn,987524769,204
+19335221,Nguyễn Thị Bích Huệ,HTTT15C,hue.19335221@student.iuh.edu.vn,690897699,203
+19335231,Trần Thị Huệ,HTTT15C,hue.19335231@student.iuh.edu.vn,873028944,202
+19335241,Huỳnh Trương Huy,KHDL15A,huy.19335241@student.iuh.edu.vn,968262999,134
+19335251,Nguyễn Dương Ánh Huy,KHMT15B,huy.19335251@student.iuh.edu.vn,510553271,108
+19335261,Võ Quang Đức Huy,KTPM15A,huy.19335261@student.iuh.edu.vn,416624061,150
+19335271,Đoàn Thị Thu Huyền,KTPM15B,huyen.19335271@student.iuh.edu.vn,280459818,127
+19335281,Nguyễn Thanh Huyền,HTTT15C,huyen.19335281@student.iuh.edu.vn,545090992,140
+19335291,Nguyễn Thị Huyền,KHDL15A,huyen.19335291@student.iuh.edu.vn,316983695,13
+19335301,Nguyễn Thị Mỹ Huyền,KHDL15A,huyen.19335301@student.iuh.edu.vn,709456929,97
+19335311,Nguyễn Thị Diễm Huỳnh,HTTT15B,huynh.19335311@student.iuh.edu.vn,330111158,82
+19335321,Nguyễn Thị Hồng Khánh,KHDL15B,khanh.19335321@student.iuh.edu.vn,450313670,58
+19335331,Nguyễn Thị Khỏe,KHDL15B,khoe.19335331@student.iuh.edu.vn,569838724,65
+19335341,Lê Thị Khuyên,KHDL15A,khuyen.19335341@student.iuh.edu.vn,518829855,291
+19335351,Nguyễn Thị Kim Khuyên,HTTT15B,khuyen.19335351@student.iuh.edu.vn,242422673,80
+19335361,Phan Ngọc Vành Khuyên,HTTT15B,khuyen.19335361@student.iuh.edu.vn,900091998,29
+19335371,Đặng Thị Kiều,KHDL15A,kieu.19335371@student.iuh.edu.vn,686584504,183
+19335381,Nguyễn Thị Oanh Kiều,KHMT15A,kieu.19335381@student.iuh.edu.vn,887757891,219
+19335391,Trần Thị Ngọc Kiều,HTTT15B,kieu.19335391@student.iuh.edu.vn,976258191,279
+19335401,Phan Chí Kiên,HTTT15B,kien.19335401@student.iuh.edu.vn,330950720,35
+19335411,Lê Minh Kiệt,HTTT15A,kiet.19335411@student.iuh.edu.vn,565025732,43
+19335421,Ngô Yên Lam,KHMT15B,lam.19335421@student.iuh.edu.vn,475858825,290
+19335431,Nguyễn Thanh Lam,HTTT15A,lam.19335431@student.iuh.edu.vn,643283496,281
+19335441,Lê Thị Hồng Lan,KHMT15B,lan.19335441@student.iuh.edu.vn,277296376,135
+19335451,Phạm Thị Lan,HTTT15C,lan.19335451@student.iuh.edu.vn,235040399,221
+19335461,Văn Thị Lang,HTTT15B,lang.19335461@student.iuh.edu.vn,428963628,241
+19335471,Nguyễn Thị Ánh Lài,KTPM15B,lai.19335471@student.iuh.edu.vn,803535206,188
+19335481,Nguyễn Thị Lập,KHMT15B,lap.19335481@student.iuh.edu.vn,779028658,126
+19335491,Trần Thị Hoài Lê,KHDL15B,le.19335491@student.iuh.edu.vn,725955992,108
+19335501,Lương Thị Lịch,KTPM15A,lich.19335501@student.iuh.edu.vn,861923683,296
+19335511,Đặng Thị Liền,KTPM15B,lien.19335511@student.iuh.edu.vn,869852745,22
+19335521,Nguyễn Thị Hồng Liên,HTTT15A,lien.19335521@student.iuh.edu.vn,754282631,62
+19335531,Phạm Thị Ngọc Liên,KHMT15B,lien.19335531@student.iuh.edu.vn,699405310,81
+19335541,Trần Hồng Liên,HTTT15A,lien.19335541@student.iuh.edu.vn,227579143,231
+19335551,Trần Thị Hồng Liên,KTPM15A,lien.19335551@student.iuh.edu.vn,796093164,229
+19335561,Võ Thị Kim Liên,KTPM15A,lien.19335561@student.iuh.edu.vn,921137663,72
+19335571,Hoàng Thị Thu Liểu,KTPM15A,lieu.19335571@student.iuh.edu.vn,738929223,276
+19335581,Dương Thị Hoàng Linh,HTTT15C,linh.19335581@student.iuh.edu.vn,831966977,27
+19335591,Đỗ Thị Mỹ Linh,HTTT15B,linh.19335591@student.iuh.edu.vn,576993047,28
+19335601,Lê Hoàng Khánh Linh,HTTT15B,linh.19335601@student.iuh.edu.vn,907823660,199
+19335611,Ngô Lê Khánh Linh,HTTT15A,linh.19335611@student.iuh.edu.vn,627042032,79
+19335621,Nguyễn Đoàn Mai Linh,KHDL15B,linh.19335621@student.iuh.edu.vn,700599648,126
+19335631,Nguyễn Thị Diệu Linh,HTTT15A,linh.19335631@student.iuh.edu.vn,429683255,182
+19335641,Nguyễn Thị Thùy Linh,HTTT15A,linh.19335641@student.iuh.edu.vn,920398281,270
+19335651,Tống Phương Linh,HTTT15A,linh.19335651@student.iuh.edu.vn,811866053,193
+19335661,Trần Thị Diệu Linh,KTPM15B,linh.19335661@student.iuh.edu.vn,734347250,59
+19335671,Trương Nguyễn Thùy Linh,KHDL15A,linh.19335671@student.iuh.edu.vn,970334896,26
+19335681,Võ Hà Khánh Linh,KHMT15A,linh.19335681@student.iuh.edu.vn,714225896,115
+19335691,Huỳnh Thị Bích Loan,HTTT15B,loan.19335691@student.iuh.edu.vn,541536879,108
+19335701,Huỳnh Thị Bích Loan,KHMT15B,loan.19335701@student.iuh.edu.vn,648719520,163
+19335711,Nguyễn Thị Loan,HTTT15B,loan.19335711@student.iuh.edu.vn,475411572,188
+19335721,Tô Thị Ngọc Loan,KHMT15A,loan.19335721@student.iuh.edu.vn,443437217,151
+19335731,Nguyễn Bình Phương Lộc,HTTT15B,loc.19335731@student.iuh.edu.vn,721250498,174
+19335741,Lê Thùy Lưu,HTTT15B,luu.19335741@student.iuh.edu.vn,883854746,105
+19335751,Lê Thị Lưu Luyến,HTTT15B,luyen.19335751@student.iuh.edu.vn,606908188,70
+19335761,Lê Thị Lữ,HTTT15C,lu.19335761@student.iuh.edu.vn,649457082,148
+19335771,Nguyễn Thị Thảo Lựu,KTPM15A,luu.19335771@student.iuh.edu.vn,836918700,160
+19335781,Lê Hoàng Ly,KTPM15A,ly.19335781@student.iuh.edu.vn,731587885,276
+19335791,Nguyễn Hoàng Ly,KTPM15B,ly.19335791@student.iuh.edu.vn,329649627,91
+19335801,Lê Thị Lý,KHMT15A,ly.19335801@student.iuh.edu.vn,937453515,119
+19335811,Trần Thị Thiên Lý,KTPM15A,ly.19335811@student.iuh.edu.vn,709892321,46
+19335821,Đặng Thị Tuyết Mai,KTPM15A,mai.19335821@student.iuh.edu.vn,598333315,48
+19335831,Đặng Thị Tuyết Mai,KHMT15B,mai.19335831@student.iuh.edu.vn,750132089,37
+19335841,Đoàn Thị Mai,HTTT15B,mai.19335841@student.iuh.edu.vn,742506608,13
+19335851,Hồ Thị Xuân Mai,KHDL15B,mai.19335851@student.iuh.edu.vn,763857793,121
+19335861,Huỳnh Ngọc Hoàng Mai,KHDL15A,mai.19335861@student.iuh.edu.vn,775111924,231
+19335871,Nguyễn Thị Bích Mai,HTTT15A,mai.19335871@student.iuh.edu.vn,931576242,158
+19335881,Nguyễn Thị Ngọc Mai,HTTT15A,mai.19335881@student.iuh.edu.vn,353178748,83
+19335891,Nguyễn Thị Sao Mai,HTTT15A,mai.19335891@student.iuh.edu.vn,949346474,12
+19335901,Nguyễn Thị Thanh Mai,HTTT15B,mai.19335901@student.iuh.edu.vn,716189591,277
+19335911,Nguyễn Thị Hoài Mi,KTPM15B,mi.19335911@student.iuh.edu.vn,687815231,17
+19335921,Song Kyoung Mi,HTTT15C,mi.19335921@student.iuh.edu.vn,848830207,154
+19335931,Đào Gia Uyên Minh,KHMT15B,minh.19335931@student.iuh.edu.vn,944374816,11
+19335941,Nguyễn Trương Thiên Minh,KHMT15A,minh.19335941@student.iuh.edu.vn,391726197,267
+19335951,Dương Thị Trà My,KHMT15B,my.19335951@student.iuh.edu.vn,342736096,61
+19335961,Phạm Gia My,KTPM15B,my.19335961@student.iuh.edu.vn,244132704,297
+19335971,Tống Nữ Dạ My,HTTT15C,my.19335971@student.iuh.edu.vn,908493845,70
+19335981,Trần Nguyễn Trà My,KHDL15B,my.19335981@student.iuh.edu.vn,990932380,145
+19335991,Võ Thị Diệu My,KHMT15B,my.19335991@student.iuh.edu.vn,640470009,293
+19336001,Lê Thị Mỹ,HTTT15A,my.19336001@student.iuh.edu.vn,903978282,226
+19336011,Lưu Thị Thùy Mỹ,KTPM15A,my.19336011@student.iuh.edu.vn,536300457,228
+19336021,Nguyễn Thị Ly Na,KTPM15A,na.19336021@student.iuh.edu.vn,752591744,272
+19336031,Quách Thị Ly Na,HTTT15B,na.19336031@student.iuh.edu.vn,629914154,250
+19336041,Trần Lê Phương Na,KHMT15B,na.19336041@student.iuh.edu.vn,877268154,162
+19336051,Nguyễn Tiến Nam,KTPM15A,nam.19336051@student.iuh.edu.vn,728186781,161
+19336061,Cao Thị Tố Nga,KTPM15A,nga.19336061@student.iuh.edu.vn,856655472,146
+19336071,Đinh Thị Quỳnh Nga,HTTT15B,nga.19336071@student.iuh.edu.vn,930861073,278
+19336081,Lương Thị Thuý Nga,HTTT15A,nga.19336081@student.iuh.edu.vn,965461947,223
+19336091,Nguyễn Thị Nga,HTTT15A,nga.19336091@student.iuh.edu.vn,585532513,180
+19336101,Nguyễn Thị Mỹ Nga,KHDL15B,nga.19336101@student.iuh.edu.vn,301924819,285
+19336111,Nguyễn Thị Thiên Nga,HTTT15A,nga.19336111@student.iuh.edu.vn,449661964,224
+19336121,Trần Thị Nga,KHMT15A,nga.19336121@student.iuh.edu.vn,980203777,139
+19336131,Đặng Trần Mỹ Ngà,KHDL15A,nga.19336131@student.iuh.edu.vn,889885189,299
+19336141,Võ Thị Ngà,HTTT15B,nga.19336141@student.iuh.edu.vn,712708520,260
+19336151,Nguyễn Thị Ngãi,HTTT15A,ngai.19336151@student.iuh.edu.vn,521046879,252
+19336161,Đặng Nguyễn Kim Ngân,KTPM15B,ngan.19336161@student.iuh.edu.vn,652471313,87
+19336171,Hoàng Thị Kim Ngân,HTTT15B,ngan.19336171@student.iuh.edu.vn,690351235,150
+19336181,Huỳnh Hiếu Ngân,KHDL15B,ngan.19336181@student.iuh.edu.vn,530903232,240
+19336191,Nguyễn Thị Kim Ngân,HTTT15B,ngan.19336191@student.iuh.edu.vn,338990725,79
+19336201,Phạm Thị Kim Ngân,HTTT15A,ngan.19336201@student.iuh.edu.vn,631865329,72
+19336211,Phan Tuyết Ngân,KTPM15A,ngan.19336211@student.iuh.edu.vn,493538602,228
+19336221,Phùng Thị Ngân,KTPM15A,ngan.19336221@student.iuh.edu.vn,563752400,249
+19336231,Trần Bảo Hoàng Ngân,HTTT15C,ngan.19336231@student.iuh.edu.vn,927646366,258
+19336241,Trần Bảo Hoàng Ngân,HTTT15C,ngan.19336241@student.iuh.edu.vn,832628209,156
+19336251,Đoàn Thị Ngọc,KTPM15B,ngoc.19336251@student.iuh.edu.vn,935881044,133
+19336261,Hồ Bích Ngọc,KHDL15B,ngoc.19336261@student.iuh.edu.vn,669399811,210
+19336271,Hồ Bích Ngọc,KHDL15B,ngoc.19336271@student.iuh.edu.vn,602342625,3
+19336281,Lê Thị Ngọc,HTTT15A,ngoc.19336281@student.iuh.edu.vn,691560274,99
+19336291,Nguyễn Bích Ngọc,KHMT15B,ngoc.19336291@student.iuh.edu.vn,793635774,218
+19336301,Nguyễn Thị Như Ngọc,HTTT15C,ngoc.19336301@student.iuh.edu.vn,503610008,252
+19336311,Trần Thị Hồng Ngọc,HTTT15A,ngoc.19336311@student.iuh.edu.vn,415271105,83
+19336321,Trần Thị Hồng Ngọc,HTTT15B,ngoc.19336321@student.iuh.edu.vn,673301848,272
+19336331,Trần Thị Thanh Ngọc,HTTT15A,ngoc.19336331@student.iuh.edu.vn,292235932,98
+19336341,Võ Đào Như Ngọc,HTTT15A,ngoc.19336341@student.iuh.edu.vn,237654860,236
+19336351,Đỗ Băng Nguyên,HTTT15B,nguyen.19336351@student.iuh.edu.vn,764828786,150
+19336361,Hồ Thị Hà Nguyên,KHMT15A,nguyen.19336361@student.iuh.edu.vn,254741414,141
+19336371,Huỳnh Nhật Thảo Nguyên,KTPM15B,nguyen.19336371@student.iuh.edu.vn,574364972,29
+19336381,Mai Thị Thảo Nguyên,KHMT15B,nguyen.19336381@student.iuh.edu.vn,371430564,204
+19336391,Nguyễn Chân Nguyên,KTPM15A,nguyen.19336391@student.iuh.edu.vn,510647570,56
+19336401,Nguyễn Ngọc Thảo Nguyên,HTTT15B,nguyen.19336401@student.iuh.edu.vn,236260178,100
+19336411,Nguyễn Văn Thảo Nguyên,KTPM15A,nguyen.19336411@student.iuh.edu.vn,408755078,79
+19336421,Tạ Duy Nguyên,HTTT15B,nguyen.19336421@student.iuh.edu.vn,807845305,72
+19336431,Nguyễn Minh Nguyệt,HTTT15B,nguyet.19336431@student.iuh.edu.vn,821685349,77
+19336441,Nguyễn Thị Nguyệt,KHMT15A,nguyet.19336441@student.iuh.edu.vn,633238574,26
+19336451,Nguyễn Hữu Nhàn,HTTT15B,nhan.19336451@student.iuh.edu.vn,896346357,145
+19336461,Nguyễn Thị Linh Nhâm,HTTT15B,nham.19336461@student.iuh.edu.vn,934268448,148
+19336471,Hồ Hoàng Nhân,KHDL15B,nhan.19336471@student.iuh.edu.vn,805385296,6
+19336481,Trần Thiện Nhân,KHMT15A,nhan.19336481@student.iuh.edu.vn,280300264,180
+19336491,Nguyễn Đăng Nhật,HTTT15A,nhat.19336491@student.iuh.edu.vn,405597725,109
+19336501,Đoàn Trần Thùy Nhi,HTTT15A,nhi.19336501@student.iuh.edu.vn,384241738,163
+19336511,Nguyễn Mai Yến Nhi,KTPM15B,nhi.19336511@student.iuh.edu.vn,497130356,99
+19336521,Nguyễn Mai Yến Nhi,KHMT15B,nhi.19336521@student.iuh.edu.vn,348699799,211
+19336531,Nguyễn Thị Hoài Nhi,HTTT15A,nhi.19336531@student.iuh.edu.vn,815934181,105
+19336541,Nguyễn Trúc Nhi,KHDL15B,nhi.19336541@student.iuh.edu.vn,692859580,32
+19336551,Phan Nguyễn Thảo Nhi,HTTT15B,nhi.19336551@student.iuh.edu.vn,264307183,99
+19336561,Phan Thị Yến Nhi,HTTT15A,nhi.19336561@student.iuh.edu.vn,923154145,150
+19336571,Trần Thị Duyên Nhi,KHDL15B,nhi.19336571@student.iuh.edu.vn,578250387,245
+19336581,Trương Thảo Nhi,KTPM15A,nhi.19336581@student.iuh.edu.vn,789110464,42
+19336591,Trương Thị Yến Nhi,KTPM15A,nhi.19336591@student.iuh.edu.vn,460569650,20
+19336601,Trần Nguyễn Hà Như,KHMT15A,nhu.19336601@student.iuh.edu.vn,643290873,294
+19336611,Châu Thị Ngọc Nhung,KHMT15B,nhung.19336611@student.iuh.edu.vn,818960238,226
+19336621,Đặng Thị Nhung,KTPM15B,nhung.19336621@student.iuh.edu.vn,292123462,19
+19336631,Nguyễn Thị Nhung,HTTT15B,nhung.19336631@student.iuh.edu.vn,314679072,239
+19336641,Nguyễn Thị Nhung,KHMT15A,nhung.19336641@student.iuh.edu.vn,321758076,256
+19336651,Nguyễn Thị Bích Nhung,KTPM15B,nhung.19336651@student.iuh.edu.vn,763178511,195
+19336661,Nguyễn Thị Cẩm Nhung,KHDL15B,nhung.19336661@student.iuh.edu.vn,606509042,104
+19336671,Nguyễn Thị Cẩm Nhung,KHMT15A,nhung.19336671@student.iuh.edu.vn,334033119,133
+19336681,Nguyễn Thị Hồng Nhung,HTTT15A,nhung.19336681@student.iuh.edu.vn,276924743,13
+19336691,Pơ Loong Nhung,HTTT15C,nhung.19336691@student.iuh.edu.vn,939059106,275
+19336701,Trần Thị Nhung,HTTT15B,nhung.19336701@student.iuh.edu.vn,268204736,13
+19336711,Trần Tuyết Nhung,KTPM15A,nhung.19336711@student.iuh.edu.vn,648989954,294
+19336721,Ngô Hồ Tuyết Ni,KTPM15B,ni.19336721@student.iuh.edu.vn,876134620,212
+19336731,Bùi Thị Nương,KHDL15A,nuong.19336731@student.iuh.edu.vn,427444272,132
+19336741,Hoàng Thị Nương,KTPM15B,nuong.19336741@student.iuh.edu.vn,906266948,254
+19336751,Nguyễn Thị Hoàng Oanh,HTTT15B,oanh.19336751@student.iuh.edu.vn,710322419,280
+19336761,Nguyễn Thị Hoàng Oanh,KTPM15B,oanh.19336761@student.iuh.edu.vn,586863298,17
+19336771,Trần Hoàng Oanh,HTTT15A,oanh.19336771@student.iuh.edu.vn,910363151,209
+19336781,Trần Thị Hoàng Oanh,KTPM15B,oanh.19336781@student.iuh.edu.vn,871722437,183
+19336791,Trần Thị Kim Oanh,KHMT15B,oanh.19336791@student.iuh.edu.vn,852218959,59
+19336801,Đào Thị Hồng Phấn,KTPM15B,phan.19336801@student.iuh.edu.vn,798414944,269
+19336811,Nguyễn Văn Phong,HTTT15A,phong.19336811@student.iuh.edu.vn,699714644,77
+19336821,Nguyễn Văn Phong,HTTT15B,phong.19336821@student.iuh.edu.vn,813320179,29
+19336831,Bùi Thị Thanh Phương,HTTT15B,phuong.19336831@student.iuh.edu.vn,882961590,195
+19336841,Bùi Thị Thanh Phương,HTTT15C,phuong.19336841@student.iuh.edu.vn,357087111,296
+19336851,Đỗ Thị Nam Phương,KHMT15A,phuong.19336851@student.iuh.edu.vn,331001621,289
+19336861,Đỗ Thị Nam Phương,HTTT15A,phuong.19336861@student.iuh.edu.vn,400533621,211
+19336871,Đỗ Thị Nam Phương,HTTT15C,phuong.19336871@student.iuh.edu.vn,742513102,13
+19336881,Đỗ Thị Nam Phương,KHDL15B,phuong.19336881@student.iuh.edu.vn,782296288,125
+19336891,Hoàng Ngọc Nam Phương,HTTT15B,phuong.19336891@student.iuh.edu.vn,861803612,228
+19336901,Lê Thị Minh Phương,KTPM15B,phuong.19336901@student.iuh.edu.vn,930576384,223
+19336911,Lê Thị Minh Phương,HTTT15A,phuong.19336911@student.iuh.edu.vn,702381932,155
+19336921,Lê Thị Nhật Phương,KHDL15A,phuong.19336921@student.iuh.edu.vn,927689109,248
+19336931,Nguyễn Hà Phương,HTTT15A,phuong.19336931@student.iuh.edu.vn,807030000,45
+19336941,Nguyễn Minh Thảo Phương,KHMT15B,phuong.19336941@student.iuh.edu.vn,793499739,42
+19336951,Nguyễn Ngọc Uyên Phương,KHDL15B,phuong.19336951@student.iuh.edu.vn,917177042,32
+19336961,Nguyễn Quốc Phương,KHMT15A,phuong.19336961@student.iuh.edu.vn,923764817,228
+19336971,Nguyễn Thị Bình Phương,HTTT15A,phuong.19336971@student.iuh.edu.vn,334973875,293
+19336981,Nguyễn Thị Lan Phương,KTPM15A,phuong.19336981@student.iuh.edu.vn,771112741,167
+19336991,Nguyễn Thị Mỹ Phương,KTPM15A,phuong.19336991@student.iuh.edu.vn,921432346,230
+19337001,Nguyễn Thị Thùy Phương,KHMT15A,phuong.19337001@student.iuh.edu.vn,536323729,211
+19337011,Phan Kiều Vy Phương,KTPM15B,phuong.19337011@student.iuh.edu.vn,840469687,16
+19337021,Thái Thị Hoài Phương,HTTT15B,phuong.19337021@student.iuh.edu.vn,405477703,69
+19337031,Thái Thị Uyên Phương,KHDL15A,phuong.19337031@student.iuh.edu.vn,263744195,242
+19337041,Trần Thị Phương,KTPM15A,phuong.19337041@student.iuh.edu.vn,709330083,66
+19337051,Trần Vũ Hồng Phương,HTTT15C,phuong.19337051@student.iuh.edu.vn,508616642,76
+19337061,Lê Thị Kim Phước,HTTT15A,phuoc.19337061@student.iuh.edu.vn,497103495,77
+19337071,Nguyễn Minh Phước,HTTT15C,phuoc.19337071@student.iuh.edu.vn,688751639,93
+19337081,Bùi Thị Bích Phượng,KHMT15B,phuong.19337081@student.iuh.edu.vn,511740292,141
+19337091,Chu Thị Phượng,HTTT15A,phuong.19337091@student.iuh.edu.vn,266738344,203
+19337101,Đặng Thị Kim Phượng,HTTT15A,phuong.19337101@student.iuh.edu.vn,313038021,169
+19337111,Hồ Nguyên Liên Phượng,KTPM15A,phuong.19337111@student.iuh.edu.vn,862079100,170
+19337121,Nguyễn Thị Phượng,KHMT15B,phuong.19337121@student.iuh.edu.vn,995938803,244
+19337131,Trần Thị Kim Phượng,HTTT15C,phuong.19337131@student.iuh.edu.vn,685219417,189
+19337141,Trần Thị Kim Phượng,KTPM15B,phuong.19337141@student.iuh.edu.vn,276816478,57
+19337151,Phan Thị Bích Quy,KTPM15A,quy.19337151@student.iuh.edu.vn,373203566,176
+19337161,Nguyễn Thị Mỹ Quyên,HTTT15C,quyen.19337161@student.iuh.edu.vn,629127253,135
+19337171,Nguyễn Thị Mỹ Quyên,KTPM15A,quyen.19337171@student.iuh.edu.vn,518581087,44
+19337181,Phạm Hoàng Quyên,KHDL15A,quyen.19337181@student.iuh.edu.vn,843183029,262
+19337191,Phạm Ngọc Hà Quyên,KTPM15B,quyen.19337191@student.iuh.edu.vn,651715062,282
+19337201,TrầN Thị ThúY QuỳNh,HTTT15A,quỳnh.19337201@student.iuh.edu.vn,381180821,74
+19337211,Lê Thị Như Quỳnh,HTTT15B,quynh.19337211@student.iuh.edu.vn,954524220,230
+19337221,Lê Thị Xuân Quỳnh,HTTT15C,quynh.19337221@student.iuh.edu.vn,484245086,176
+19337231,Lương Trúc Quỳnh,KHDL15B,quynh.19337231@student.iuh.edu.vn,375097981,192
+19337241,Nguyễn Trúc Quỳnh,HTTT15A,quynh.19337241@student.iuh.edu.vn,793866252,152
+19337251,Võ Xuân Quỳnh,HTTT15B,quynh.19337251@student.iuh.edu.vn,959179859,197
+19337261,Lương Thị Ry,HTTT15A,ry.19337261@student.iuh.edu.vn,794706244,85
+19337271,Huỳnh Bá Sang,KHDL15B,sang.19337271@student.iuh.edu.vn,397971107,116
+19337281,Huỳnh Thị Sang,HTTT15B,sang.19337281@student.iuh.edu.vn,375447958,180
+19337291,Shon Seongmin,KHMT15A,seongmin.19337291@student.iuh.edu.vn,404512476,270
+19337301,Vũ Thị Sen,HTTT15A,sen.19337301@student.iuh.edu.vn,240896918,193
+19337311,Đoàn Hữu Sơn,KTPM15B,son.19337311@student.iuh.edu.vn,674229356,167
+19337321,Châu Thị Ngọc Sương,KHDL15B,suong.19337321@student.iuh.edu.vn,502271867,19
+19337331,Lư Thị Ngọc Sương,KHDL15A,suong.19337331@student.iuh.edu.vn,601716789,241
+19337341,Nguyễn Quỳnh Sương,HTTT15A,suong.19337341@student.iuh.edu.vn,840246658,231
+19337351,Trương Thị Thu Sương,KTPM15A,suong.19337351@student.iuh.edu.vn,697296898,248
+19337361,Jang Sunghoon,HTTT15B,sunghoon.19337361@student.iuh.edu.vn,687030625,136
+19337371,Phạm Thanh Tài,KHDL15A,tai.19337371@student.iuh.edu.vn,423662150,58
+19337381,Lưu Thị Thanh Tâm,KHMT15A,tam.19337381@student.iuh.edu.vn,644264552,275
+19337391,Ngô Thị Tâm,KTPM15B,tam.19337391@student.iuh.edu.vn,439170054,64
+19337401,Nguyễn Hà Thanh Tâm,KHMT15A,tam.19337401@student.iuh.edu.vn,883721517,110
+19337411,Nguyễn Huỳnh Tâm,HTTT15B,tam.19337411@student.iuh.edu.vn,411989804,46
+19337421,Nguyễn Thị Minh Tâm,HTTT15B,tam.19337421@student.iuh.edu.vn,344156515,68
+19337431,Nguyễn Thị Minh Tâm,HTTT15A,tam.19337431@student.iuh.edu.vn,533889235,253
+19337441,Nguyễn Thị Thanh Tâm,KHMT15A,tam.19337441@student.iuh.edu.vn,873511389,270
+19337451,Nguyễn Thị Thanh Tâm,KTPM15A,tam.19337451@student.iuh.edu.vn,761332658,79
+19337461,Phan Thị Tâm,KHMT15A,tam.19337461@student.iuh.edu.vn,279982824,286
+19337471,Tống Thị Mai Tâm,KHDL15A,tam.19337471@student.iuh.edu.vn,834369018,113
+19337481,Trần Thị Tâm,HTTT15B,tam.19337481@student.iuh.edu.vn,262929019,276
+19337491,Trần Thị Thanh Tâm,HTTT15B,tam.19337491@student.iuh.edu.vn,786823754,183
+19337501,Vương Thị Thanh Tâm,KHMT15A,tam.19337501@student.iuh.edu.vn,448836409,285
+19337511,Vương Thị Thanh Tâm,KTPM15A,tam.19337511@student.iuh.edu.vn,865652706,130
+19337521,Lê Nhật Tân,HTTT15B,tan.19337521@student.iuh.edu.vn,402116824,77
+19337531,Lương Thế Tâng,HTTT15B,tang.19337531@student.iuh.edu.vn,226860253,94
+19337541,Đàm Nguyễn Thanh Thanh,KTPM15B,thanh.19337541@student.iuh.edu.vn,725966903,85
+19337551,Đặng Xuân Linh Thanh,KHDL15A,thanh.19337551@student.iuh.edu.vn,944003335,290
+19337561,Hoàng Thị Thanh,KHDL15A,thanh.19337561@student.iuh.edu.vn,858047483,13
+19337571,Phan Bá Thanh,KTPM15B,thanh.19337571@student.iuh.edu.vn,509282668,262
+19337581,Trần Thị Thanh,HTTT15C,thanh.19337581@student.iuh.edu.vn,269055788,248
+19337591,Trần Thị Giang Thanh,KTPM15B,thanh.19337591@student.iuh.edu.vn,264495677,46
+19337601,Vũ Thị Thái Thanh,HTTT15C,thanh.19337601@student.iuh.edu.vn,582948062,38
+19337611,Dương Chí Thành,KHMT15B,thanh.19337611@student.iuh.edu.vn,415662076,114
+19337621,Lê Tất Thành,KTPM15A,thanh.19337621@student.iuh.edu.vn,370127586,294
+19337631,Nguyễn Thị Ngọc Thành,KHMT15B,thanh.19337631@student.iuh.edu.vn,482316732,150
+19337641,Bùi Thị Uyên Thảo,HTTT15A,thao.19337641@student.iuh.edu.vn,460769237,84
+19337651,Dương Thị Thu Thảo,HTTT15B,thao.19337651@student.iuh.edu.vn,783076564,13
+19337661,Dương Thu Thảo,KHMT15B,thao.19337661@student.iuh.edu.vn,697694860,38
+19337671,Hồ Thị Phương Thảo,KHDL15B,thao.19337671@student.iuh.edu.vn,379941980,43
+19337681,Hồ Tống Hàn Thảo,KTPM15A,thao.19337681@student.iuh.edu.vn,806488503,104
+19337691,Huỳnh Phương Thảo,KHMT15A,thao.19337691@student.iuh.edu.vn,976826582,207
+19337701,Lê Phương Thảo,KTPM15B,thao.19337701@student.iuh.edu.vn,696560530,256
+19337711,Lưu Phan Phước Thảo,KHDL15B,thao.19337711@student.iuh.edu.vn,974953064,220
+19337721,Ngô Nguyên Thảo,KHMT15B,thao.19337721@student.iuh.edu.vn,440224967,180
+19337731,Nguyễn Ngọc Thảo,HTTT15B,thao.19337731@student.iuh.edu.vn,290856326,167
+19337741,Nguyễn Thị Hồng Thảo,KTPM15B,thao.19337741@student.iuh.edu.vn,922048207,249
+19337751,Nguyễn Thị Thạch Thảo,KHDL15A,thao.19337751@student.iuh.edu.vn,538185125,248
+19337761,Nguyễn Thị Thu Thảo,KHMT15B,thao.19337761@student.iuh.edu.vn,688043258,72
+19337771,Nguyễn Thị Thu Thảo,KHDL15B,thao.19337771@student.iuh.edu.vn,307996790,94
+19337781,Phạm Thị Thảo,KHMT15A,thao.19337781@student.iuh.edu.vn,711615983,262
+19337791,Phạm Thị Phương Thảo,KTPM15B,thao.19337791@student.iuh.edu.vn,351180719,26
+19337801,Phạm Thị Thanh Thảo,HTTT15B,thao.19337801@student.iuh.edu.vn,559032313,188
+19337811,Phan Trần Phương Thảo,KHDL15A,thao.19337811@student.iuh.edu.vn,993645055,151
+19337821,Phương Thị Thảo,KHDL15A,thao.19337821@student.iuh.edu.vn,883279734,84
+19337831,Phương Thị Thảo,HTTT15B,thao.19337831@student.iuh.edu.vn,544751873,261
+19337841,Trần Nguyên Thảo,HTTT15B,thao.19337841@student.iuh.edu.vn,645916733,5
+19337851,Trần Phương Thảo,KHDL15A,thao.19337851@student.iuh.edu.vn,954385839,265
+19337861,Trần Thị Diễm Thảo,KHDL15B,thao.19337861@student.iuh.edu.vn,328922088,87
+19337871,Trương Thị Phương Thảo,KHDL15B,thao.19337871@student.iuh.edu.vn,656845842,187
+19337881,Võ Thị Phương Thảo,KTPM15B,thao.19337881@student.iuh.edu.vn,969106922,149
+19337891,Vũ Thị Phương Thảo,KHMT15A,thao.19337891@student.iuh.edu.vn,290942540,7
+19337901,Hoàng Thị Hồng Thắm,KHDL15B,tham.19337901@student.iuh.edu.vn,288063981,276
+19337911,Lê Thị Thắm,HTTT15C,tham.19337911@student.iuh.edu.vn,759277039,83
+19337921,Nguyễn Đình Thắng,KHDL15A,thang.19337921@student.iuh.edu.vn,591562425,210
+19337931,Nguyễn Đình Thắng,KHDL15B,thang.19337931@student.iuh.edu.vn,633040041,207
+19337941,Nguyễn Quang Thắng,KHMT15B,thang.19337941@student.iuh.edu.vn,276308358,299
+19337951,Nguyễn Xuân Thắng,KHMT15A,thang.19337951@student.iuh.edu.vn,293091734,173
+19337961,Lê Anh Thi,HTTT15B,thi.19337961@student.iuh.edu.vn,297004239,167
+19337971,Nguyễn Đình Thi,KHMT15A,thi.19337971@student.iuh.edu.vn,392777289,64
+19337981,Nguyễn Thị Hoài Thi,HTTT15A,thi.19337981@student.iuh.edu.vn,420066348,209
+19337991,Nguyễn Thị Hoài Thi,HTTT15C,thi.19337991@student.iuh.edu.vn,308439711,252
+19338001,Phạm Lê Anh Thi,HTTT15C,thi.19338001@student.iuh.edu.vn,613884218,91
+19338011,Hồ Kim Lưu Thông,HTTT15A,thong.19338011@student.iuh.edu.vn,864738521,214
+19338021,Hồ Kim Lưu Thông,HTTT15B,thong.19338021@student.iuh.edu.vn,222348342,71
+19338031,Pơloong Thị Thơ,HTTT15A,tho.19338031@student.iuh.edu.vn,648859604,236
+19338041,Nguyễn Thị Thơm,KHDL15A,thom.19338041@student.iuh.edu.vn,455509222,71
+19338051,Đặng Ánh Thư,HTTT15B,thu.19338051@student.iuh.edu.vn,843472338,247
+19338061,Đỗ Xuân Anh Thư,KHMT15B,thu.19338061@student.iuh.edu.vn,849328200,33
+19338071,Huỳnh Minh Anh Thư,KTPM15A,thu.19338071@student.iuh.edu.vn,482658751,179
+19338081,Lê Thị Ái Thư,KTPM15A,thu.19338081@student.iuh.edu.vn,676183942,17
+19338091,Nguyễn Thị Minh Thư,HTTT15B,thu.19338091@student.iuh.edu.vn,621668436,42
+19338101,Nguyễn Thị Minh Thư,HTTT15A,thu.19338101@student.iuh.edu.vn,764609703,57
+19338111,Lê Thị Thu Thương,KHDL15A,thuong.19338111@student.iuh.edu.vn,242416790,225
+19338121,Nguyễn Thị Thương,KHMT15A,thuong.19338121@student.iuh.edu.vn,445354875,178
+19338131,Nguyễn Thị Thương,HTTT15C,thuong.19338131@student.iuh.edu.vn,473050407,37
+19338141,Nguyễn Thị Thương,KTPM15A,thuong.19338141@student.iuh.edu.vn,685958728,14
+19338151,Nguyễn Thị Thanh Thương,KHMT15B,thuong.19338151@student.iuh.edu.vn,326362064,243
+19338161,Trần Ngọc Thương,HTTT15A,thuong.19338161@student.iuh.edu.vn,477956391,210
+19338171,Lâm Thị Thu,KTPM15B,thu.19338171@student.iuh.edu.vn,527597973,113
+19338181,Lê Thị Yến Thu,HTTT15A,thu.19338181@student.iuh.edu.vn,296555553,44
+19338191,Mai Thị Thu,KHDL15B,thu.19338191@student.iuh.edu.vn,248608345,175
+19338201,Ngô Thị Lệ Thu,KHMT15A,thu.19338201@student.iuh.edu.vn,792015659,55
+19338211,Phạm Minh Thu,HTTT15B,thu.19338211@student.iuh.edu.vn,225462627,272
+19338221,Trần Hoàng Thanh Thu,HTTT15A,thu.19338221@student.iuh.edu.vn,606255873,220
+19338231,Hồ Thị Bích Thuận,HTTT15A,thuan.19338231@student.iuh.edu.vn,306257416,87
+19338241,Nguyễn Thị Bích Thuận,HTTT15A,thuan.19338241@student.iuh.edu.vn,821929280,106
+19338251,Trương Thị Mỹ Thuận,KHMT15B,thuan.19338251@student.iuh.edu.vn,510690091,163
+19338261,Nguyễn Thị Thuỳ,KHMT15B,thuy.19338261@student.iuh.edu.vn,254703899,162
+19338271,Hồ Phương Thuỷ,HTTT15B,thuy.19338271@student.iuh.edu.vn,704084079,165
+19338281,Nguyễn Thị Thuỷ,HTTT15A,thuy.19338281@student.iuh.edu.vn,880948716,127
+19338291,Dương Thị Thủy,HTTT15B,thuy.19338291@student.iuh.edu.vn,585623062,260
+19338301,Huỳnh Thị Thanh Thủy,KTPM15A,thuy.19338301@student.iuh.edu.vn,647877706,75
+19338311,Lê Thị Lệ Thủy,HTTT15A,thuy.19338311@student.iuh.edu.vn,970175227,143
+19338321,Phạm Lê Thu Thủy,KHMT15B,thuy.19338321@student.iuh.edu.vn,992505583,159
+19338331,Lê Thị Thúy,KHDL15B,thuy.19338331@student.iuh.edu.vn,829155114,287
+19338341,Nguyễn Thị Thúy,HTTT15B,thuy.19338341@student.iuh.edu.vn,311464244,67
+19338351,Phạm Phương Thúy,KHDL15B,thuy.19338351@student.iuh.edu.vn,983575528,214
+19338361,Nguyễn Văn Thứ,HTTT15B,thu.19338361@student.iuh.edu.vn,737680297,238
+19338371,Hồ Mỹ Tiên,KTPM15A,tien.19338371@student.iuh.edu.vn,290507065,243
+19338381,Nguyễn Thị Thanh Tiên,HTTT15B,tien.19338381@student.iuh.edu.vn,425774224,266
+19338391,Nguyễn Thị Thủy Tiên,KHMT15A,tien.19338391@student.iuh.edu.vn,948670037,49
+19338401,Phan Thị Thủy Tiên,KTPM15B,tien.19338401@student.iuh.edu.vn,680760658,166
+19338411,Trần Thị Thủy Tiên,HTTT15B,tien.19338411@student.iuh.edu.vn,701029873,125
+19338421,Trần Thị Thủy Tiên,KTPM15B,tien.19338421@student.iuh.edu.vn,914863914,59
+19338431,Trần Thành Tỉnh,HTTT15A,tinh.19338431@student.iuh.edu.vn,300001003,8
+19338441,Huỳnh Kim Tín,KHMT15A,tin.19338441@student.iuh.edu.vn,579939874,242
+19338451,Mai Thế Toàn,KHDL15B,toan.19338451@student.iuh.edu.vn,404764298,8
+19338461,Nguyễn Võ Anh Toàn,HTTT15A,toan.19338461@student.iuh.edu.vn,400427703,108
+19338471,Dương Thị Thu Trang,HTTT15A,trang.19338471@student.iuh.edu.vn,403564681,292
+19338481,Đặng Thị Trang,KHDL15B,trang.19338481@student.iuh.edu.vn,399543988,288
+19338491,Đặng Thị Trang,KTPM15A,trang.19338491@student.iuh.edu.vn,336552615,186
+19338501,Đoàn Thị Thu Trang,KTPM15A,trang.19338501@student.iuh.edu.vn,824766024,7
+19338511,Hà Thị Thu Trang,HTTT15C,trang.19338511@student.iuh.edu.vn,394970826,179
+19338521,Lê Thị Trang,HTTT15C,trang.19338521@student.iuh.edu.vn,335699420,34
+19338531,Lê Thị Thảo Trang,HTTT15A,trang.19338531@student.iuh.edu.vn,907592280,84
+19338541,Lê Thị Thuỳ Trang,HTTT15A,trang.19338541@student.iuh.edu.vn,704497460,102
+19338551,Lương Thị Trang,KHMT15A,trang.19338551@student.iuh.edu.vn,328909606,136
+19338561,Lương Thị Trang,KHMT15A,trang.19338561@student.iuh.edu.vn,964538880,34
+19338571,Mai Thị Huyền Trang,HTTT15A,trang.19338571@student.iuh.edu.vn,923388503,39
+19338581,Nguyễn Thị Huyền Trang,KHMT15B,trang.19338581@student.iuh.edu.vn,976179771,261
+19338591,Nguyễn Thị Huyền Trang,HTTT15B,trang.19338591@student.iuh.edu.vn,664013736,39
+19338601,Nguyễn Thu Trang,KHMT15A,trang.19338601@student.iuh.edu.vn,500441643,142
+19338611,Nguyễn Xuân Trang,HTTT15A,trang.19338611@student.iuh.edu.vn,278276375,85
+19338621,Ninh Thị Trang,HTTT15B,trang.19338621@student.iuh.edu.vn,486692650,294
+19338631,Trần Thu Trang,HTTT15C,trang.19338631@student.iuh.edu.vn,319019067,262
+19338641,Trương Thị Huyền Trang,KHDL15A,trang.19338641@student.iuh.edu.vn,768023265,42
+19338651,Đặng Ngọc Trâm,KTPM15B,tram.19338651@student.iuh.edu.vn,519405987,205
+19338661,Hà Bảo Trâm,HTTT15C,tram.19338661@student.iuh.edu.vn,498542001,90
+19338671,Lê Thị Nữ Trâm,KHMT15B,tram.19338671@student.iuh.edu.vn,699984174,64
+19338681,Lê Thị Thùy Trâm,KHDL15A,tram.19338681@student.iuh.edu.vn,551398411,52
+19338691,Mai Thị Bích Trâm,HTTT15A,tram.19338691@student.iuh.edu.vn,930126962,79
+19338701,Mai Thị Bích Trâm,KHDL15B,tram.19338701@student.iuh.edu.vn,288404787,119
+19338711,Ngô Nhật Trâm,KHMT15B,tram.19338711@student.iuh.edu.vn,410571761,130
+19338721,Ngô Thị Bích Trâm,HTTT15B,tram.19338721@student.iuh.edu.vn,603297015,96
+19338731,Ngô Thị Bích Trâm,KTPM15B,tram.19338731@student.iuh.edu.vn,578056040,68
+19338741,Nguyễn Huyền Trâm,KHDL15A,tram.19338741@student.iuh.edu.vn,376673136,49
+19338751,Nguyễn Thị Phương Trâm,HTTT15B,tram.19338751@student.iuh.edu.vn,672454147,251
+19338761,Nguyễn Thị Thảo Trâm,HTTT15A,tram.19338761@student.iuh.edu.vn,598758767,233
+19338771,Đặng Thị Bảo Trân,KHMT15B,tran.19338771@student.iuh.edu.vn,343789694,136
+19338781,Khương Thái Trân,KHDL15A,tran.19338781@student.iuh.edu.vn,752360813,91
+19338791,Trương Xuân Tri,KTPM15B,tri.19338791@student.iuh.edu.vn,892159585,63
+19338801,Bùi Thị Ngọc Trinh,HTTT15A,trinh.19338801@student.iuh.edu.vn,649476702,283
+19338811,Huỳnh Thị Trinh,HTTT15A,trinh.19338811@student.iuh.edu.vn,513491407,84
+19338821,Huỳnh Thị Trinh,KHMT15B,trinh.19338821@student.iuh.edu.vn,901119265,278
+19338831,Lê Thị Tú Trinh,KHMT15B,trinh.19338831@student.iuh.edu.vn,582539299,88
+19338841,Mai Thị Trúc Trinh,KHDL15B,trinh.19338841@student.iuh.edu.vn,471743024,294
+19338851,Nguyễn Thị Thanh Trinh,KHMT15A,trinh.19338851@student.iuh.edu.vn,713611927,257
+19338861,Nguyễn Thị Tuyết Trinh,KTPM15B,trinh.19338861@student.iuh.edu.vn,496382410,139
+19338871,Nguyễn Trần Vỉnh Trinh,KTPM15A,trinh.19338871@student.iuh.edu.vn,939775905,9
+19338881,Phạm Thị Mỹ Trinh,KHMT15A,trinh.19338881@student.iuh.edu.vn,458931612,8
+19338891,Trần Thị Diễm Trinh,KTPM15B,trinh.19338891@student.iuh.edu.vn,281287857,182
+19338901,Bùi Đăng Trường,HTTT15A,truong.19338901@student.iuh.edu.vn,608093192,99
+19338911,Hứa Thanh Trường,HTTT15B,truong.19338911@student.iuh.edu.vn,957152728,66
+19338921,Nguyễn Xuân Trường,HTTT15B,truong.19338921@student.iuh.edu.vn,632783728,245
+19338931,Nguyễn Đức Trung,HTTT15B,trung.19338931@student.iuh.edu.vn,812385167,210
+19338941,Nguyễn Học Trung,HTTT15B,trung.19338941@student.iuh.edu.vn,583611760,70
+19338951,Nguyễn Hữu Trung,KHDL15A,trung.19338951@student.iuh.edu.vn,697027586,80
+19338961,Phạm Thị Thanh Trúc,HTTT15B,truc.19338961@student.iuh.edu.vn,709234619,5
+19338971,Nguyễn Thị Tươi,KTPM15A,tuoi.19338971@student.iuh.edu.vn,544347813,228
+19338981,Nguyễn Anh Tuấn,KTPM15A,tuan.19338981@student.iuh.edu.vn,261039009,14
+19338991,Nguyễn Anh Tuấn,KHMT15A,tuan.19338991@student.iuh.edu.vn,597578148,33
+19339001,Trần Nguyễn Minh Tuấn,HTTT15C,tuan.19339001@student.iuh.edu.vn,749509746,43
+19339011,Nguyễn Thị Thanh Tuyền,HTTT15C,tuyen.19339011@student.iuh.edu.vn,472630790,299
+19339021,Phan Thị Thanh Tuyền,HTTT15C,tuyen.19339021@student.iuh.edu.vn,537494008,211
+19339031,Võ Ngọc Tuyền,KHDL15A,tuyen.19339031@student.iuh.edu.vn,525116509,112
+19339041,Trần Trung Tuyến,KHDL15A,tuyen.19339041@student.iuh.edu.vn,407407337,8
+19339051,Đặng Thị Tuyết,HTTT15B,tuyet.19339051@student.iuh.edu.vn,417915637,99
+19339061,Huỳnh Thị Ánh Tuyết,HTTT15B,tuyet.19339061@student.iuh.edu.vn,628774201,288
+19339071,Trương Vi Tuyết,KHMT15B,tuyet.19339071@student.iuh.edu.vn,828797273,32
+19339081,Võ Thị Ánh Tuyết,KTPM15A,tuyet.19339081@student.iuh.edu.vn,743697013,201
+19339091,Mai Thị Thanh Tùng,KHMT15A,tung.19339091@student.iuh.edu.vn,961230479,24
+19339101,Âu Dương Lệ Tú,KHDL15B,tu.19339101@student.iuh.edu.vn,540632706,260
+19339111,Dương Trần Nguyệt Tú,HTTT15B,tu.19339111@student.iuh.edu.vn,286771786,45
+19339121,Lê Thị Uyên,KHMT15B,uyen.19339121@student.iuh.edu.vn,809180309,239
+19339131,Lưu Thị Tú Uyên,KHMT15A,uyen.19339131@student.iuh.edu.vn,653413781,205
+19339141,Ngô Thị Minh Uyên,HTTT15B,uyen.19339141@student.iuh.edu.vn,285866549,238
+19339151,Nguyễn Thảo Uyên,KHDL15B,uyen.19339151@student.iuh.edu.vn,364812236,181
+19339161,Phạm Chu Uyên,KTPM15B,uyen.19339161@student.iuh.edu.vn,811419472,3
+19339171,Phùng Thị Thảo Uyên,HTTT15C,uyen.19339171@student.iuh.edu.vn,845155281,196
+19339181,Trần Ngọc Thảo Uyên,KHDL15A,uyen.19339181@student.iuh.edu.vn,917836611,211
+19339191,Võ Thị Vạn,KTPM15A,van.19339191@student.iuh.edu.vn,798481873,27
+19339201,Trần Thị Văn,HTTT15B,van.19339201@student.iuh.edu.vn,703463821,229
+19339211,Lê Thị Hồng Vân,KHMT15A,van.19339211@student.iuh.edu.vn,431915991,217
+19339221,Phan Nguyễn Ái Vân,HTTT15B,van.19339221@student.iuh.edu.vn,275181067,95
+19339231,Phan Thị Khánh Vân,HTTT15A,van.19339231@student.iuh.edu.vn,805002106,209
+19339241,Trần Thị Hồng Vân,KHMT15B,van.19339241@student.iuh.edu.vn,288426967,215
+19339251,Mai Thị Ái Vi,HTTT15A,vi.19339251@student.iuh.edu.vn,592648221,146
+19339261,Mai Thị Ái Vi,HTTT15A,vi.19339261@student.iuh.edu.vn,377031599,221
+19339271,Trần Hoàng Vinh,HTTT15B,vinh.19339271@student.iuh.edu.vn,302224136,279
+19339281,Nguyễn Thị Vì,KHMT15B,vi.19339281@student.iuh.edu.vn,577127266,299
+19339291,Hồ Như Vĩnh,HTTT15A,vinh.19339291@student.iuh.edu.vn,409952580,129
+19339301,Hồ Như Vĩnh,HTTT15B,vinh.19339301@student.iuh.edu.vn,424909498,41
+19339311,Lê Viết Vọng,KHMT15A,vong.19339311@student.iuh.edu.vn,930799934,161
+19339321,Đỗ Thị Khánh Vũ,HTTT15B,vu.19339321@student.iuh.edu.vn,587351715,174
+19339331,Nguyễn Hoàng Vũ,HTTT15A,vu.19339331@student.iuh.edu.vn,778395414,73
+19339341,Nguyễn Lê Hoàng Vũ,KHMT15A,vu.19339341@student.iuh.edu.vn,433966566,196
+19339351,Nguyễn Thị Ánh Vũ,KHDL15A,vu.19339351@student.iuh.edu.vn,250455333,15
+19339361,Huỳnh Thị Mai Vy,HTTT15C,vy.19339361@student.iuh.edu.vn,715406330,282
+19339371,Nguyễn Trương Thị Vy,HTTT15A,vy.19339371@student.iuh.edu.vn,591491842,281
+19339381,Nguyễn Trương Thị Vy,HTTT15B,vy.19339381@student.iuh.edu.vn,416239361,90
+19339391,Phạm Thị Thúy Vy,HTTT15B,vy.19339391@student.iuh.edu.vn,837181655,185
+19339401,Trần Thị Ngọc Vy,HTTT15C,vy.19339401@student.iuh.edu.vn,855245914,98
+19339411,Trần Thị Ngọc Vy,KTPM15A,vy.19339411@student.iuh.edu.vn,417258463,278
+19339421,Trần Thị Thu Vy,KTPM15A,vy.19339421@student.iuh.edu.vn,385479221,148
+19339431,Vũ Trường Xuân,KHDL15B,xuan.19339431@student.iuh.edu.vn,649956979,185
+19339441,Trà Thị Hà Xuyên,HTTT15A,xuyen.19339441@student.iuh.edu.vn,379921479,122
+19339451,Võ Thị Kim Xuyến,HTTT15B,xuyen.19339451@student.iuh.edu.vn,392355381,26
+19339461,Lê TrầN Như Ý,KHMT15A,ý.19339461@student.iuh.edu.vn,986769553,42
+19339471,Lê TrầN Như Ý,KHDL15A,ý.19339471@student.iuh.edu.vn,394212405,193
+19339481,Trương Phụng Y,KTPM15B,y.19339481@student.iuh.edu.vn,504082653,92
+19339491,Dương Thái Bình Yên,KHMT15A,yen.19339491@student.iuh.edu.vn,648530454,96
+19339501,Nguyễn Hoàng Phú Yên,KTPM15A,yen.19339501@student.iuh.edu.vn,391093349,31
+19339511,Phan Vũ Tố Yên,HTTT15A,yen.19339511@student.iuh.edu.vn,541578730,155
+19339521,Trần Thị Kim Yên,HTTT15B,yen.19339521@student.iuh.edu.vn,882429388,151
+19339531,Đoàn Thị Kim Yến,KHMT15B,yen.19339531@student.iuh.edu.vn,842034734,230
+19339541,Lê Thị Hồng Yến,KTPM15B,yen.19339541@student.iuh.edu.vn,836617237,285
+19339551,Nguyễn Thị Kim Yến,HTTT15A,yen.19339551@student.iuh.edu.vn,713142403,288
+19339561,Nguyễn Thị Kim Yến,HTTT15B,yen.19339561@student.iuh.edu.vn,910926600,157
+19339571,Nguyễn Thị Ngọc Yến,HTTT15A,yen.19339571@student.iuh.edu.vn,626145156,210
+19339581,Trần Thị Bảo Yến,HTTT15C,yen.19339581@student.iuh.edu.vn,321934307,20
+19339591,Kim Youngseok,HTTT15B,youngseok.19339591@student.iuh.edu.vn,592104100,47
+19339601,Huỳnh Đức,HTTT15C,duc.19339601@student.iuh.edu.vn,564371784,248
+19339611,Ngụy Thế,KHDL15A,the.19339611@student.iuh.edu.vn,882592274,196
+19339621,Nguyễn Xuân,HTTT15A,xuan.19339621@student.iuh.edu.vn,231685723,115
+19339631,Nguyễn Nhị Thành,HTTT15A,thanh.19339631@student.iuh.edu.vn,682643368,226
+19339641,Nguyễn Văn,KHDL15B,van.19339641@student.iuh.edu.vn,599959265,290
+19339651,Trương Đức Hải,KHDL15A,hai.19339651@student.iuh.edu.vn,351379514,1
+19339661,Lâm Phát,KTPM15B,phat.19339661@student.iuh.edu.vn,353325052,51
+19339671,Phạm Huỳnh Quốc,HTTT15B,quoc.19339671@student.iuh.edu.vn,417207398,194
+19339681,Lâm Hoàng,KTPM15A,hoang.19339681@student.iuh.edu.vn,468236830,270
+19339691,Trần Gia,HTTT15B,gia.19339691@student.iuh.edu.vn,233186362,82
+19339701,Nguyễn Ngọc,HTTT15A,ngoc.19339701@student.iuh.edu.vn,561939056,65
+19339711,Nguyễn Thành,KHDL15A,thanh.19339711@student.iuh.edu.vn,732138627,116
+19339721,Nguyễn Nhựt,HTTT15A,nhut.19339721@student.iuh.edu.vn,789538359,202
+19339731,Vũ Hoàng,HTTT15A,hoang.19339731@student.iuh.edu.vn,477980742,209
+19339741,Nguyễn Vũ Nguyên,KHDL15A,nguyen.19339741@student.iuh.edu.vn,528863544,124
+19339751,Trần Đình,KHMT15A,dinh.19339751@student.iuh.edu.vn,903160103,285
+19339761,Nguyễn Đắc,KHMT15A,dac.19339761@student.iuh.edu.vn,519704029,251
+19339771,Cao Minh,KHMT15A,minh.19339771@student.iuh.edu.vn,994595860,260
+19339781,Trần Khánh,KHDL15B,khanh.19339781@student.iuh.edu.vn,341079830,202
+19339791,Vũ Văn,HTTT15A,van.19339791@student.iuh.edu.vn,850350256,245
+19339801,Trần Thị Linh,KTPM15A,linh.19339801@student.iuh.edu.vn,673032388,52
+19339811,Hồ Thanh,KHDL15A,thanh.19339811@student.iuh.edu.vn,825837116,101
+19339821,Huỳnh Sang,KHDL15A,sang.19339821@student.iuh.edu.vn,278163114,50
+19339831,Nguyễn Thành,KHDL15B,thanh.19339831@student.iuh.edu.vn,848113727,236
+19339841,Phạm Thị,KTPM15A,thi.19339841@student.iuh.edu.vn,999685082,226
+19339851,Huỳnh Ngọc,HTTT15C,ngoc.19339851@student.iuh.edu.vn,700182166,110
+19339861,Nguyễn Thị Ái,KHMT15A,ai.19339861@student.iuh.edu.vn,495285200,48
+19339871,Trần Thị,KHDL15A,thi.19339871@student.iuh.edu.vn,236517273,278
+19339881,Nguyễn Ngọc Mai,KHDL15A,mai.19339881@student.iuh.edu.vn,664881668,199
+19339891,Lê Thị Ngọc,HTTT15B,ngoc.19339891@student.iuh.edu.vn,524305358,162
+19339901,Nguyễn Thị Ngọc,HTTT15A,ngoc.19339901@student.iuh.edu.vn,549958940,82
+19339911,Cao Thị Châm,HTTT15C,cham.19339911@student.iuh.edu.vn,359934948,17
+19339921,Lê Thị Tú,HTTT15A,tu.19339921@student.iuh.edu.vn,792431187,142
+19339931,Trần Ngọc Thanh,KTPM15A,thanh.19339931@student.iuh.edu.vn,842221677,60
+19339941,Phạm Thị Ngọc,KTPM15B,ngoc.19339941@student.iuh.edu.vn,294533723,298
+19339951,Nguyễn Thị Ngọc,KHMT15B,ngoc.19339951@student.iuh.edu.vn,463553668,168
+19339961,Đỗ Quang,KHMT15A,quang.19339961@student.iuh.edu.vn,504451796,17
+19339971,Nguyễn Thị Cẩm,KTPM15B,cam.19339971@student.iuh.edu.vn,661622763,210
+19339981,Ngô Huỳnh,KTPM15A,huynh.19339981@student.iuh.edu.vn,287284514,145
+19339991,Nguyễn Thị Thanh,KTPM15B,thanh.19339991@student.iuh.edu.vn,885606156,4
+19340001,Trần Thị Lễ,HTTT15A,le.19340001@student.iuh.edu.vn,327419490,218
+19340011,Hồng Kim,KHDL15B,kim.19340011@student.iuh.edu.vn,886178902,138
+19340021,Trương Thị Yến,KHDL15A,yen.19340021@student.iuh.edu.vn,881756764,266
+19340031,Đào Thị Duyên,KHDL15B,duyen.19340031@student.iuh.edu.vn,646030015,10
+19340041,Nguyễn Thị Ngọc,HTTT15A,ngoc.19340041@student.iuh.edu.vn,990480180,119
+19340051,Hà Thị Nguyệt,HTTT15B,nguyet.19340051@student.iuh.edu.vn,607846429,118
+19340061,Châu Như,HTTT15A,nhu.19340061@student.iuh.edu.vn,618373583,37
+19340071,Nguyễn Thị Mỹ,KHMT15B,my.19340071@student.iuh.edu.vn,223560644,24
+19340081,Nguyễn Thị Mỹ,KHDL15A,my.19340081@student.iuh.edu.vn,783471870,96
+19340091,Nguyễn Thị Việt,KTPM15A,viet.19340091@student.iuh.edu.vn,892925736,225
+19340101,Nguyễn Thị Mỹ,HTTT15A,my.19340101@student.iuh.edu.vn,702129404,137
+19340111,Đàm Lâm,KHMT15B,lam.19340111@student.iuh.edu.vn,987575369,161
+19340121,Phạm Thị Kim,KTPM15B,kim.19340121@student.iuh.edu.vn,713911600,74
+19340131,Trịnh Minh,HTTT15C,minh.19340131@student.iuh.edu.vn,733041767,117
+19340141,Nguyễn Công,HTTT15A,cong.19340141@student.iuh.edu.vn,697029883,135
+19340151,Nguyễn Trung,HTTT15B,trung.19340151@student.iuh.edu.vn,736490701,280
+19340161,Nguyễn Thị Như,HTTT15A,nhu.19340161@student.iuh.edu.vn,425526491,126
+19340171,Nguyễn Lý Bảo,KTPM15B,bao.19340171@student.iuh.edu.vn,957244086,214
+19340181,Nguyễn Lê Kiều,HTTT15B,kieu.19340181@student.iuh.edu.vn,478926478,188
+19340191,Nguyễn Hồng,KHDL15B,hong.19340191@student.iuh.edu.vn,395143036,36
+19340201,Phan Thị Mai,HTTT15B,mai.19340201@student.iuh.edu.vn,730529500,286
+19340211,Trần Văn,KHDL15A,van.19340211@student.iuh.edu.vn,873672339,47
+19340221,Vũ Thị Lan,KHDL15A,lan.19340221@student.iuh.edu.vn,842569851,28
+19340231,Tưởng Khoa Thùy,KTPM15A,thuy.19340231@student.iuh.edu.vn,967801679,94
+19340241,Hoàng Thiên,HTTT15A,thien.19340241@student.iuh.edu.vn,781241434,250
+19340251,Hoàng Thị Như,KTPM15B,nhu.19340251@student.iuh.edu.vn,649851381,219
+19340261,Vũ Hoàng Thanh,HTTT15B,thanh.19340261@student.iuh.edu.vn,538112781,63
+19340271,Vũ Hà,KTPM15B,ha.19340271@student.iuh.edu.vn,614276197,9
+19340281,Triệu Minh,HTTT15B,minh.19340281@student.iuh.edu.vn,553538926,14
+19340291,Trần Thế,KTPM15A,the.19340291@student.iuh.edu.vn,846364878,206
+19340301,Đặng Ngọc Anh,KHMT15B,anh.19340301@student.iuh.edu.vn,365824734,295
+19340311,Phan Phước,HTTT15B,phuoc.19340311@student.iuh.edu.vn,536392696,123
+19340321,Nguyễn Mộng,HTTT15B,mong.19340321@student.iuh.edu.vn,269758105,196
+19340331,Nguyễn Trần Thanh,HTTT15B,thanh.19340331@student.iuh.edu.vn,561984021,75
+19340341,Nguyễn Hoàng,HTTT15A,hoang.19340341@student.iuh.edu.vn,365151942,106
+19340351,Quách Thị Đoan,HTTT15B,doan.19340351@student.iuh.edu.vn,486339161,23
+19340361,Quách Cẩm,HTTT15A,cam.19340361@student.iuh.edu.vn,749912712,284
+19340371,Lê Thị Hồng,KHMT15B,hong.19340371@student.iuh.edu.vn,699196937,227
+19340381,Văn Quế,KTPM15A,que.19340381@student.iuh.edu.vn,671064144,280
+19340391,Nguyễn Hoàng Kim,HTTT15B,kim.19340391@student.iuh.edu.vn,828212301,11
+19340401,Nguyễn Lê Hoàng,KHMT15A,hoang.19340401@student.iuh.edu.vn,573402803,17
+19340411,Phan Thị Mỹ,KTPM15B,my.19340411@student.iuh.edu.vn,449125207,295
+19340421,Triệu Thị,KHDL15A,thi.19340421@student.iuh.edu.vn,391911582,195
+19340431,Lê Văn,HTTT15B,van.19340431@student.iuh.edu.vn,350765304,18
+19340441,Trương Thiên,HTTT15A,thien.19340441@student.iuh.edu.vn,495877845,50
+19340451,Trần Thị Hồng,HTTT15A,hong.19340451@student.iuh.edu.vn,922718048,35
+19340461,Nguyễn Thị Như,KTPM15B,nhu.19340461@student.iuh.edu.vn,375259285,191
+19340471,Nguyễn Phương Thảo,KHMT15B,thao.19340471@student.iuh.edu.vn,763636287,95
+19340481,Trần Ngọc Kim,KTPM15B,kim.19340481@student.iuh.edu.vn,239026009,285
+19340491,Nguyễn Minh,HTTT15B,minh.19340491@student.iuh.edu.vn,500880832,130
+19340501,Nguyễn Thị,KTPM15A,thi.19340501@student.iuh.edu.vn,667108951,263
+19340511,Nguyễn Huỳnh Ngọc,HTTT15A,ngoc.19340511@student.iuh.edu.vn,677758821,84
+19340521,Vũ Anh,KHDL15B,anh.19340521@student.iuh.edu.vn,784104346,248
+19340531,Nguyễn Hữu,HTTT15C,huu.19340531@student.iuh.edu.vn,255330700,200
+19340541,Hồ Bùi Như,KHDL15A,nhu.19340541@student.iuh.edu.vn,266815698,201
+19340551,Trương Cát,KTPM15A,cat.19340551@student.iuh.edu.vn,478789698,101
+19340561,Phạm Thị Thu,KTPM15B,thu.19340561@student.iuh.edu.vn,652071458,293
+19340571,Lê Hải,KTPM15B,hai.19340571@student.iuh.edu.vn,482030400,128
+19340581,Lê Bảo,KHMT15B,bao.19340581@student.iuh.edu.vn,264283678,66
+19340591,Quách Gia,HTTT15B,gia.19340591@student.iuh.edu.vn,525949150,217
+19340601,Lưu Trần Trọng,HTTT15B,trong.19340601@student.iuh.edu.vn,733121061,273
+19340611,Thái Đỗ Phương,KHDL15A,phuong.19340611@student.iuh.edu.vn,251750006,215
+19340621,Ngô Thuận,HTTT15A,thuan.19340621@student.iuh.edu.vn,996215864,147
+19340631,Trịnh Minh,HTTT15B,minh.19340631@student.iuh.edu.vn,480878113,264
+19340641,Trần Thị Ngọc,HTTT15B,ngoc.19340641@student.iuh.edu.vn,359742608,18
+19340651,Võ Thị Minh,HTTT15C,minh.19340651@student.iuh.edu.vn,812475610,208
+19340661,Huỳnh Thanh,HTTT15B,thanh.19340661@student.iuh.edu.vn,291785881,71
+19340671,Nguyễn Thị Cẩm,HTTT15A,cam.19340671@student.iuh.edu.vn,476890857,119
+19340681,Phạm Thị Lập,HTTT15C,lap.19340681@student.iuh.edu.vn,765068445,37
+19340691,Phạm Thị Thu,HTTT15B,thu.19340691@student.iuh.edu.vn,708081639,56
+19340701,Cao Ngọc Khánh,KHMT15B,khanh.19340701@student.iuh.edu.vn,230967065,131
+19340711,Nguyễn Minh,HTTT15B,minh.19340711@student.iuh.edu.vn,617023891,222
+19340721,Lý Thị Thủy,KHMT15B,thuy.19340721@student.iuh.edu.vn,834711260,183
+19340731,Phan Thị Anh,KHDL15A,anh.19340731@student.iuh.edu.vn,712910022,202
+19340741,Trần Thị Nhựt,KTPM15B,nhut.19340741@student.iuh.edu.vn,979385126,58
+19340751,NguyễN Thị Thanh,KHDL15A,thanh.19340751@student.iuh.edu.vn,696544627,5
+19340761,Trần Quỳnh,KHDL15B,quynh.19340761@student.iuh.edu.vn,560562152,169
+19340771,Phan Nguyễn Hoàng,HTTT15A,hoang.19340771@student.iuh.edu.vn,251073089,18
+19340781,Nguyễn Thị Mỹ,HTTT15B,my.19340781@student.iuh.edu.vn,767511230,105
+19340791,Lê,KTPM15A,le.19340791@student.iuh.edu.vn,588854274,137
+19340801,Nguyễn Thị Quỳnh,KHMT15A,quynh.19340801@student.iuh.edu.vn,838580529,187
+19340811,Võ Quang,KHDL15B,quang.19340811@student.iuh.edu.vn,458055311,287
+19340821,Lê Thị Yến,KTPM15A,yen.19340821@student.iuh.edu.vn,480498655,289
+19340831,Nguyễn Hữu,HTTT15B,huu.19340831@student.iuh.edu.vn,752720123,285
+19340841,Lê Thị Kim,HTTT15B,kim.19340841@student.iuh.edu.vn,723651709,183
+19340851,Hồ Thị Kim,KTPM15B,kim.19340851@student.iuh.edu.vn,512914600,298
+19340861,Đỗ Thị Mai,HTTT15B,mai.19340861@student.iuh.edu.vn,609869286,120
+19340871,Nguyễn Thị Phương,HTTT15A,phuong.19340871@student.iuh.edu.vn,422652979,276
+19340881,Nguyễn Minh,KHMT15A,minh.19340881@student.iuh.edu.vn,856125558,32
+19340891,Nguyễn Thị Ánh,KTPM15A,anh.19340891@student.iuh.edu.vn,792768675,90
+19340901,Nguyễn Thị Kim,KHDL15A,kim.19340901@student.iuh.edu.vn,864835143,170
+19340911,Trần Nguyễn Hà,KHDL15A,ha.19340911@student.iuh.edu.vn,984066782,294
+19340921,Nguyễn Thị,KHMT15B,thi.19340921@student.iuh.edu.vn,267786613,77
+19340931,Nguyễn Thị,KHMT15B,thi.19340931@student.iuh.edu.vn,761357144,164
+19340941,Nguyễn Thị Thanh,KHMT15A,thanh.19340941@student.iuh.edu.vn,987526361,201
+19340951,Phan Thị Ái,KHDL15B,ai.19340951@student.iuh.edu.vn,944866129,172
+19340961,Nguyễn Thị Tuyết,KTPM15B,tuyet.19340961@student.iuh.edu.vn,684000978,214
+19340971,Huỳnh Thị Thủy,HTTT15B,thuy.19340971@student.iuh.edu.vn,246892852,166
+19340981,Phạm Thị Diệu,KHDL15A,dieu.19340981@student.iuh.edu.vn,514752442,218
+19340991,Võ Thị Linh,KHMT15B,linh.19340991@student.iuh.edu.vn,349904234,210
+19341001,Nguyễn Xuân,KHMT15B,xuan.19341001@student.iuh.edu.vn,638967594,203
+19341011,Võ Thị Lộc,KHDL15B,loc.19341011@student.iuh.edu.vn,222247672,279
+19341021,Nguyễn Trà,HTTT15A,tra.19341021@student.iuh.edu.vn,749696453,92
+19341031,ĐoàN Thanh,KHMT15A,thanh.19341031@student.iuh.edu.vn,443187184,161
+19341041,Trần Nguyễn Bảo,HTTT15B,bao.19341041@student.iuh.edu.vn,319481853,281
+19341051,Trần Thị Thùy,KHDL15A,thuy.19341051@student.iuh.edu.vn,415336365,134
+19341061,Nguyễn Kim Ngọc,KHMT15B,ngoc.19341061@student.iuh.edu.vn,492954010,287
+19341071,Phan Trọng,KHMT15B,trong.19341071@student.iuh.edu.vn,993181289,188
+19341081,Bùi Ngọc Lan,HTTT15A,lan.19341081@student.iuh.edu.vn,944993867,59
+19341091,Lê Thị Mỹ,HTTT15B,my.19341091@student.iuh.edu.vn,598648905,126
+19341101,Huỳnh Ngọc,HTTT15A,ngoc.19341101@student.iuh.edu.vn,779625203,244
+19341111,Hoàng Kim,HTTT15C,kim.19341111@student.iuh.edu.vn,773620316,163
+19341121,Trần Thị Hương,KTPM15A,huong.19341121@student.iuh.edu.vn,529532330,199
+19341131,Nguyễn Thị Thu,KHMT15A,thu.19341131@student.iuh.edu.vn,821895784,223
+19341141,Đỗ Bích,KHMT15A,bich.19341141@student.iuh.edu.vn,429740069,120
+19341151,Dương Thị Thanh,HTTT15B,thanh.19341151@student.iuh.edu.vn,627753861,212
+19341161,Bá Ngọc Hoàng,HTTT15A,hoang.19341161@student.iuh.edu.vn,982760001,213
+19341171,Ngạc Thị,HTTT15B,thi.19341171@student.iuh.edu.vn,536801371,58
+19341181,Triệu Gia,KHMT15B,gia.19341181@student.iuh.edu.vn,646769159,296
+19341191,Vũ Phương,KTPM15A,phuong.19341191@student.iuh.edu.vn,861714014,166
+19341201,Lương Thu,HTTT15B,thu.19341201@student.iuh.edu.vn,753715947,197
+19341211,Đỗ Nguyễn Phương,HTTT15B,phuong.19341211@student.iuh.edu.vn,992532712,297
+19341221,Nguyễn Võ Minh,KHMT15B,minh.19341221@student.iuh.edu.vn,232927609,108
+19341231,Hà Hoàng Tường,KTPM15A,tuong.19341231@student.iuh.edu.vn,833558996,209
+19341241,Lương Thị Thảo,KHMT15A,thao.19341241@student.iuh.edu.vn,802089034,59
+19341251,Võ Thu,HTTT15A,thu.19341251@student.iuh.edu.vn,871279114,213
+19341261,Tăng Phượng,KHMT15A,phuong.19341261@student.iuh.edu.vn,417454646,59
+19341271,Lê Phạm Hoàng,HTTT15B,hoang.19341271@student.iuh.edu.vn,883995741,156
+19341281,Hà Anh Hiếu,HTTT15B,hieu.19341281@student.iuh.edu.vn,273830279,85
+19341291,Dương Duy,HTTT15C,duy.19341291@student.iuh.edu.vn,525400817,70
+19341301,Lê Thanh,KHDL15A,thanh.19341301@student.iuh.edu.vn,957769288,70
+19341311,Lê Ngọc Thảo,HTTT15B,thao.19341311@student.iuh.edu.vn,288401794,9
+19341321,Lưu Ngọc Tường,KHMT15A,tuong.19341321@student.iuh.edu.vn,632459886,18
+19341331,Nguyễn Hoàng,KTPM15A,hoang.19341331@student.iuh.edu.vn,235321229,5
+19341341,Trầm Vương Mẫn,KHMT15A,man.19341341@student.iuh.edu.vn,736996432,250
+19341351,Vũ Hải,KHDL15B,hai.19341351@student.iuh.edu.vn,674926606,88
+19341361,Trần Minh,KHMT15B,minh.19341361@student.iuh.edu.vn,420138874,153
+19341371,Nguyễn Duy,HTTT15B,duy.19341371@student.iuh.edu.vn,762918079,296
+19341381,Đỗ Thị Kim,HTTT15B,kim.19341381@student.iuh.edu.vn,875977449,110
+19341391,Võ Thị Kim,KTPM15A,kim.19341391@student.iuh.edu.vn,480568976,243
+19341401,Phạm Hà,HTTT15C,ha.19341401@student.iuh.edu.vn,512780177,219
+19341411,Đỗ Trần Thanh,HTTT15B,thanh.19341411@student.iuh.edu.vn,439925294,205
+19341421,Nguyễn Ngọc Khánh,KTPM15B,khanh.19341421@student.iuh.edu.vn,253661201,111
+19341431,Lin Kính,HTTT15B,kinh.19341431@student.iuh.edu.vn,351103463,224
+19341441,Nguyễn Thị Thảo,HTTT15C,thao.19341441@student.iuh.edu.vn,384500489,56
+19341451,Diệp Ngọc,KHMT15B,ngoc.19341451@student.iuh.edu.vn,550930098,132
+19341461,Lê Thiên Ngọc,HTTT15C,ngoc.19341461@student.iuh.edu.vn,481774573,124
+19341471,Âu Bảo,KTPM15A,bao.19341471@student.iuh.edu.vn,261465886,17
+19341481,Trương Tú,HTTT15B,tu.19341481@student.iuh.edu.vn,913081437,54
+19341491,Nguyễn Thị Quỳnh,KHMT15B,quynh.19341491@student.iuh.edu.vn,842782415,30
+19341501,Hoàng Thị,HTTT15A,thi.19341501@student.iuh.edu.vn,608039117,268
+19341511,Nguyễn Thị Mỹ,KHDL15B,my.19341511@student.iuh.edu.vn,360663775,169
+19341521,Võ Thị Kim,HTTT15B,kim.19341521@student.iuh.edu.vn,616127100,3
+19341531,Võ Thúy,HTTT15B,thuy.19341531@student.iuh.edu.vn,892592242,262
+19341541,Võ Thị Diệu,HTTT15B,dieu.19341541@student.iuh.edu.vn,450623444,294
+19341551,Võ Hoàng,KHDL15A,hoang.19341551@student.iuh.edu.vn,798871562,58
+19341561,Nguyễn Thị Thuỳ,KTPM15B,thuy.19341561@student.iuh.edu.vn,461123266,289
+19341571,Nguyễn Thị Thanh,HTTT15B,thanh.19341571@student.iuh.edu.vn,700771237,143
+19341581,Trương Tịnh,KTPM15B,tinh.19341581@student.iuh.edu.vn,890169671,259
+19341591,Nguyễn Thị Bích,KHDL15A,bich.19341591@student.iuh.edu.vn,591973617,161
+19341601,Nguyễn Hồng,HTTT15A,hong.19341601@student.iuh.edu.vn,571682484,36
+19341611,Đỗ Phương,HTTT15A,phuong.19341611@student.iuh.edu.vn,831849745,189
+19341621,Bùi Thị,KTPM15B,thi.19341621@student.iuh.edu.vn,913470337,194
+19341631,Lâm Tâm,HTTT15A,tam.19341631@student.iuh.edu.vn,278480221,107
+19341641,Phạm Thị Ngọc,KHMT15A,ngoc.19341641@student.iuh.edu.vn,230522511,70
+19341651,Lý Quế,KTPM15B,que.19341651@student.iuh.edu.vn,734977467,93
+19341661,Lê Thị Hồng,KHMT15B,hong.19341661@student.iuh.edu.vn,877858399,123
+19341671,Nguyễn Thị Bích,HTTT15A,bich.19341671@student.iuh.edu.vn,577970414,88
+19341681,Phạm Như Thảo,HTTT15A,thao.19341681@student.iuh.edu.vn,863095360,173
+19341691,Phùng Khang,HTTT15B,khang.19341691@student.iuh.edu.vn,691756056,87
+19341701,Lữ Hoán,KTPM15B,hoan.19341701@student.iuh.edu.vn,793150868,277
+19341711,Nguyễn Hồng,HTTT15B,hong.19341711@student.iuh.edu.vn,731605382,11
+19341721,La Lan,HTTT15B,lan.19341721@student.iuh.edu.vn,260411940,105
+19341731,Nguyễn Thị Thu,KTPM15B,thu.19341731@student.iuh.edu.vn,630977742,265
+19341741,Thái Thị,KHMT15A,thi.19341741@student.iuh.edu.vn,792102832,251
+19341751,Nguyễn Ngọc Lan,KHMT15B,lan.19341751@student.iuh.edu.vn,873717198,189
+19341761,Nguyễn Thị Thanh,HTTT15A,thanh.19341761@student.iuh.edu.vn,627199715,2
+19341771,Nguyễn Thị Ngọc,KHMT15A,ngoc.19341771@student.iuh.edu.vn,903184431,131
+19341781,Nguyễn Thị Ngọc,HTTT15B,ngoc.19341781@student.iuh.edu.vn,733168849,78
+19341791,Nguyễn Trần Thục,HTTT15A,thuc.19341791@student.iuh.edu.vn,670661593,129
+19341801,Đặng Thị Khánh,HTTT15B,khanh.19341801@student.iuh.edu.vn,569966323,223
+19341811,Nguyễn Trần Sông,KTPM15A,song.19341811@student.iuh.edu.vn,830537579,221
+19341821,Đoàn Vũ Thụy,HTTT15B,thuy.19341821@student.iuh.edu.vn,762214963,281
+19341831,Nguyễn Phước Bảo,KHMT15B,bao.19341831@student.iuh.edu.vn,966922253,297
+19341841,Phan Hương,KTPM15B,huong.19341841@student.iuh.edu.vn,278292917,240
+19341851,Lê Thị Yến,HTTT15B,yen.19341851@student.iuh.edu.vn,772492429,267
+19341861,Bùi Ngọc Cam,HTTT15B,cam.19341861@student.iuh.edu.vn,899147453,104
+19341871,Nguyễn Hồng Vân,HTTT15A,van.19341871@student.iuh.edu.vn,853533195,146
+19341881,Lê Thị Thu,KHMT15B,thu.19341881@student.iuh.edu.vn,652790550,295
+19341891,Nguyễn Thị Thu,KTPM15B,thu.19341891@student.iuh.edu.vn,316255845,72
+19341901,Nguyễn Thành,HTTT15B,thanh.19341901@student.iuh.edu.vn,779744201,269
+19341911,Nguyễn Huỳnh Như,KTPM15B,nhu.19341911@student.iuh.edu.vn,905630774,4
+19341921,Trần Ngọc,HTTT15B,ngoc.19341921@student.iuh.edu.vn,561012748,174
+19341931,Nguyễn Minh,HTTT15C,minh.19341931@student.iuh.edu.vn,761419902,202
+19341941,Trần Hữu,HTTT15B,huu.19341941@student.iuh.edu.vn,671152514,130
+19341951,Huỳnh Văn,KHDL15B,van.19341951@student.iuh.edu.vn,658596528,276
+19341961,Ngô Thảo,HTTT15B,thao.19341961@student.iuh.edu.vn,548623965,44
+19341971,Phạm Thị Thu,KTPM15A,thu.19341971@student.iuh.edu.vn,863107602,60
+19341981,Lưu Gia,HTTT15C,gia.19341981@student.iuh.edu.vn,417334062,106
+19341991,Phạm Tăng Cát,HTTT15C,cat.19341991@student.iuh.edu.vn,772152398,142
+19342001,Phạm Thị Vân,HTTT15A,van.19342001@student.iuh.edu.vn,382937945,48
+19342011,Vũ Phương,HTTT15B,phuong.19342011@student.iuh.edu.vn,429681686,161
+19342021,Trương Công,KHDL15B,cong.19342021@student.iuh.edu.vn,431220503,190
+19342031,Nguyễn Hoài,HTTT15C,hoai.19342031@student.iuh.edu.vn,359373246,108
+19342041,Ngô Văn,HTTT15A,van.19342041@student.iuh.edu.vn,502233624,139
+19342051,La Chí,HTTT15C,chi.19342051@student.iuh.edu.vn,512602644,91
+19342061,Chou Kiệt,KHMT15A,kiet.19342061@student.iuh.edu.vn,250796888,299
+19342071,Nguyễn Huỳnh Kim,KTPM15A,kim.19342071@student.iuh.edu.vn,489308127,197
+19342081,Nguyễn Thành,KHMT15B,thanh.19342081@student.iuh.edu.vn,400397803,173
+19342091,Huỳnh Thụy Nguyên,KTPM15B,nguyen.19342091@student.iuh.edu.vn,616719514,167
+19342101,Trần Quan,KTPM15A,quan.19342101@student.iuh.edu.vn,543459978,244
+19342111,Nguyễn Hữu,KHDL15A,huu.19342111@student.iuh.edu.vn,939153749,179
+19342121,Trần Thanh,KHMT15A,thanh.19342121@student.iuh.edu.vn,834098037,226
+19342131,Đinh Thị Bích,KHDL15B,bich.19342131@student.iuh.edu.vn,262700276,213
+19342141,Lê Thúy Phương,HTTT15A,phuong.19342141@student.iuh.edu.vn,615204527,23
+19342151,Phạm Thành,KHDL15A,thanh.19342151@student.iuh.edu.vn,308132383,75
+19342161,Trần Thị Thanh,HTTT15C,thanh.19342161@student.iuh.edu.vn,343949009,20
+19342171,Lê Thị Phương,KTPM15B,phuong.19342171@student.iuh.edu.vn,684740453,190
+19342181,Châu Cương,KHMT15A,cuong.19342181@student.iuh.edu.vn,771510148,200
+19342191,Ngô Thanh,KHDL15B,thanh.19342191@student.iuh.edu.vn,898429436,123
+19342201,Nguyễn Mai Thanh,KHMT15A,thanh.19342201@student.iuh.edu.vn,622060916,238
+19342211,Trần Hà Đông,HTTT15B,dong.19342211@student.iuh.edu.vn,431771052,5
+19342221,Nguyễn Phan Thùy,HTTT15B,thuy.19342221@student.iuh.edu.vn,890721686,139
+19342231,Nguyễn Khánh,KTPM15A,khanh.19342231@student.iuh.edu.vn,387667799,104
+19342241,Hoàng Ngọc,KHMT15A,ngoc.19342241@student.iuh.edu.vn,897386251,226
+19342251,Trần Hữu,HTTT15B,huu.19342251@student.iuh.edu.vn,996249119,112
+19342261,Nguyễn Ngọc Đoan,HTTT15A,doan.19342261@student.iuh.edu.vn,780026360,33
+19342271,Cao Thị Thu,HTTT15A,thu.19342271@student.iuh.edu.vn,351421857,63
+19342281,Mai Quốc,KHMT15B,quoc.19342281@student.iuh.edu.vn,858563907,205
+19342291,Nguyễn Ngọc Hương,HTTT15A,huong.19342291@student.iuh.edu.vn,987968319,117
+19342301,Nguyễn Thị Thùy,HTTT15B,thuy.19342301@student.iuh.edu.vn,986479765,60
+19342311,Nguyễn Hoàng Minh,HTTT15C,minh.19342311@student.iuh.edu.vn,602436158,187
+19342321,Nguyễn Hoàng Yến,HTTT15B,yen.19342321@student.iuh.edu.vn,837823236,143
+19342331,Lê Ngọc Yến,HTTT15B,yen.19342331@student.iuh.edu.vn,993471478,44
+19342341,Trần Khánh,KHDL15B,khanh.19342341@student.iuh.edu.vn,811971011,54
+19342351,Nguyễn Huỳnh Thái,KTPM15A,thai.19342351@student.iuh.edu.vn,464927895,268
+19342361,Vĩnh Huyền Huyền Thảo,KHDL15B,thao.19342361@student.iuh.edu.vn,581035748,283
+19342371,Trần Thị Quỳnh,HTTT15B,quynh.19342371@student.iuh.edu.vn,443438512,14
+19342381,Huỳnh Giao,KHDL15B,giao.19342381@student.iuh.edu.vn,793331870,264
+19342391,Vũ Lê Thuận,HTTT15C,thuan.19342391@student.iuh.edu.vn,618994753,232
+19342401,Nguyễn Tấn,HTTT15A,tan.19342401@student.iuh.edu.vn,404836965,91
+19342411,Lâm Cẩm,KHDL15B,cam.19342411@student.iuh.edu.vn,517810800,52
+19342421,Nguyễn Duy,KTPM15A,duy.19342421@student.iuh.edu.vn,242251602,184
+19342431,Thòng Ngọc,HTTT15B,ngoc.19342431@student.iuh.edu.vn,342744971,62
+19342441,Ngô Huệ,HTTT15B,hue.19342441@student.iuh.edu.vn,908488762,49
+19342451,Triệu Trạch,HTTT15A,trach.19342451@student.iuh.edu.vn,465192189,9
+19342461,Huỳnh Ngọc,KHDL15A,ngoc.19342461@student.iuh.edu.vn,988253517,235
+19342471,Nguyễn Ngọc Bảo,HTTT15B,bao.19342471@student.iuh.edu.vn,458914368,244
+19342481,Đổ Phúc Nhĩ,HTTT15B,nhi.19342481@student.iuh.edu.vn,827382865,100
+19342491,Huỳnh Cao,HTTT15A,cao.19342491@student.iuh.edu.vn,566365126,120
+19342501,Hoàng Mai Thảo,KHMT15A,thao.19342501@student.iuh.edu.vn,753603908,64
+19342511,Đặng Thị Thục,HTTT15C,thuc.19342511@student.iuh.edu.vn,749561249,34
+19342521,Lê Quang,HTTT15B,quang.19342521@student.iuh.edu.vn,299638428,116
+19342531,Trần Cát,KTPM15A,cat.19342531@student.iuh.edu.vn,264016786,260
+19342541,Hoàng Nam,HTTT15B,nam.19342541@student.iuh.edu.vn,883547640,133
+19342551,Võ Trọng,KHDL15B,trong.19342551@student.iuh.edu.vn,835550900,20
+19342561,Nguyễn Thị Nam,HTTT15C,nam.19342561@student.iuh.edu.vn,393482919,274
+19342571,Trần Ba,KHDL15A,ba.19342571@student.iuh.edu.vn,524497159,30
+19342581,HoàNg TuấN,HTTT15C,tuán.19342581@student.iuh.edu.vn,615416828,119
+19342591,Trần Nguyên,HTTT15A,nguyen.19342591@student.iuh.edu.vn,976983765,169
+19342601,Nguyễn Long,KHDL15B,long.19342601@student.iuh.edu.vn,374165292,96
+19342611,Nguyễn Thị Hoài,KHDL15A,hoai.19342611@student.iuh.edu.vn,795553322,213
+19342621,Trương Quân,HTTT15B,quan.19342621@student.iuh.edu.vn,341029437,73
+19342631,Mai Hữu,KHDL15B,huu.19342631@student.iuh.edu.vn,969704833,285
+19342641,Lê Nguyễn Phúc,HTTT15A,phuc.19342641@student.iuh.edu.vn,431491672,210
+19342651,Dương Mỹ,KHDL15A,mỹ.19342651@student.iuh.edu.vn,915982078,28
+19342661,Trương Hữu Đức,KHDL15A,duc.19342661@student.iuh.edu.vn,234231893,168
+19342671,Nguyễn Ngọc,HTTT15B,ngoc.19342671@student.iuh.edu.vn,383698151,143
+19342681,Lê Thị Bé,KHMT15B,be.19342681@student.iuh.edu.vn,900327182,153
+19342691,Trần Lan,HTTT15A,lan.19342691@student.iuh.edu.vn,519606879,167
+19342701,Phạm Huỳnh Xuân,KTPM15B,xuan.19342701@student.iuh.edu.vn,656003867,218
+19342711,Phan Lê Minh,HTTT15B,minh.19342711@student.iuh.edu.vn,946289675,169
+19342721,Lâm Thanh,KHDL15A,thanh.19342721@student.iuh.edu.vn,313387775,95
+19342731,Trần Thị Lê,KTPM15B,le.19342731@student.iuh.edu.vn,795275524,223
+19342741,Phạm Quang,HTTT15B,quang.19342741@student.iuh.edu.vn,678366838,113
+19342751,Nguyễn Thị Hải,KTPM15B,hai.19342751@student.iuh.edu.vn,906430264,151
+19342761,Đặng Thị Hoàng,KTPM15A,hoang.19342761@student.iuh.edu.vn,283029542,268
+19342771,Nguyễn Thị Hoa,KTPM15A,hoa.19342771@student.iuh.edu.vn,254145758,9
+19342781,Nguyễn Ngọc Anh,KHDL15A,anh.19342781@student.iuh.edu.vn,643726382,79
+19342791,Lê Thị Hồng,HTTT15B,hong.19342791@student.iuh.edu.vn,978153355,168
+19342801,Nguyễn Khang,HTTT15C,khang.19342801@student.iuh.edu.vn,459929001,138
+19342811,Đoàn Thái Liêng,KHMT15B,lieng.19342811@student.iuh.edu.vn,329506725,162
+19342821,Nguyễn Thị Tuyết,HTTT15C,tuyet.19342821@student.iuh.edu.vn,903513231,146
+19342831,Bành Thanh,HTTT15C,thanh.19342831@student.iuh.edu.vn,439447344,263
+19342841,Nguyễn Văn,KHDL15A,van.19342841@student.iuh.edu.vn,943426393,203
+19342851,Nguyễn Thương Hồng,KTPM15B,hong.19342851@student.iuh.edu.vn,819317462,52
+19342861,Trần Anh,HTTT15B,anh.19342861@student.iuh.edu.vn,574305079,192
+19342871,Nguyễn Tâm,HTTT15B,tam.19342871@student.iuh.edu.vn,447379559,273
+19342881,Nguyễn Đăng,KTPM15B,dang.19342881@student.iuh.edu.vn,682680411,150
+19342891,Đinh Xuân,KTPM15A,xuan.19342891@student.iuh.edu.vn,964541791,156
+19342901,Trần Hoàng,HTTT15B,hoang.19342901@student.iuh.edu.vn,264856553,255
+19342911,Nguyễn Lê Kiều,HTTT15C,kieu.19342911@student.iuh.edu.vn,466863182,109
+19342921,Đinh Huỳnh,KHMT15B,huynh.19342921@student.iuh.edu.vn,798232045,53
+19342931,Trần Ngọc Kim,HTTT15C,kim.19342931@student.iuh.edu.vn,371884880,247
+19342941,Trần Như Hoàng,HTTT15A,hoang.19342941@student.iuh.edu.vn,847417879,237
+19342951,Nguyễn Thị,HTTT15A,thi.19342951@student.iuh.edu.vn,422981774,113
+19342961,Phạm Thị Kiều,KHMT15B,kieu.19342961@student.iuh.edu.vn,276212892,139
+19342971,Huỳnh Trúc,KHMT15A,truc.19342971@student.iuh.edu.vn,293847162,158
+19342981,Dương Đông,KTPM15B,dong.19342981@student.iuh.edu.vn,594004882,65
+19342991,Đặng Quốc,KHDL15A,quoc.19342991@student.iuh.edu.vn,292982136,179
+19343001,Lê Phạm Quỳnh,HTTT15B,quynh.19343001@student.iuh.edu.vn,680821437,186
+19343011,Nguyễn Thị Yến,KHDL15B,yen.19343011@student.iuh.edu.vn,554180975,128
+19343021,Phan Thị Ngọc,KHDL15A,ngoc.19343021@student.iuh.edu.vn,574623453,293
+19343031,Nguyễn Thuyền,KHMT15A,thuyen.19343031@student.iuh.edu.vn,620055757,150
+19343041,Lê Bỉnh,HTTT15A,binh.19343041@student.iuh.edu.vn,486504603,266
+19343051,Trương Diệu,HTTT15B,dieu.19343051@student.iuh.edu.vn,744731632,24
+19343061,Lê Thanh,HTTT15A,thanh.19343061@student.iuh.edu.vn,366222440,243
+19343071,Võ Thị Thúy,KHDL15A,thuy.19343071@student.iuh.edu.vn,557273650,232
+19343081,Trương Thị Vân,HTTT15A,van.19343081@student.iuh.edu.vn,634028553,201
+19343091,Trần Kim,HTTT15B,kim.19343091@student.iuh.edu.vn,789325110,94
+19343101,Phạm Thị Như,HTTT15C,nhu.19343101@student.iuh.edu.vn,969177037,253
+19343111,Trần Công,KHDL15A,cong.19343111@student.iuh.edu.vn,396957059,164
+19343121,Trần Tuyết,KHDL15A,tuyet.19343121@student.iuh.edu.vn,738717402,247
+19343131,Nguyễn Hằng,KHMT15B,hang.19343131@student.iuh.edu.vn,849011842,123
+19343141,Lê Thúy,KHMT15B,thuy.19343141@student.iuh.edu.vn,247122882,18
+19343151,Nguyễn Thị Kim,KTPM15B,kim.19343151@student.iuh.edu.vn,683633161,216
+19343161,Phạm Thị Hải,KHMT15B,hai.19343161@student.iuh.edu.vn,928399436,149
+19343171,Lê Hiệp,HTTT15A,hiep.19343171@student.iuh.edu.vn,287005491,75
+19343181,Nguyễn Minh,KHDL15B,minh.19343181@student.iuh.edu.vn,349786351,248
+19343191,Lê Thanh,HTTT15A,thanh.19343191@student.iuh.edu.vn,714849574,115
+19343201,Hồ Văn,KHDL15B,van.19343201@student.iuh.edu.vn,968073861,48
+19343211,Võ Thị Trúc,HTTT15B,truc.19343211@student.iuh.edu.vn,980024165,140
+19343221,Trịnh Thị Phương,HTTT15A,phuong.19343221@student.iuh.edu.vn,288855813,27
+19343231,Nguyễn Hoàng,KHMT15B,hoang.19343231@student.iuh.edu.vn,367366809,165
+19343241,Phan Minh,KHMT15B,minh.19343241@student.iuh.edu.vn,335836287,200
+19343251,Cao Ngọc Kim,KHMT15B,kim.19343251@student.iuh.edu.vn,460368383,235
+19343261,Phan Huỳnh,HTTT15B,huynh.19343261@student.iuh.edu.vn,438046852,270
+19343271,Hồ Thị Mỹ,HTTT15A,my.19343271@student.iuh.edu.vn,863315198,182
+19343281,Phạm Duy,HTTT15A,duy.19343281@student.iuh.edu.vn,450692505,42
+19343291,Trần Thị,HTTT15B,thi.19343291@student.iuh.edu.vn,936176897,252
+19343301,Đặng Phạm Kim,KHDL15A,kim.19343301@student.iuh.edu.vn,696440213,74
+19343311,Dư Thị Bảo,HTTT15A,bao.19343311@student.iuh.edu.vn,978486572,54
+19343321,Trần Thu,HTTT15B,thu.19343321@student.iuh.edu.vn,696846645,291
+19343331,Trương Thị Trúc,HTTT15A,truc.19343331@student.iuh.edu.vn,594584026,186
+19343341,Trần Hoàng,KTPM15B,hoang.19343341@student.iuh.edu.vn,812859155,13
+19343351,Trương Thị Hồng,HTTT15C,hong.19343351@student.iuh.edu.vn,540601416,220
+19343361,Võ Thị Kiều,HTTT15A,kieu.19343361@student.iuh.edu.vn,255330057,200
+19343371,Trần Anh,KHMT15A,anh.19343371@student.iuh.edu.vn,675693517,157
+19343381,Lương Thị Hồng,HTTT15B,hong.19343381@student.iuh.edu.vn,463958361,94
+19343391,Đoàn Ngọc Phương,KTPM15A,phuong.19343391@student.iuh.edu.vn,396092640,295
+19343401,Đỗ Thị Như,HTTT15A,nhu.19343401@student.iuh.edu.vn,362662400,262
+19343411,Trần Bạch,KTPM15B,bach.19343411@student.iuh.edu.vn,629277230,32
+19343421,Nguyễn Thị,KHMT15A,thi.19343421@student.iuh.edu.vn,842347917,293
+19343431,Trần Nguyễn,KHMT15A,nguyen.19343431@student.iuh.edu.vn,998736265,14
+19343441,Nguyễn Thị,HTTT15A,thi.19343441@student.iuh.edu.vn,322237665,262
+19343451,Trần Phù Phương,HTTT15A,phuong.19343451@student.iuh.edu.vn,873887615,210
+19343461,Bùi Kim,HTTT15C,kim.19343461@student.iuh.edu.vn,619834785,49
+19343471,Phạm Quốc,KHMT15A,quoc.19343471@student.iuh.edu.vn,603601842,70
+19343481,Kiều Thị Kim,HTTT15B,kim.19343481@student.iuh.edu.vn,739375449,229
+19343491,Phạm Lê Xuân,HTTT15C,xuan.19343491@student.iuh.edu.vn,780068092,126
+19343501,Võ Nguyễn Yến,KTPM15A,yen.19343501@student.iuh.edu.vn,990952774,254
+19343511,Võ Thị Thu,KTPM15A,thu.19343511@student.iuh.edu.vn,877773060,291
+19343521,Trần Như,HTTT15C,nhu.19343521@student.iuh.edu.vn,647006649,13
+19343531,Lê Thị Thanh,KHDL15A,thanh.19343531@student.iuh.edu.vn,758025865,227
+19343541,Lê Thị,KHDL15B,thi.19343541@student.iuh.edu.vn,798440394,236
+19343551,Trần Thùy,KHDL15B,thuy.19343551@student.iuh.edu.vn,476629448,200
+19343561,Nguyễn Thị Ý,HTTT15C,y.19343561@student.iuh.edu.vn,455256915,151
+19343571,Trần Minh,KHDL15B,minh.19343571@student.iuh.edu.vn,420300192,200
+19343581,Nguyễn Thị Hồng,KTPM15B,hong.19343581@student.iuh.edu.vn,445592669,7
+19343591,Phạm Phương,KTPM15B,phuong.19343591@student.iuh.edu.vn,927843642,107
+19343601,Trần Ngọc,KTPM15A,ngoc.19343601@student.iuh.edu.vn,980212221,180
+19343611,Đinh Ngọc,HTTT15C,ngoc.19343611@student.iuh.edu.vn,235869417,256
+19343621,Vi Mai,KHMT15B,mai.19343621@student.iuh.edu.vn,402774674,157
+19343631,Nguyễn Ngô Thanh,KHMT15B,thanh.19343631@student.iuh.edu.vn,469641207,296
+19343641,Nguyễn Thị Hồng,KTPM15A,hong.19343641@student.iuh.edu.vn,263910617,82
+19343651,Huỳnh Thị Tường,KHDL15A,tuong.19343651@student.iuh.edu.vn,639207511,43
+19343661,Nguyễn Mai Thanh,HTTT15B,thanh.19343661@student.iuh.edu.vn,823655928,3
+19343671,Đặng Huỳnh,HTTT15A,huynh.19343671@student.iuh.edu.vn,641248733,68
+19343681,Lê HoàNg Gia,KHMT15B,gia.19343681@student.iuh.edu.vn,745738190,137
+19343691,Phạm Thị Hồng,KTPM15B,hong.19343691@student.iuh.edu.vn,969725725,213
+19343701,Lê Thị Thu,KHDL15B,thu.19343701@student.iuh.edu.vn,562041546,265
+19343711,Nguyễn Trần Phương,KTPM15A,phuong.19343711@student.iuh.edu.vn,700437084,105
+19343721,Võ La Hoàng Thúy,KTPM15B,thuy.19343721@student.iuh.edu.vn,657191652,106
+19343731,Triệu Thu,HTTT15C,thu.19343731@student.iuh.edu.vn,525687508,157
+19343741,Huỳnh Nguyễn Thanh,HTTT15B,thanh.19343741@student.iuh.edu.vn,850007531,96
+19343751,Trần Thiên,HTTT15B,thien.19343751@student.iuh.edu.vn,332568119,254
+19343761,Nguyễn Mai,HTTT15C,mai.19343761@student.iuh.edu.vn,275164616,226
+19343771,Nguyễn Minh,HTTT15B,minh.19343771@student.iuh.edu.vn,613269464,247
+19343781,Nguyễn Thu,KHDL15B,thu.19343781@student.iuh.edu.vn,682789744,81
+19343791,Nguyễn Thúy,HTTT15B,thuy.19343791@student.iuh.edu.vn,819299918,82
+19343801,Nguyễn Hoàng,HTTT15A,hoang.19343801@student.iuh.edu.vn,358193355,175
+19343811,Trần Đào Minh,HTTT15A,minh.19343811@student.iuh.edu.vn,650639039,139
+19343821,Châu Phạm Châu,KHDL15A,chau.19343821@student.iuh.edu.vn,636221247,296
+19343831,Bùi Mạnh,KHDL15B,manh.19343831@student.iuh.edu.vn,298068757,9
+19343841,Nguyễn Lê Kim,HTTT15A,kim.19343841@student.iuh.edu.vn,736898288,248
+19343851,Nguyễn Hữu,KTPM15A,huu.19343851@student.iuh.edu.vn,552006342,233
+19343861,Nguyễn Huỳnh Khánh,HTTT15A,khanh.19343861@student.iuh.edu.vn,445898321,46
+19343871,Bùi Quang,KHDL15B,quang.19343871@student.iuh.edu.vn,521234444,181
+19343881,Đinh Lan Thảo,HTTT15C,thao.19343881@student.iuh.edu.vn,385994318,164
+19343891,Trần Tiểu,HTTT15A,tieu.19343891@student.iuh.edu.vn,796550640,89
+19343901,Trương Hữu,HTTT15B,huu.19343901@student.iuh.edu.vn,343920983,55
+19343911,Trần Ngọc,HTTT15B,ngoc.19343911@student.iuh.edu.vn,640931627,124
+19343921,Nguyễn Ngọc Uyển,HTTT15C,uyen.19343921@student.iuh.edu.vn,522974113,239
+19343931,Trần Lê Thiên,HTTT15B,thien.19343931@student.iuh.edu.vn,674666686,56
+19343941,Lý Ngọc Như,KTPM15A,nhu.19343941@student.iuh.edu.vn,867115297,33
+19343951,Lê Hà Phương,KHMT15A,phuong.19343951@student.iuh.edu.vn,421005848,35
+19343961,Trần Thị Thanh,HTTT15A,thanh.19343961@student.iuh.edu.vn,617916243,145
+19343971,Trần Hà Triệu,HTTT15C,trieu.19343971@student.iuh.edu.vn,941817628,253
+19343981,Hồ Lê Quỳnh,HTTT15C,quynh.19343981@student.iuh.edu.vn,701311365,229
+19343991,Phạm Thị,KTPM15A,thi.19343991@student.iuh.edu.vn,318003352,288
+19344001,Trần Thị Hải,HTTT15C,hai.19344001@student.iuh.edu.vn,660670588,271
+19344011,Phùng Thọ Thiên,KHMT15B,thien.19344011@student.iuh.edu.vn,851040344,139
+19344021,Nguyễn Vũ Thanh,HTTT15B,thanh.19344021@student.iuh.edu.vn,548790550,221
+19344031,Trần Thị Tường,HTTT15B,tuong.19344031@student.iuh.edu.vn,810322229,14
+19344041,Nguyễn Hạ Đan,KHDL15B,dan.19344041@student.iuh.edu.vn,234818058,5
+19344051,Tạ Nguyễn Thuỷ,KTPM15A,thuy.19344051@student.iuh.edu.vn,935481946,56
+19344061,Võ Thu,HTTT15A,thu.19344061@student.iuh.edu.vn,278592852,193
+19344071,Vũ Trà,HTTT15A,tra.19344071@student.iuh.edu.vn,899331648,60
+19344081,Nguyễn Thị Mỹ,KTPM15B,my.19344081@student.iuh.edu.vn,591216665,250
+19344091,Trần Phương,KHDL15B,phuong.19344091@student.iuh.edu.vn,437857378,146
+19344101,Huỳnh Yến,HTTT15B,yen.19344101@student.iuh.edu.vn,424833801,294
+19344111,Trần Gia,HTTT15B,gia.19344111@student.iuh.edu.vn,501978924,293
+19344121,Huỳnh Lê Thảo,KHMT15A,thao.19344121@student.iuh.edu.vn,412544692,108
+19344131,Nguyễn Thị Ngọc,HTTT15C,ngoc.19344131@student.iuh.edu.vn,229472556,118
+19344141,Nguyễn Hoàng Ngọc Mỹ,KHMT15A,my.19344141@student.iuh.edu.vn,271972473,80
+19344151,Nguyễn Kim,KHMT15A,kim.19344151@student.iuh.edu.vn,485301545,62
+19344161,Cao Nhật,KHDL15B,nhat.19344161@student.iuh.edu.vn,465144698,248
+19344171,Đặng Thị Thùy,HTTT15B,thuy.19344171@student.iuh.edu.vn,407625446,208
+19344181,Từ Hỷ,HTTT15C,hy.19344181@student.iuh.edu.vn,810636348,265
+19344191,La Bích,KTPM15B,bich.19344191@student.iuh.edu.vn,991260427,135
+19344201,Lý Huệ,HTTT15A,hue.19344201@student.iuh.edu.vn,344556338,55
+19344211,Nguyễn Thị Hà,KTPM15B,ha.19344211@student.iuh.edu.vn,462535514,203
+19344221,Hồ Khiết,HTTT15B,khiet.19344221@student.iuh.edu.vn,502396442,154
+19344231,Nguyễn Thị Bích,KHMT15A,bich.19344231@student.iuh.edu.vn,899452210,275
+19344241,Cao Thị,KHMT15B,thi.19344241@student.iuh.edu.vn,664798503,116
+19344251,Trương Diệu,KHMT15B,dieu.19344251@student.iuh.edu.vn,390714687,100
+19344261,Nguyễn Thị Thanh,HTTT15B,thanh.19344261@student.iuh.edu.vn,402890465,3
+19344271,Trần Thị,KHMT15A,thi.19344271@student.iuh.edu.vn,319509507,108
+19344281,Trịnh Thị,KTPM15B,thi.19344281@student.iuh.edu.vn,491263741,266
+19344291,Nguyễn Anh,HTTT15B,anh.19344291@student.iuh.edu.vn,444488648,106
+19344301,Nguyễn Thị Mỹ,HTTT15B,my.19344301@student.iuh.edu.vn,503464440,175
+19344311,Lê Dương Minh,HTTT15B,minh.19344311@student.iuh.edu.vn,245711686,167
+19344321,Hồ Ngọc Gia,HTTT15A,gia.19344321@student.iuh.edu.vn,641892613,201
+19344331,Hồ Thị,HTTT15B,thi.19344331@student.iuh.edu.vn,699972629,106
+19344341,Nguyễn Thị Thu,HTTT15A,thu.19344341@student.iuh.edu.vn,280229711,79
+19344351,Trần Châu Thanh,HTTT15C,thanh.19344351@student.iuh.edu.vn,798602185,145
+19344361,Huỳnh Gia,KHMT15A,gia.19344361@student.iuh.edu.vn,508637303,190
+19344371,Huỳnh Thị,KTPM15B,thi.19344371@student.iuh.edu.vn,791316946,185
+19344381,Phí Huyền,KTPM15B,huyen.19344381@student.iuh.edu.vn,562470236,160
+19344391,Lê Thị Như,HTTT15A,nhu.19344391@student.iuh.edu.vn,814626755,220
+19344401,Nguyễn Thiện,KHMT15A,thien.19344401@student.iuh.edu.vn,295457187,33
+19344411,Phan Thị,KTPM15B,thi.19344411@student.iuh.edu.vn,631660859,26
+19344421,Nguyễn Thị Hồng,HTTT15A,hong.19344421@student.iuh.edu.vn,827762946,43
+19344431,Đặng Phương,KTPM15A,phuong.19344431@student.iuh.edu.vn,583768179,15
+19344441,Dương Huỳnh Đăng,KHMT15B,dang.19344441@student.iuh.edu.vn,364715119,247
+19344451,Trần Thị Huỳnh,KHDL15A,huynh.19344451@student.iuh.edu.vn,376674003,86
+19344461,Nguyễn Minh,KHDL15A,minh.19344461@student.iuh.edu.vn,829359441,248
+19344471,Nguyễn Minh,HTTT15A,minh.19344471@student.iuh.edu.vn,759685717,99
+19344481,Nguyễn Thị Lan,HTTT15A,lan.19344481@student.iuh.edu.vn,273501133,148
+19344491,Thân Thanh,HTTT15A,thanh.19344491@student.iuh.edu.vn,960718124,226
+19344501,Vương Thị Vân,KHDL15A,van.19344501@student.iuh.edu.vn,526069402,293
+19344511,Nguyễn Khánh,KTPM15A,khanh.19344511@student.iuh.edu.vn,702421451,53
+19344521,Nguyễn Yến,HTTT15A,yen.19344521@student.iuh.edu.vn,261433569,160
+19344531,Nguyễn Thị Thanh,KHDL15A,thanh.19344531@student.iuh.edu.vn,493082142,13
+19344541,Nguyễn Thị Huỳnh,HTTT15B,huynh.19344541@student.iuh.edu.vn,685714876,116
+19344551,Vũ Hồ Trâm,KTPM15B,tram.19344551@student.iuh.edu.vn,803143309,72
+19344561,Hà Duy Thiên,KHMT15A,thien.19344561@student.iuh.edu.vn,708255222,283
+19344571,Lê Thị Mai,KHDL15A,mai.19344571@student.iuh.edu.vn,404549916,266
+19344581,Nguyễn Minh,KHMT15A,minh.19344581@student.iuh.edu.vn,792815036,108
+19344591,Trần Lâm Bảo,HTTT15B,bao.19344591@student.iuh.edu.vn,873736540,182
+19344601,Vương Chí,KTPM15B,chi.19344601@student.iuh.edu.vn,527928675,36
+19344611,Nguyễn Thành,HTTT15A,thanh.19344611@student.iuh.edu.vn,672402412,249
+19344621,Phùng Tuệ,HTTT15C,tue.19344621@student.iuh.edu.vn,358508728,275
+19344631,Nguyễn Ngọc,HTTT15A,ngoc.19344631@student.iuh.edu.vn,593250550,277
+19344641,Nguyễn Thị Thùy,KHDL15B,thuy.19344641@student.iuh.edu.vn,862614672,6
+19344651,Lê Viết,KTPM15B,viet.19344651@student.iuh.edu.vn,992373082,211
+19344661,Nguyễn Hoàng Hạnh,HTTT15B,hanh.19344661@student.iuh.edu.vn,914055501,245
+19344671,Nguyễn Lâm Thiên,HTTT15A,thien.19344671@student.iuh.edu.vn,306655517,119
+19344681,Lâm Huệ,HTTT15C,hue.19344681@student.iuh.edu.vn,716552799,205
+19344691,Hồ Hồng,HTTT15B,hong.19344691@student.iuh.edu.vn,696887978,283
+19344701,Nguyễn Minh,KTPM15B,minh.19344701@student.iuh.edu.vn,461958353,108
+19344711,Phạm Thị Ý,KHDL15A,y.19344711@student.iuh.edu.vn,832836597,18
+19344721,Lê Nguyễn Ngọc,HTTT15A,ngoc.19344721@student.iuh.edu.vn,461371783,10
+19344731,Trần Đặng Hồng,HTTT15A,hong.19344731@student.iuh.edu.vn,327375261,167
+19344741,Nguyễn Nhật,HTTT15C,nhat.19344741@student.iuh.edu.vn,254216890,4
+19344751,Trần Đại Đình,KTPM15B,dinh.19344751@student.iuh.edu.vn,549141561,9
+19344761,Trần Phước,KHDL15A,phuoc.19344761@student.iuh.edu.vn,232119115,180
+19344771,Phạm Hoàng,KHDL15A,hoang.19344771@student.iuh.edu.vn,482425565,289
+19344781,Nguyễn Huỳnh Thảo,HTTT15A,thao.19344781@student.iuh.edu.vn,617922453,23
+19344791,Trần Nhật,KTPM15A,nhat.19344791@student.iuh.edu.vn,530695436,264
+19344801,Lê Hoàng Minh,KTPM15A,minh.19344801@student.iuh.edu.vn,730077702,22
+19344811,Huỳnh Tấn,KHMT15B,tan.19344811@student.iuh.edu.vn,426407419,20
+19344821,Hoàng Mai Minh,KHMT15A,minh.19344821@student.iuh.edu.vn,822087343,91
+19344831,Trần Thị Xuân,KTPM15B,xuan.19344831@student.iuh.edu.vn,873926501,40
+19344841,Nguyễn Văn Thành,HTTT15A,thanh.19344841@student.iuh.edu.vn,233058849,293
+19344851,Trần Khải,HTTT15B,khai.19344851@student.iuh.edu.vn,270225210,265
+19344861,Phạm Nguyên,KHMT15A,nguyen.19344861@student.iuh.edu.vn,680058981,113
+19344871,Phan Thị Thu,KHDL15A,thu.19344871@student.iuh.edu.vn,263198719,179
+19344881,Nguyễn Văn,HTTT15A,van.19344881@student.iuh.edu.vn,694148448,45
+19344891,Ngô Trúc,HTTT15B,truc.19344891@student.iuh.edu.vn,406458635,29
+19344901,Vũ Việt,HTTT15C,viet.19344901@student.iuh.edu.vn,987428482,65
+19344911,Nguyễn Nhật,KHMT15A,nhat.19344911@student.iuh.edu.vn,872877812,184
+19344921,Vũ Hiền,HTTT15B,hien.19344921@student.iuh.edu.vn,273146015,59
+19344931,Võ Lê Hoàng Quốc,KTPM15A,quoc.19344931@student.iuh.edu.vn,714627605,45
+19344941,Nguyễn Thị Thúy,KTPM15A,thuy.19344941@student.iuh.edu.vn,435253215,162
+19344951,Mai Tấn,HTTT15B,tan.19344951@student.iuh.edu.vn,760831421,33
+19344961,Cao Trần Thảo,HTTT15B,thao.19344961@student.iuh.edu.vn,414490232,287
+19344971,Bùi Văn,KHMT15B,van.19344971@student.iuh.edu.vn,237858266,13
+19344981,Nguyễn Hoàng,KHDL15B,hoang.19344981@student.iuh.edu.vn,478366906,190
+19344991,Nguyễn Viên Trung,KTPM15A,trung.19344991@student.iuh.edu.vn,767638302,120
+19345001,Lê Cao Quyết,HTTT15C,quyet.19345001@student.iuh.edu.vn,606304973,66
+19345011,Châu Bích,HTTT15C,bich.19345011@student.iuh.edu.vn,888177218,153
+19345021,Đặng Văn,KHMT15A,van.19345021@student.iuh.edu.vn,239816967,240
+19345031,Trần Thanh,KHDL15A,thanh.19345031@student.iuh.edu.vn,242660212,22
+19345041,Trần Hiếu,KHMT15A,hieu.19345041@student.iuh.edu.vn,323813508,39
+19345051,Lê Trần Thủy,KHMT15B,thuy.19345051@student.iuh.edu.vn,668435062,225
+19345061,Lê Nguyễn Hoàng,HTTT15B,hoang.19345061@student.iuh.edu.vn,484834170,81
+19345071,Đỗ Ngọc Thùy,HTTT15C,thuy.19345071@student.iuh.edu.vn,309617233,14
+19345081,Nguyễn Thị Tuyết,KTPM15B,tuyet.19345081@student.iuh.edu.vn,795721043,110
+19345091,Thái Ngọc,HTTT15A,ngoc.19345091@student.iuh.edu.vn,348591481,14
+19345101,Nguyễn Thị Mai,HTTT15B,mai.19345101@student.iuh.edu.vn,446222242,133
+19345111,Phan Ngọc,KHMT15A,ngoc.19345111@student.iuh.edu.vn,337137569,72
+19345121,Nguyễn Minh,KHMT15B,minh.19345121@student.iuh.edu.vn,864006729,36
+19345131,Chống Chí,KHMT15A,chi.19345131@student.iuh.edu.vn,585660272,13
+19345141,Lâm Chấn,HTTT15B,chan.19345141@student.iuh.edu.vn,424065215,230
+19345151,Nguyễn Thị Huyền,HTTT15B,huyen.19345151@student.iuh.edu.vn,871441285,262
+19345161,Phạm Nguyệt,KTPM15B,nguyet.19345161@student.iuh.edu.vn,924251007,220
+19345171,Nguyễn Phước,KHDL15A,phuoc.19345171@student.iuh.edu.vn,978580917,281
+19345181,Nguyễn Hữu Minh,HTTT15B,minh.19345181@student.iuh.edu.vn,682644617,170
+19345191,Nguyễn Thị Thanh,KHMT15B,thanh.19345191@student.iuh.edu.vn,803133654,88
+19345201,Nguyễn Thị Thảo,HTTT15C,thao.19345201@student.iuh.edu.vn,464589804,261
+19345211,Hồ Phan Khánh,HTTT15B,khanh.19345211@student.iuh.edu.vn,719064399,249
+19345221,Hoàng Thị Minh,HTTT15C,minh.19345221@student.iuh.edu.vn,279987715,19
+19345231,Lê Đình Ngọc,HTTT15C,ngoc.19345231@student.iuh.edu.vn,519095141,245
+19345241,Huỳnh Phạm Phát,KHDL15A,phat.19345241@student.iuh.edu.vn,315361093,262
+19345251,Phan Trung,KHMT15B,trung.19345251@student.iuh.edu.vn,341523682,97
+19345261,Hoàng Ngọc,KTPM15A,ngoc.19345261@student.iuh.edu.vn,610412542,130
+19345271,Dương Khắc,KTPM15B,khac.19345271@student.iuh.edu.vn,345008546,211
+19345281,Nguyễn Nhật,HTTT15C,nhat.19345281@student.iuh.edu.vn,377862470,144
+19345291,Nguyễn Ngọc Trâm,KHDL15A,tram.19345291@student.iuh.edu.vn,259252114,11
+19345301,Nguyễn Thị,KHDL15A,thi.19345301@student.iuh.edu.vn,624525803,254
+19345311,Trần Thị Vân,HTTT15B,van.19345311@student.iuh.edu.vn,455983989,290
+19345321,Nguyễn Thị Giảng,KHDL15B,giang.19345321@student.iuh.edu.vn,806926999,197
+19345331,Lê Thị Thu,KHDL15B,thu.19345331@student.iuh.edu.vn,466681915,269
+19345341,Huỳnh Nguyễn Mai,KHDL15A,mai.19345341@student.iuh.edu.vn,961529265,267
+19345351,Trần Thị Kiều,HTTT15B,kieu.19345351@student.iuh.edu.vn,789193761,295
+19345361,Võ Thị,HTTT15B,thi.19345361@student.iuh.edu.vn,738957123,208
+19345371,Mai Lý Thảo,KHDL15A,thao.19345371@student.iuh.edu.vn,236433949,130
+19345381,Nguyễn Thị Cẩm,KHMT15A,cam.19345381@student.iuh.edu.vn,621197275,51
+19345391,Nguyễn Thùy Thi,HTTT15B,thi.19345391@student.iuh.edu.vn,539225561,68
+19345401,Trần Thị Mai,HTTT15B,mai.19345401@student.iuh.edu.vn,277170207,266
+19345411,Hoàng Quỳnh,HTTT15A,quynh.19345411@student.iuh.edu.vn,980556202,267
+19345421,Nguyễn Thị Mỹ,KHMT15B,my.19345421@student.iuh.edu.vn,978731215,25
+19345431,Hồ Huỳnh Xuân,HTTT15A,xuan.19345431@student.iuh.edu.vn,634681950,40
+19345441,Võ Thị Thùy,KHMT15B,thuy.19345441@student.iuh.edu.vn,223287472,102
+19345451,Nguyễn Huỳnh Thiên,HTTT15C,thien.19345451@student.iuh.edu.vn,601727421,1
+19345461,Phạm Thị Thu,HTTT15B,thu.19345461@student.iuh.edu.vn,875349232,295
+19345471,Nguyễn Văn,KTPM15B,van.19345471@student.iuh.edu.vn,310384908,157
+19345481,Thị Trinh,KHMT15B,trinh.19345481@student.iuh.edu.vn,878491562,12
+19345491,Phan Gia,KHDL15B,gia.19345491@student.iuh.edu.vn,623945133,84
+19345501,Đỗ Đức,KTPM15A,duc.19345501@student.iuh.edu.vn,311261047,144
+19345511,Nguyễn Hoàng,KTPM15B,hoang.19345511@student.iuh.edu.vn,950118704,101
+19345521,Lê Trần Anh,HTTT15A,anh.19345521@student.iuh.edu.vn,834429682,96
+19345531,Vũ Thị Minh,KHMT15B,minh.19345531@student.iuh.edu.vn,937871524,238
+19345541,Tiêu Mộng,HTTT15A,mong.19345541@student.iuh.edu.vn,252103954,42
+19345551,Nguyễn Ngọc,KTPM15A,ngoc.19345551@student.iuh.edu.vn,690646548,198
+19345561,Đỗ Thị Thanh,KTPM15A,thanh.19345561@student.iuh.edu.vn,429442068,13
+19345571,Đinh Thị Trúc,KTPM15A,truc.19345571@student.iuh.edu.vn,457900661,153
+19345581,Trương Mỹ,HTTT15C,my.19345581@student.iuh.edu.vn,584446177,147
+19345591,Đào Thanh,HTTT15B,thanh.19345591@student.iuh.edu.vn,790066289,261
+19345601,Tạ Vũ Thiên,HTTT15B,thien.19345601@student.iuh.edu.vn,498684508,75
+19345611,Đinh Thị Phương,HTTT15A,phuong.19345611@student.iuh.edu.vn,588972320,138
+19345621,Nguyễn Thị Anh,KHDL15B,anh.19345621@student.iuh.edu.vn,799965587,7
+19345631,La Mai Thanh,HTTT15A,thanh.19345631@student.iuh.edu.vn,574583651,62
+19345641,Nguyễn Thạch Kim,HTTT15A,kim.19345641@student.iuh.edu.vn,262152250,258
+19345651,Đỗ Thị Cẩm,HTTT15A,cam.19345651@student.iuh.edu.vn,428008289,157
+19345661,Phạm Thị Thanh,KTPM15B,thanh.19345661@student.iuh.edu.vn,793820058,7
+19345671,Thái Thị Hồng,KHDL15A,hong.19345671@student.iuh.edu.vn,349167923,292
+19345681,Nguyễn Ngọc Hương,KHMT15A,huong.19345681@student.iuh.edu.vn,927346798,154
+19345691,Hà Như,HTTT15B,nhu.19345691@student.iuh.edu.vn,294893981,166
+19345701,Hồ Cẩm,KHMT15B,cam.19345701@student.iuh.edu.vn,450195432,177
+19345711,Nguyễn Thị Xuân,HTTT15B,xuan.19345711@student.iuh.edu.vn,738366941,237
+19345721,Phạm Thị Thanh,KHMT15A,thanh.19345721@student.iuh.edu.vn,655104503,160
+19345731,Trương Phan Minh,HTTT15B,minh.19345731@student.iuh.edu.vn,398954955,245
+19345741,Đỗ Trương Hồng,HTTT15B,hong.19345741@student.iuh.edu.vn,680467839,25
+19345751,Đỗ Nguyễn Phương,HTTT15B,phuong.19345751@student.iuh.edu.vn,354551388,107
+19345761,Nguyễn Thị Mỹ,HTTT15C,my.19345761@student.iuh.edu.vn,499907978,69
+19345771,Nguyễn Xuân,KTPM15A,xuan.19345771@student.iuh.edu.vn,498359258,237
+19345781,Nguyễn Đình Tuấn,KTPM15A,tuan.19345781@student.iuh.edu.vn,985022348,149
+19345791,Lợi Mỹ,KTPM15B,my.19345791@student.iuh.edu.vn,540364099,49
+19345801,Trần Trung,KHMT15A,trung.19345801@student.iuh.edu.vn,301994910,42
+19345811,Trương Thị Phương,KTPM15A,phuong.19345811@student.iuh.edu.vn,633239341,208
+19345821,Nguyễn Trần Ngọc,KTPM15A,ngoc.19345821@student.iuh.edu.vn,306527513,128
+19345831,Đặng Thị Mỹ,KHMT15B,my.19345831@student.iuh.edu.vn,618911739,120
+19345841,Nguyễn Ngọc Thúy,HTTT15B,thuy.19345841@student.iuh.edu.vn,664249820,264
+19345851,Nguyễn Khánh,KHDL15B,khanh.19345851@student.iuh.edu.vn,610833856,188
+19345861,Lý Gia,KHDL15A,gia.19345861@student.iuh.edu.vn,401249960,146
+19345871,Tăng Thục,HTTT15A,thuc.19345871@student.iuh.edu.vn,514894430,33
+19345881,Nguyễn Lưu Lan,HTTT15A,lan.19345881@student.iuh.edu.vn,276899205,27
+19345891,Nguyễn Thị,HTTT15A,thi.19345891@student.iuh.edu.vn,544434892,276
+19345901,Lâm Phương,HTTT15B,phuong.19345901@student.iuh.edu.vn,988924882,147
+19345911,Lâm Yến,KTPM15B,yen.19345911@student.iuh.edu.vn,774869876,210
+19345921,Phạm Như,HTTT15C,nhu.19345921@student.iuh.edu.vn,886753001,119
+19345931,Lâm Quang,KHMT15B,quang.19345931@student.iuh.edu.vn,872823466,62
+19345941,Nguyễn Thị Thu,KHMT15A,thu.19345941@student.iuh.edu.vn,228687110,187
+19345951,Huỳnh Vương,KHMT15B,vuong.19345951@student.iuh.edu.vn,788945316,210
+19345961,Huỳnh Ngọc Lâm,KTPM15B,lam.19345961@student.iuh.edu.vn,709392854,279
+19345971,Nguyễn Thị Thảo,HTTT15C,thao.19345971@student.iuh.edu.vn,839895759,106
+19345981,Đỗ Nguyễn Thảo,KHDL15B,thao.19345981@student.iuh.edu.vn,307488547,264
+19345991,Soa Bảo,KHMT15B,bao.19345991@student.iuh.edu.vn,857079390,95
+19346001,Lâm Gia,HTTT15A,gia.19346001@student.iuh.edu.vn,247300402,159
+19346011,Trần Triều,KTPM15A,trieu.19346011@student.iuh.edu.vn,361589070,93
+19346021,Tạ Nhật,KTPM15A,nhat.19346021@student.iuh.edu.vn,241782481,35
+19346031,Giang Tuyết,HTTT15B,tuyet.19346031@student.iuh.edu.vn,249022904,285
+19346041,Thái Thiên Hoàng,KHMT15B,hoang.19346041@student.iuh.edu.vn,966325488,265
+19346051,Nguyễn Bá Hạnh,KTPM15A,hanh.19346051@student.iuh.edu.vn,487214711,236
+19346061,Lư Ngọc,KTPM15A,ngoc.19346061@student.iuh.edu.vn,883667906,43
+19346071,Lê Minh,HTTT15B,minh.19346071@student.iuh.edu.vn,312456795,225
+19346081,Trần Tuyết,HTTT15A,tuyet.19346081@student.iuh.edu.vn,923736344,64
+19346091,Quan Phối,HTTT15A,phoi.19346091@student.iuh.edu.vn,827697334,179
+19346101,Võ Lê Anh,KHDL15B,anh.19346101@student.iuh.edu.vn,432547434,148
+19346111,Đào Khánh,HTTT15A,khanh.19346111@student.iuh.edu.vn,855582296,61
+19346121,Trần Thị Thúy,KHMT15A,thuy.19346121@student.iuh.edu.vn,296838559,179
+19346131,Võ Lập,KHDL15A,lap.19346131@student.iuh.edu.vn,252679103,266
+19346141,Võ Diệp Xuân,HTTT15B,xuan.19346141@student.iuh.edu.vn,718227343,108
+19346151,Hoàng Thị Mai,HTTT15A,mai.19346151@student.iuh.edu.vn,514117502,158
+19346161,Lê Ngọc Gia,KTPM15B,gia.19346161@student.iuh.edu.vn,303162162,261
+19346171,Đoàn Ngọc,HTTT15B,ngoc.19346171@student.iuh.edu.vn,676979377,215
+19346181,Phạm Hoàng,KHDL15B,hoang.19346181@student.iuh.edu.vn,496770882,168
+19346191,Trần Thị Thu,HTTT15B,thu.19346191@student.iuh.edu.vn,395504243,132
+19346201,Nguyễn Thị Kim,HTTT15A,kim.19346201@student.iuh.edu.vn,919380616,259
+19346211,Lương Hồng,KTPM15A,hong.19346211@student.iuh.edu.vn,746778289,249
+19346221,Dương Tuấn,KTPM15A,tuan.19346221@student.iuh.edu.vn,543780969,155
+19346231,Hà Phúc Thiên,HTTT15C,thien.19346231@student.iuh.edu.vn,456378701,4
+19346241,Dương Gia,HTTT15C,gia.19346241@student.iuh.edu.vn,650173152,64
+19346251,Nguyễn Huy,KTPM15B,huy.19346251@student.iuh.edu.vn,624132111,46
+19346261,Diệp Thế,KHDL15B,the.19346261@student.iuh.edu.vn,279001365,238
+19346271,Nguyễn Thu Hoàng,KHDL15B,hoang.19346271@student.iuh.edu.vn,561143277,228
+19346281,Nguyễn Phi,HTTT15A,phi.19346281@student.iuh.edu.vn,520825583,262
+19346291,Nguyễn Hoàng,KHMT15B,hoang.19346291@student.iuh.edu.vn,987754011,73
+19346301,Trần Ka,HTTT15C,ka.19346301@student.iuh.edu.vn,883512519,131
+19346311,Lê Quốc,HTTT15A,quoc.19346311@student.iuh.edu.vn,623158548,274
+19346321,Phạm Thị Linh,HTTT15B,linh.19346321@student.iuh.edu.vn,518454866,138
+19346331,Lê Thị Hoàng,HTTT15A,hoang.19346331@student.iuh.edu.vn,757915898,199
+19346341,TrầN Thị Thanh,HTTT15A,thanh.19346341@student.iuh.edu.vn,673307285,152
+19346351,Bùi Khánh Hương,HTTT15B,huong.19346351@student.iuh.edu.vn,792047017,44
+19346361,Trịnh Thị Hà,KHMT15A,ha.19346361@student.iuh.edu.vn,796381209,30
+19346371,Trần Hồng,KTPM15B,hong.19346371@student.iuh.edu.vn,741929875,189
+19346381,Nguyễn Tuấn,KHMT15B,tuan.19346381@student.iuh.edu.vn,554826381,259
+19346391,Nguyễn Thị Anh,KTPM15A,anh.19346391@student.iuh.edu.vn,729423682,284
+19346401,Nguyễn Thiện,HTTT15B,thien.19346401@student.iuh.edu.vn,471928989,105
+19346411,Nguyễn Thị Hồng,KTPM15A,hong.19346411@student.iuh.edu.vn,674601975,186
+19346421,Đỗ Thị Tuyết,HTTT15B,tuyet.19346421@student.iuh.edu.vn,639460403,289
+19346431,Nguyễn Trần Bảo,HTTT15B,bao.19346431@student.iuh.edu.vn,762136579,86
+19346441,Phạm Ngọc Bảo,KHMT15A,bao.19346441@student.iuh.edu.vn,547667103,242
+19346451,Lê Phương,HTTT15B,phuong.19346451@student.iuh.edu.vn,475142186,225
+19346461,Nguyễn Kim,HTTT15B,kim.19346461@student.iuh.edu.vn,833099953,46
+19346471,Nguyễn Ngọc Minh,KHDL15B,minh.19346471@student.iuh.edu.vn,304934244,261
+19346481,Huỳnh Hải,KHMT15A,hai.19346481@student.iuh.edu.vn,239876717,39
+19346491,Hà Văn,HTTT15A,van.19346491@student.iuh.edu.vn,659435229,215
+19346501,Nguyễn Hữu,HTTT15A,huu.19346501@student.iuh.edu.vn,874230550,224
+19346511,Nguyễn Hà Kim,KTPM15B,kim.19346511@student.iuh.edu.vn,532665184,81
+19346521,Hà Cửu Long,KHMT15B,long.19346521@student.iuh.edu.vn,924421742,164
+19346531,Dương Ngọc,HTTT15A,ngoc.19346531@student.iuh.edu.vn,422578383,46
+19346541,Vương Thị Minh,KHDL15B,minh.19346541@student.iuh.edu.vn,515138854,222
+19346551,Nguyễn Thế,HTTT15B,the.19346551@student.iuh.edu.vn,407184783,181
+19346561,Lê Diệu,HTTT15A,dieu.19346561@student.iuh.edu.vn,724979332,28
+19346571,Thới Ngọc,KHDL15B,ngoc.19346571@student.iuh.edu.vn,692620677,253
+19346581,Huỳnh Ngọc Hoàng,KTPM15A,hoang.19346581@student.iuh.edu.vn,805972022,269
+19346591,Nguyễn Nhật,KTPM15A,nhat.19346591@student.iuh.edu.vn,262906869,251
+19346601,Phạm Đinh Thanh,KHMT15A,thanh.19346601@student.iuh.edu.vn,927566200,167
+19346611,Nguyễn Lý Cẩm,KHMT15B,cam.19346611@student.iuh.edu.vn,575821762,17
+19346621,Huỳnh Ngọc Thủy,KTPM15B,thuy.19346621@student.iuh.edu.vn,629597409,34
+19346631,Phạm Kim,HTTT15B,kim.19346631@student.iuh.edu.vn,983271630,21
+19346641,Nguyễn Lưu Quỳnh,KHMT15A,quynh.19346641@student.iuh.edu.vn,717872319,94
+19346651,Trần Kim Trúc,KTPM15B,truc.19346651@student.iuh.edu.vn,309336786,111
+19346661,Huỳnh Mỹ,KHDL15B,my.19346661@student.iuh.edu.vn,842651938,3
+19346671,Trần Duy Thanh,KHMT15A,thanh.19346671@student.iuh.edu.vn,240336215,89
+19346681,Lê Cát,HTTT15A,cat.19346681@student.iuh.edu.vn,639108414,272
+19346691,Nguyễn Trường,HTTT15C,truong.19346691@student.iuh.edu.vn,443193419,123
+19346701,Tăng Ngọc,HTTT15B,ngoc.19346701@student.iuh.edu.vn,395993689,180
+19346711,Nguyễn Tuấn,KTPM15A,tuan.19346711@student.iuh.edu.vn,899729261,295
+19346721,Lê Khánh,KTPM15B,khanh.19346721@student.iuh.edu.vn,758921254,249
+19346731,Vũ Minh,KHDL15A,minh.19346731@student.iuh.edu.vn,651457960,175
+19346741,Nguyễn Đinh Thu,KTPM15B,thu.19346741@student.iuh.edu.vn,484720982,267
+19346751,Lê Hoàng Minh,HTTT15B,minh.19346751@student.iuh.edu.vn,818421621,117
+19346761,Nguyễn Phương,KTPM15B,phuong.19346761@student.iuh.edu.vn,681808908,74
+19346771,Lê Minh,HTTT15A,minh.19346771@student.iuh.edu.vn,975149309,58
+19346781,Lê Văn,KTPM15B,van.19346781@student.iuh.edu.vn,797380710,222
+19346791,Nguyễn Đức Anh,KHMT15B,anh.19346791@student.iuh.edu.vn,878936722,161
+19346801,Võ Anh,KTPM15B,anh.19346801@student.iuh.edu.vn,400125781,251
+19346811,Bùi Ngọc,HTTT15A,ngoc.19346811@student.iuh.edu.vn,485499744,188
+19346821,Phan Thanh,HTTT15B,thanh.19346821@student.iuh.edu.vn,448841327,238
+19346831,Trần Văn,HTTT15B,van.19346831@student.iuh.edu.vn,944602886,112
+19346841,Hồ Văn,HTTT15C,van.19346841@student.iuh.edu.vn,412661056,164
+19346851,Phạm Thụy Phương,KHMT15A,phuong.19346851@student.iuh.edu.vn,364995362,30
+19346861,Lê Minh,HTTT15A,minh.19346861@student.iuh.edu.vn,475176676,165
+19346871,Nguyễn Thị Diễm,HTTT15C,diem.19346871@student.iuh.edu.vn,266932717,178
+19346881,Trương Tuấn,KHDL15B,tuan.19346881@student.iuh.edu.vn,639225857,174
+19346891,Hồ Thị Ngọc,HTTT15B,ngoc.19346891@student.iuh.edu.vn,850462911,217
+19346901,Hứa Thanh,KTPM15B,thanh.19346901@student.iuh.edu.vn,584175917,178
+19346911,Võ Thành,HTTT15A,thanh.19346911@student.iuh.edu.vn,338411278,157
+19346921,Hoàng Thị Kim,KHDL15A,kim.19346921@student.iuh.edu.vn,775304011,22
+19346931,Bùi Nguyễn Quốc,HTTT15A,quoc.19346931@student.iuh.edu.vn,405585540,278
+19346941,Lê Thị Anh,KHMT15B,anh.19346941@student.iuh.edu.vn,889942102,192
+19346951,Châu Thị Cẩm,KHDL15B,cam.19346951@student.iuh.edu.vn,872109765,20
+19346961,Vương Thị Phương,KHMT15A,phuong.19346961@student.iuh.edu.vn,339418581,185
+19346971,Lê Xuân,HTTT15A,xuan.19346971@student.iuh.edu.vn,979136002,40
+19346981,Trương Thị Thanh,KTPM15A,thanh.19346981@student.iuh.edu.vn,249226586,260
+19346991,Nguyễn Hoàng Đăng,KTPM15A,dang.19346991@student.iuh.edu.vn,572073694,100
+19347001,Đinh Lê Bảo,KHMT15A,bao.19347001@student.iuh.edu.vn,246653396,119
+19347011,Nguyễn Trung,KTPM15B,trung.19347011@student.iuh.edu.vn,725839126,180
+19347021,Nguyễn Bảo,HTTT15B,bao.19347021@student.iuh.edu.vn,513576426,128
+19347031,Lê Đỗ Đăng,KHDL15A,dang.19347031@student.iuh.edu.vn,647613972,37
+19347041,Nguyễn Văn,KTPM15A,van.19347041@student.iuh.edu.vn,877666571,278
+19347051,Nguyễn Thị Mỹ,HTTT15C,my.19347051@student.iuh.edu.vn,449291763,67
+19347061,Nguyễn Thị Cẩm,HTTT15A,cam.19347061@student.iuh.edu.vn,350132794,36
+19347071,Nguyễn Tấn,HTTT15C,tan.19347071@student.iuh.edu.vn,877468562,231
+19347081,Trần Hoàng Yến,KHMT15B,yen.19347081@student.iuh.edu.vn,914514927,119
+19347091,Nguyễn Khánh,HTTT15A,khanh.19347091@student.iuh.edu.vn,561318091,199
+19347101,Phạm Hoài,HTTT15A,hoai.19347101@student.iuh.edu.vn,231961252,132
+19347111,Lê Minh,KTPM15A,minh.19347111@student.iuh.edu.vn,260906531,275
+19347121,Trương Minh,KHMT15B,minh.19347121@student.iuh.edu.vn,227923767,130
+19347131,Huỳnh Mạnh,HTTT15C,manh.19347131@student.iuh.edu.vn,812256420,202
+19347141,Thái Gia,KTPM15B,gia.19347141@student.iuh.edu.vn,511330028,5
+19347151,Phạm Thành,KTPM15A,thanh.19347151@student.iuh.edu.vn,846570636,189
+19347161,Nguyễn Đông,HTTT15C,dong.19347161@student.iuh.edu.vn,559032399,33
+19347171,Trần Thanh,KTPM15A,thanh.19347171@student.iuh.edu.vn,922373395,149
+19347181,Võ Thị Quế,KHDL15A,que.19347181@student.iuh.edu.vn,341854308,5
+19347191,Mai Lê,KTPM15B,le.19347191@student.iuh.edu.vn,240007558,26
+19347201,Lê Văn,HTTT15A,van.19347201@student.iuh.edu.vn,942907873,31
+19347211,Lương Thị Ngọc,HTTT15B,ngoc.19347211@student.iuh.edu.vn,853330576,212
+19347221,Trần Kim,HTTT15C,kim.19347221@student.iuh.edu.vn,509626890,93
+19347231,Vũ Phan Thùy,KHDL15B,thuy.19347231@student.iuh.edu.vn,615429103,52
+19347241,Nguyễn Thị Thuỳ,HTTT15A,thuy.19347241@student.iuh.edu.vn,436669382,112
+19347251,Nguyễn Đình,HTTT15B,dinh.19347251@student.iuh.edu.vn,720454695,128
+19347261,Nguyễn Thị Hồng,HTTT15A,hong.19347261@student.iuh.edu.vn,335683838,224
+19347271,Bùi Thị Thủy,KHDL15B,thuy.19347271@student.iuh.edu.vn,429432563,175
+19347281,Nguyễn Ngọc Thanh,HTTT15B,thanh.19347281@student.iuh.edu.vn,787823838,183
+19347291,Nguyễn Thị Hằng,KHMT15A,hang.19347291@student.iuh.edu.vn,290402855,181
+19347301,Lê Hoàng,HTTT15A,hoang.19347301@student.iuh.edu.vn,824897027,48
+19347311,Trương Gia,KTPM15B,gia.19347311@student.iuh.edu.vn,833971929,163
+19347321,Huỳnh Thị Thanh,KHDL15B,thanh.19347321@student.iuh.edu.vn,437730218,159
+19347331,Lâm Bảo,KHDL15A,bao.19347331@student.iuh.edu.vn,961560073,24
+19347341,Trần Thị Ngọc,HTTT15A,ngoc.19347341@student.iuh.edu.vn,691126036,140
+19347351,Lục Thị,KTPM15A,thi.19347351@student.iuh.edu.vn,313871885,4
+19347361,Hồ Như,HTTT15B,nhu.19347361@student.iuh.edu.vn,728783695,171
+19347371,Phan Thị Ngọc,KHDL15A,ngoc.19347371@student.iuh.edu.vn,623511392,179
+19347381,Lê Thị Kim,KHMT15A,kim.19347381@student.iuh.edu.vn,585559471,120
+19347391,Nguyễn Ngọc Mỹ,KTPM15B,my.19347391@student.iuh.edu.vn,364321931,282
+19347401,Nguyễn Thị Lan,KHMT15A,lan.19347401@student.iuh.edu.vn,482002682,115
+19347411,Nguyễn Thái,HTTT15B,thai.19347411@student.iuh.edu.vn,289106276,261
+19347421,Nguyễn Huỳnh Xuân,HTTT15B,xuan.19347421@student.iuh.edu.vn,681571219,157
+19347431,Huỳnh Thị Thanh,HTTT15A,thanh.19347431@student.iuh.edu.vn,301370661,249
+19347441,Phan Ngọc,KHMT15A,ngoc.19347441@student.iuh.edu.vn,749360092,32
+19347451,Bùi Thị Minh,KTPM15A,minh.19347451@student.iuh.edu.vn,366942167,77
+19347461,Trần Thị Thu,KHMT15A,thu.19347461@student.iuh.edu.vn,325533967,60
+19347471,Phùng Đức Minh,KHDL15A,minh.19347471@student.iuh.edu.vn,546516865,234
+19347481,Lê Thị Phương,HTTT15B,phuong.19347481@student.iuh.edu.vn,328255484,113
+19347491,Nguyễn Thị Ngọc,HTTT15B,ngoc.19347491@student.iuh.edu.vn,781485725,176
+19347501,Trần Thị Kim,KHMT15A,kim.19347501@student.iuh.edu.vn,471718019,33
+19347511,Lê Hoàng,KTPM15A,hoang.19347511@student.iuh.edu.vn,327757884,209
+19347521,Ngô Thị Ánh,HTTT15B,anh.19347521@student.iuh.edu.vn,577913693,121
+19347531,Trương Thị Thanh,HTTT15B,thanh.19347531@student.iuh.edu.vn,301492937,259
+19347541,Nguyễn Quang,KTPM15B,quang.19347541@student.iuh.edu.vn,624151593,223
+19347551,Bùi Quang Công,KHDL15A,cong.19347551@student.iuh.edu.vn,353782291,144
+19347561,Võ Nguyễn Anh,KHDL15A,anh.19347561@student.iuh.edu.vn,476768074,58
+19347571,Hà Vụng,KTPM15B,vung.19347571@student.iuh.edu.vn,432014615,149
+19347581,Nguyễn Minh,HTTT15C,minh.19347581@student.iuh.edu.vn,384279883,51
+19347591,Đậu Hải,KTPM15B,hai.19347591@student.iuh.edu.vn,948565501,199
+19347601,Nguyễn Thị Thanh,HTTT15C,thanh.19347601@student.iuh.edu.vn,696047895,112
+19347611,Đinh Thị Hải,KHMT15B,hai.19347611@student.iuh.edu.vn,640569048,9
+19347621,Võ Thị Thanh,KTPM15A,thanh.19347621@student.iuh.edu.vn,639122943,117
+19347631,Phan Nguyễn Quỳnh,KHMT15B,quynh.19347631@student.iuh.edu.vn,801229145,271
+19347641,Lâm,HTTT15A,lam.19347641@student.iuh.edu.vn,683857911,244
+19347651,Hàn Minh,HTTT15B,minh.19347651@student.iuh.edu.vn,459511839,80
+19347661,Phạm Nguyễn Trúc,KHMT15B,truc.19347661@student.iuh.edu.vn,937546695,48
+19347671,Ngô Thanh,KHDL15B,thanh.19347671@student.iuh.edu.vn,682776612,189
+19347681,Trần Tuyết,KTPM15A,tuyet.19347681@student.iuh.edu.vn,304219595,10
+19347691,Thái Thục,KHMT15A,thuc.19347691@student.iuh.edu.vn,333688044,133
+19347701,Nguyễn Bảo Gia,KTPM15B,gia.19347701@student.iuh.edu.vn,878791371,221
+19347711,Nguyễn Đăng,KHDL15B,dang.19347711@student.iuh.edu.vn,589202777,50
+19347721,Nguyễn Tuấn,KHMT15B,tuan.19347721@student.iuh.edu.vn,445427461,18
+19347731,Hoàng Thị Quỳnh,HTTT15B,quynh.19347731@student.iuh.edu.vn,496438676,130
+19347741,Đỗ Nguyễn Hoàng,KTPM15B,hoang.19347741@student.iuh.edu.vn,256650230,197
+19347751,Ngô Trần Thúy,KHDL15A,thuy.19347751@student.iuh.edu.vn,972002868,197
+19347761,Nguyễn Quốc,KHMT15B,quoc.19347761@student.iuh.edu.vn,560626766,290
+19347771,Trương Kim,KHDL15B,kim.19347771@student.iuh.edu.vn,837567412,295
+19347781,Trần Thị Ngọc,KHMT15A,ngoc.19347781@student.iuh.edu.vn,774448863,178
+19347791,Phùng Lê Phương,KTPM15B,phuong.19347791@student.iuh.edu.vn,240278086,87
+19347801,Lê Nguyễn Thanh,HTTT15B,thanh.19347801@student.iuh.edu.vn,687379826,186
+19347811,Nguyễn Thúy,KHDL15A,thuy.19347811@student.iuh.edu.vn,946733341,220
+19347821,Phạm Văn Trường,KHDL15A,truong.19347821@student.iuh.edu.vn,287463876,218
+19347831,Trần Hữu,HTTT15B,huu.19347831@student.iuh.edu.vn,662029805,243
+19347841,Nguyễn Thị Tuyết,HTTT15B,tuyet.19347841@student.iuh.edu.vn,529848338,9
+19347851,Nguyễn Trần Minh,KHDL15A,minh.19347851@student.iuh.edu.vn,240485016,252
+19347861,Ngô Phạm Minh,KHDL15B,minh.19347861@student.iuh.edu.vn,971757623,54
+19347871,Nguyễn Phan Chánh,KHDL15B,chanh.19347871@student.iuh.edu.vn,859648987,224
+19347881,Đặng Thị Thanh,KTPM15B,thanh.19347881@student.iuh.edu.vn,375046611,263
+19347891,Thái Hồng Thủy,KHMT15A,thuy.19347891@student.iuh.edu.vn,659493913,231
+19347901,Phan Thị Thu,KHDL15B,thu.19347901@student.iuh.edu.vn,312843748,212
+19347911,Lê Nguyễn Quỳnh,HTTT15C,quynh.19347911@student.iuh.edu.vn,610688769,153
+19347921,Trần Hoàng,KHDL15A,hoang.19347921@student.iuh.edu.vn,656992429,288
+19347931,Dương Trần Hiếu,KHDL15B,hieu.19347931@student.iuh.edu.vn,607512216,160
+19347941,Dương Phúc Phụng,KHMT15B,phung.19347941@student.iuh.edu.vn,387225685,143
+19347951,Lê Thanh,KHMT15A,thanh.19347951@student.iuh.edu.vn,681514732,72
+19347961,Nguyễn Văn,HTTT15B,van.19347961@student.iuh.edu.vn,338925834,256
+19347971,Nguyễn Ngọc Bảo,KHMT15A,bao.19347971@student.iuh.edu.vn,373523756,15
+19347981,Nguyễn Thị Hồng,HTTT15A,hong.19347981@student.iuh.edu.vn,933139075,19
+19347991,Phan Thị Ái,HTTT15C,ai.19347991@student.iuh.edu.vn,545298996,180
+19348001,Phan Hồ Hải,HTTT15C,hai.19348001@student.iuh.edu.vn,955304016,201
+19348011,Trần Vũ Hoàng,HTTT15A,hoang.19348011@student.iuh.edu.vn,806891833,13
+19348021,Nguyễn Viết Thảo,HTTT15B,thao.19348021@student.iuh.edu.vn,228405106,106
+19348031,Lý Ngọc,HTTT15A,ngoc.19348031@student.iuh.edu.vn,568268698,146
+19348041,Võ Thị Thùy,KHDL15A,thuy.19348041@student.iuh.edu.vn,393657813,161
+19348051,Đặng Thành,HTTT15B,thanh.19348051@student.iuh.edu.vn,443486011,41
+19348061,Trần Tuấn,KHMT15B,tuan.19348061@student.iuh.edu.vn,613581019,41
+19348071,Lê Thị Hương,KTPM15A,huong.19348071@student.iuh.edu.vn,303567504,229
+19348081,Trần Gia,KTPM15A,gia.19348081@student.iuh.edu.vn,866557546,231
+19348091,Nguyễn Lê Anh,HTTT15B,anh.19348091@student.iuh.edu.vn,702930797,275
+19348101,Huỳnh Thảo,HTTT15A,thao.19348101@student.iuh.edu.vn,651068177,253
+19348111,Nguyễn Thụy Tường,KHDL15A,tuong.19348111@student.iuh.edu.vn,784983119,240
+19348121,Trần Minh,KHMT15A,minh.19348121@student.iuh.edu.vn,794473968,226
+19348131,Nguyễn Thị Thanh,HTTT15C,thanh.19348131@student.iuh.edu.vn,925520352,19
+19348141,Tào Tuyết,KTPM15A,tuyet.19348141@student.iuh.edu.vn,648858849,220
+19348151,Nguyễn Tốt Thủy,KHMT15B,thuy.19348151@student.iuh.edu.vn,330005851,31
+19348161,Nguyễn Thị Ngọc,HTTT15A,ngoc.19348161@student.iuh.edu.vn,739846658,60
+19348171,Nguyễn Thị Tố,KTPM15B,to.19348171@student.iuh.edu.vn,523665139,87
+19348181,Trịnh Hoài Thu,HTTT15A,thu.19348181@student.iuh.edu.vn,445691088,246
+19348191,Bùi Thị Phương,KHDL15B,phuong.19348191@student.iuh.edu.vn,227359169,274
+19348201,Huỳnh Mai,KHMT15A,mai.19348201@student.iuh.edu.vn,415889736,5
+19348211,Đỗ Mỹ,HTTT15B,my.19348211@student.iuh.edu.vn,256644114,56
+19348221,Lư Gia,HTTT15A,gia.19348221@student.iuh.edu.vn,710645383,116
+19348231,Quách Mỹ,HTTT15A,my.19348231@student.iuh.edu.vn,651613486,134
+19348241,Phạm Thị Cẩm,HTTT15A,cam.19348241@student.iuh.edu.vn,819005424,258
+19348251,Ngô Huệ,KHMT15B,hue.19348251@student.iuh.edu.vn,353385763,108
+19348261,Nguyễn Thị Vân,KHMT15B,van.19348261@student.iuh.edu.vn,448847922,222
+19348271,Nguyễn Thị Xuân,HTTT15B,xuan.19348271@student.iuh.edu.vn,795385568,130
+19348281,Võ Ngọc Thiên,HTTT15A,thien.19348281@student.iuh.edu.vn,718093643,256
+19348291,Nguyễn Phạm Trúc,HTTT15B,truc.19348291@student.iuh.edu.vn,670007748,205
+19348301,Lê Thanh,KTPM15A,thanh.19348301@student.iuh.edu.vn,638551275,258
+19348311,Trần Thái Tú,HTTT15A,tu.19348311@student.iuh.edu.vn,813634789,238
+19348321,Nguyễn Thị Thế,KHMT15B,the.19348321@student.iuh.edu.vn,984659988,131
+19348331,Đặng Công,KHDL15B,cong.19348331@student.iuh.edu.vn,949240056,99
+19348341,Phan Hoàng,HTTT15B,hoang.19348341@student.iuh.edu.vn,291438363,17
+19348351,Lâm Võ Thị Thủy,KHDL15B,thuy.19348351@student.iuh.edu.vn,605303864,265
+19348361,Lê Hoài,HTTT15B,hoai.19348361@student.iuh.edu.vn,291592824,141
+19348371,Đỗ Quỳnh Anh,KTPM15A,anh.19348371@student.iuh.edu.vn,812505930,50
+19348381,Đặng Trần Ngọc,HTTT15B,ngoc.19348381@student.iuh.edu.vn,880771367,181
+19348391,Phan Minh,KHMT15A,minh.19348391@student.iuh.edu.vn,823966726,219
+19348401,Nguyễn Thị Thu,KTPM15B,thu.19348401@student.iuh.edu.vn,528278870,289
+19348411,Trần Nguyễn Tuấn,HTTT15B,tuan.19348411@student.iuh.edu.vn,583673213,45
+19348421,Trần Gia,KTPM15B,gia.19348421@student.iuh.edu.vn,284754922,14
+19348431,Đặng Phương,HTTT15A,phuong.19348431@student.iuh.edu.vn,344859720,62
+19348441,Nguyễn Minh,KHMT15A,minh.19348441@student.iuh.edu.vn,293083182,85
+19348451,Nguyễn Lê Quốc,KHDL15B,quoc.19348451@student.iuh.edu.vn,552827394,170
+19348461,Dương Ngọc,HTTT15A,ngoc.19348461@student.iuh.edu.vn,559507225,169
+19348471,Hoàng Minh,HTTT15A,minh.19348471@student.iuh.edu.vn,917761438,68
+19348481,Vũ Ngọc Thiên,KHDL15B,thien.19348481@student.iuh.edu.vn,962174257,23
+19348491,Huỳnh Gia,KTPM15A,gia.19348491@student.iuh.edu.vn,724297874,202
+19348501,Nguyễn Thanh,KTPM15A,thanh.19348501@student.iuh.edu.vn,905596017,285
+19348511,Nguyễn Việt,HTTT15C,viet.19348511@student.iuh.edu.vn,950607701,125
+19348521,Lê Thị Ngọc,HTTT15C,ngoc.19348521@student.iuh.edu.vn,317675651,87
+19348531,Hoàng Quốc,HTTT15A,quoc.19348531@student.iuh.edu.vn,341414640,80
+19348541,Lê Minh,HTTT15A,minh.19348541@student.iuh.edu.vn,463210660,253
+19348551,Đinh Quang,KHMT15A,quang.19348551@student.iuh.edu.vn,681868935,4
+19348561,Nguyễn Minh,KHMT15A,minh.19348561@student.iuh.edu.vn,812305829,181
+19348571,Lê Hồng,HTTT15A,hong.19348571@student.iuh.edu.vn,394097641,40
+19348581,Đặng Thị Tường,KHMT15B,tuong.19348581@student.iuh.edu.vn,644223623,188
+19348591,Lê Minh,HTTT15B,minh.19348591@student.iuh.edu.vn,256075854,169
+19348601,Huỳnh Lữ Trâm,KHMT15A,tram.19348601@student.iuh.edu.vn,525359905,12
+19348611,Nguyễn Linh,HTTT15A,linh.19348611@student.iuh.edu.vn,282498445,289
+19348621,Bùi Thị Thảo,HTTT15B,thao.19348621@student.iuh.edu.vn,771956095,131
+19348631,Nguyễn Bình,HTTT15C,binh.19348631@student.iuh.edu.vn,493038692,237
+19348641,Nguyễn Diệu,KHDL15A,dieu.19348641@student.iuh.edu.vn,925939706,251
+19348651,Nguyễn Thị Anh,KTPM15B,anh.19348651@student.iuh.edu.vn,471938305,9
+19348661,Nguyễn Trọng,HTTT15C,trong.19348661@student.iuh.edu.vn,369816509,296
+19348671,Ngô Gia,KHMT15B,gia.19348671@student.iuh.edu.vn,699312236,210
+19348681,Ngô Thành Gia,KHDL15A,gia.19348681@student.iuh.edu.vn,910122368,63
+19348691,Nguyễn Phạm Quốc,HTTT15A,quoc.19348691@student.iuh.edu.vn,708072619,275
+19348701,Lưu Mỹ,KHDL15B,my.19348701@student.iuh.edu.vn,890768342,273
+19348711,Nguyễn Thị Hương,KHMT15B,huong.19348711@student.iuh.edu.vn,514319631,98
+19348721,Sơn Ngọc,HTTT15B,ngoc.19348721@student.iuh.edu.vn,517709309,175
+19348731,Nguyễn Ngô Tấn,KTPM15B,tan.19348731@student.iuh.edu.vn,977264173,279
+19348741,Ngô Hùng,KHDL15A,hung.19348741@student.iuh.edu.vn,816522829,200
+19348751,Huỳnh Thị,HTTT15B,thi.19348751@student.iuh.edu.vn,990309680,1
+19348761,Nguyễn Trần Bảo,HTTT15A,bao.19348761@student.iuh.edu.vn,575575641,107
+19348771,Mai Xuân,KHMT15B,xuan.19348771@student.iuh.edu.vn,642153116,43
+19348781,Huỳnh Nguyễn Tuyết,KHDL15A,tuyet.19348781@student.iuh.edu.vn,239547801,240
+19348791,Trần Minh,KTPM15B,minh.19348791@student.iuh.edu.vn,439625900,153
+19348801,Võ Thị Thảo,HTTT15A,thao.19348801@student.iuh.edu.vn,817837467,172
+19348811,Nguyễn Đình Quốc,HTTT15A,quoc.19348811@student.iuh.edu.vn,939731394,95
+19348821,Trần Đài,KHMT15B,dai.19348821@student.iuh.edu.vn,600094938,212
+19348831,Đặng Thị Thảo,KHMT15B,thao.19348831@student.iuh.edu.vn,257131044,158
+19348841,Nguyễn Tấn,KHDL15B,tan.19348841@student.iuh.edu.vn,561940582,261
+19348851,Hoàng Tấn,KHMT15A,tan.19348851@student.iuh.edu.vn,760040793,56
+19348861,Huỳnh Duy,KTPM15B,duy.19348861@student.iuh.edu.vn,918941897,272
+19348871,Nguyễn Vũ Mai,KTPM15A,mai.19348871@student.iuh.edu.vn,694650268,127
+19348881,Huỳnh Trọng,KHMT15A,trong.19348881@student.iuh.edu.vn,320265761,14
+19348891,Trần Ngọc Quế,KTPM15B,que.19348891@student.iuh.edu.vn,637059599,267
+19348901,Lương Thị Phương,HTTT15A,phuong.19348901@student.iuh.edu.vn,353911512,129
+19348911,Võ Thị Phương,HTTT15B,phuong.19348911@student.iuh.edu.vn,255416125,292
+19348921,Cáp Ngọc Bảo,HTTT15B,bao.19348921@student.iuh.edu.vn,892018979,280
+19348931,Trương Lê Gia,HTTT15B,gia.19348931@student.iuh.edu.vn,944360142,114
+19348941,Nguyễn Thái,HTTT15B,thai.19348941@student.iuh.edu.vn,837754005,64
+19348951,Trần Trung,KHDL15A,trung.19348951@student.iuh.edu.vn,751670943,29
+19348961,Trần Đặng Minh,HTTT15B,minh.19348961@student.iuh.edu.vn,807167451,30
+19348971,Lê Viết,KTPM15A,viet.19348971@student.iuh.edu.vn,675285466,36
+19348981,Nguyễn Hiền,KTPM15A,hien.19348981@student.iuh.edu.vn,858984338,158
+19348991,Châu Bảo,KHMT15A,bao.19348991@student.iuh.edu.vn,264084068,217
+19349001,Lâm Gia,HTTT15C,gia.19349001@student.iuh.edu.vn,317970196,224
+19349011,Đinh Vũ Thùy,HTTT15C,thuy.19349011@student.iuh.edu.vn,661500922,43
+19349021,Trần Việt,HTTT15C,viet.19349021@student.iuh.edu.vn,646182152,10
+19349031,Trần Nhật,KHDL15A,nhat.19349031@student.iuh.edu.vn,399809933,225
+19349041,Thiêu Tuấn,KHDL15A,tuan.19349041@student.iuh.edu.vn,852739705,165
+19349051,Lê Quốc,HTTT15B,quoc.19349051@student.iuh.edu.vn,639397886,161
+19349061,Phạm Thị Ngọc,HTTT15B,ngoc.19349061@student.iuh.edu.vn,357287971,7
+19349071,Lê Thị Thu,KHMT15B,thu.19349071@student.iuh.edu.vn,856564489,184
+19349081,Phạm Thị Bích,KTPM15A,bich.19349081@student.iuh.edu.vn,935238418,156
+19349091,Huỳnh Minh,KHMT15A,minh.19349091@student.iuh.edu.vn,411085079,144
+19349101,Trần Thị Thanh,KHDL15B,thanh.19349101@student.iuh.edu.vn,782646119,117
+19349111,Lương Thảo,HTTT15B,thao.19349111@student.iuh.edu.vn,869595725,137
+19349121,Lê Thị Hồng,KHMT15B,hong.19349121@student.iuh.edu.vn,905402829,265
+19349131,Ngô Thị Anh,KHMT15A,anh.19349131@student.iuh.edu.vn,910161817,279
+19349141,Đặng Nguyên,HTTT15B,nguyen.19349141@student.iuh.edu.vn,789140334,53
+19349151,Lê Thị Hồng,KHDL15B,hong.19349151@student.iuh.edu.vn,834776222,263
+19349161,Hồ Thị Minh,KTPM15B,minh.19349161@student.iuh.edu.vn,469482307,86
+19349171,Vũ Minh,HTTT15C,minh.19349171@student.iuh.edu.vn,753702977,198
+19349181,Phan Khánh,KHDL15A,khanh.19349181@student.iuh.edu.vn,974593918,212
+19349191,Nguyễn Thanh,KTPM15A,thanh.19349191@student.iuh.edu.vn,915499807,272
+19349201,Nguyễn Đỗ Tuyết,HTTT15B,tuyet.19349201@student.iuh.edu.vn,802145578,21
+19349211,Lê Thảo Nguyên,KHMT15A,nguyen.19349211@student.iuh.edu.vn,827294681,51
+19349221,Dương Gia,HTTT15B,gia.19349221@student.iuh.edu.vn,490737805,254
+19349231,Huỳnh Thị Ngọc,HTTT15A,ngoc.19349231@student.iuh.edu.vn,714033768,240
+19349241,Trần Bảo,KHMT15B,bao.19349241@student.iuh.edu.vn,626318508,276
+19349251,Phạm Võ Quý,HTTT15A,quy.19349251@student.iuh.edu.vn,718599920,218
+19349261,Lê Huỳnh Anh,HTTT15A,anh.19349261@student.iuh.edu.vn,990304614,161
+19349271,Lê Thị Mỹ,HTTT15B,my.19349271@student.iuh.edu.vn,628954978,58
+19349281,Châu Thị Mỹ,KHMT15B,my.19349281@student.iuh.edu.vn,333975943,154
+19349291,Lê Huỳnh Trúc Ly,HTTT15A,ly.19349291@student.iuh.edu.vn,705022537,138
+19349301,Nguyễn Thu Ngân,HTTT15B,ngan.19349301@student.iuh.edu.vn,531459561,249
+19349311,Trần Hồng Bảo Ngọc,KHMT15A,ngoc.19349311@student.iuh.edu.vn,517300186,143
+19349321,Thạch Chanh Sai Gia,HTTT15B,gia.19349321@student.iuh.edu.vn,549531750,151
+19349331,Nguyễn Phương Ngân,HTTT15A,ngan.19349331@student.iuh.edu.vn,529265808,128
+19349341,Nguyễn Huỳnh Mai Trúc,KHMT15A,truc.19349341@student.iuh.edu.vn,638545414,22
+19349351,Châu Lan Anh,KHDL15A,anh.19349351@student.iuh.edu.vn,808497338,229
+19349361,Võ Ngọc Hân,HTTT15C,han.19349361@student.iuh.edu.vn,375359787,140
+19349371,Chim Nhật Hoàng,HTTT15A,hoang.19349371@student.iuh.edu.vn,223712590,262
+19349381,Thái Thị Yến Nhi,HTTT15B,nhi.19349381@student.iuh.edu.vn,466960712,179
+19349391,Cao Hoàng Phương Trinh,HTTT15B,trinh.19349391@student.iuh.edu.vn,828151646,299
+19349401,Hồng Thị Khánh Vân,HTTT15C,van.19349401@student.iuh.edu.vn,405771733,73
+19349411,Phan Yến Vi,KTPM15A,vi.19349411@student.iuh.edu.vn,881701995,6
+19349421,Vũ Hồ Vân Nhi,KTPM15A,nhi.19349421@student.iuh.edu.vn,361107637,291
+19349431,Lê Thị Thúy Quyên,KHDL15B,quyen.19349431@student.iuh.edu.vn,237808270,101
+19349441,Nguyễn Thị Ngọc Diễm,HTTT15A,diem.19349441@student.iuh.edu.vn,592565488,25
+19349451,Phạm Lê Thu Dung,HTTT15B,dung.19349451@student.iuh.edu.vn,622769626,206
+19349461,Mai Lê Hải Đoan,KHMT15A,doan.19349461@student.iuh.edu.vn,573987187,63
+19349471,Bùi Đông Hồ,KHDL15A,ho.19349471@student.iuh.edu.vn,963643783,295
+19349481,Nguyễn Thị Kiều,KTPM15B,kieu.19349481@student.iuh.edu.vn,922253453,100
+19349491,Triệu Nam Lộc,KHMT15A,loc.19349491@student.iuh.edu.vn,323985420,258
+19349501,Nguyễn Thị Kim Ngân,KTPM15A,ngan.19349501@student.iuh.edu.vn,498635776,40
+19349511,Nguyễn Tân Đông Phát,HTTT15A,phat.19349511@student.iuh.edu.vn,271926213,228
+19349521,Lê Minh Hoàng Phượng,HTTT15B,phuong.19349521@student.iuh.edu.vn,893679610,55
+19349531,Thạch Vương Tín,KHMT15B,tin.19349531@student.iuh.edu.vn,584610158,110
+19349541,Nguyễn Thị Thanh Vân,KTPM15B,van.19349541@student.iuh.edu.vn,744492288,31
+19349551,Nguyễn Thị Hạnh Đào,HTTT15A,dao.19349551@student.iuh.edu.vn,254954422,237
+19349561,Huỳnh Thị Trúc Giang,HTTT15B,giang.19349561@student.iuh.edu.vn,915732184,51
+19349571,Huỳnh Thị Thúy Hằng,HTTT15A,hang.19349571@student.iuh.edu.vn,996107072,158
+19349581,Hồng Kim Ngân,HTTT15C,ngan.19349581@student.iuh.edu.vn,629078048,269
+19349591,Đặng Thị Huỳnh Như,HTTT15B,nhu.19349591@student.iuh.edu.vn,562195463,278
+19349601,Nguyễn Thị Bích Như,HTTT15C,nhu.19349601@student.iuh.edu.vn,502520318,70
+19349611,Trần Minh Nhựt,KHDL15A,nhut.19349611@student.iuh.edu.vn,328661601,211
+19349621,Trần Thị Huyền Trâm,HTTT15A,tram.19349621@student.iuh.edu.vn,950147894,263
+19349631,Nguyễn Thị Huỳnh Châm,HTTT15A,cham.19349631@student.iuh.edu.vn,542972530,39
+19349641,Phạm Thị Cẩm Giang,KHDL15B,giang.19349641@student.iuh.edu.vn,522121089,183
+19349651,Nguyễn Gia Hân,KHDL15A,han.19349651@student.iuh.edu.vn,701767607,148
+19349661,Nguyễn Trung Hiếu,KTPM15B,hieu.19349661@student.iuh.edu.vn,438234156,226
+19349671,Huỳnh Hửu Khoa,HTTT15B,khoa.19349671@student.iuh.edu.vn,983094853,287
+19349681,Nguyễn Lâm Trúc Lam,KTPM15A,lam.19349681@student.iuh.edu.vn,412026445,235
+19349691,Nguyễn Trần Phương Linh,HTTT15B,linh.19349691@student.iuh.edu.vn,587258396,80
+19349701,Thị Thuận,HTTT15A,thuan.19349701@student.iuh.edu.vn,334631356,155
+19349711,Lê Thị Tuyết Xuân,KHDL15A,xuan.19349711@student.iuh.edu.vn,450254535,36
+19349721,Nguyễn Thị Hoài Băng,HTTT15A,bang.19349721@student.iuh.edu.vn,622377644,296
+19349731,Lê Thị Thúy Di,HTTT15A,di.19349731@student.iuh.edu.vn,818587948,11
+19349741,Nguyễn Thị Tài Duy,KHDL15A,duy.19349741@student.iuh.edu.vn,407196203,242
+19349751,Tạ Tuyết Hân,KHMT15A,han.19349751@student.iuh.edu.vn,259375962,151
+19349761,Nguyễn Cẩm Lài,KHMT15A,lai.19349761@student.iuh.edu.vn,372333221,289
+19349771,Trần Thị Kim Lít,KHMT15A,lit.19349771@student.iuh.edu.vn,604537724,70
+19349781,Đặng Thị Tuyết Minh,KHDL15B,minh.19349781@student.iuh.edu.vn,501134701,38
+19349791,Mã Thanh Như,HTTT15A,nhu.19349791@student.iuh.edu.vn,518626626,299
+19349801,Tăng Thị Thanh Thanh,KTPM15A,thanh.19349801@student.iuh.edu.vn,481766444,7
+19349811,Lê Đặng Anh Thư,KHDL15A,thu.19349811@student.iuh.edu.vn,880395949,274
+19349821,Phan Bảo Thy,KHDL15A,thy.19349821@student.iuh.edu.vn,596803000,185
+19349831,Phạm Thị Mỹ Trang,KHDL15B,trang.19349831@student.iuh.edu.vn,500226171,214
+19349841,Lê Diễm Huyền,KTPM15A,huyen.19349841@student.iuh.edu.vn,625868700,78
+19349851,Lưu Hoàng Luân,HTTT15C,luan.19349851@student.iuh.edu.vn,285883415,61
+19349861,Nguyễn Thu Thảo,KHMT15A,thao.19349861@student.iuh.edu.vn,407616219,161
+19349871,Đoàn Thị Mỹ Linh,KHDL15A,linh.19349871@student.iuh.edu.vn,872778083,104
+19349881,Mai Thị Hoa Mai,KHDL15A,mai.19349881@student.iuh.edu.vn,289806277,157
+19349891,Triệu Phước Bách,HTTT15B,bach.19349891@student.iuh.edu.vn,338705364,116
+19349901,Nguyễn Thị Kim Giàng,HTTT15A,giang.19349901@student.iuh.edu.vn,404967943,11
+19349911,Nguyễn Mỹ Linh,HTTT15C,linh.19349911@student.iuh.edu.vn,395769774,270
+19349921,Lê Hoàng Thiện Phúc,HTTT15A,phuc.19349921@student.iuh.edu.vn,837443663,89
+19349931,Thái Thanh Thiên,KTPM15A,thien.19349931@student.iuh.edu.vn,755389835,150
+19349941,Dương Thụy Bảo Trân,KTPM15B,tran.19349941@student.iuh.edu.vn,629279608,107
+19349951,Lê Huyền Khánh Ngọc,KHMT15B,ngoc.19349951@student.iuh.edu.vn,948566227,35
+19349961,Tô Mỹ Thạch,KHMT15A,thach.19349961@student.iuh.edu.vn,449578204,22
+19349971,Nguyễn Thị Mỹ Hân,KTPM15B,han.19349971@student.iuh.edu.vn,321439343,192
+19349981,Đoàn Thiên Nhi,KTPM15A,nhi.19349981@student.iuh.edu.vn,764344484,229
+19349991,Đặng Thị Hồng Hạnh,KTPM15B,hanh.19349991@student.iuh.edu.vn,404775133,139
+19350001,Nguyễn Thị Yến Nhi,HTTT15A,nhi.19350001@student.iuh.edu.vn,603746585,108
+19350011,Mã Ngọc Trinh,KHDL15B,trinh.19350011@student.iuh.edu.vn,881707542,275
+19350021,Huỳnh Kim Yến,KHDL15A,yen.19350021@student.iuh.edu.vn,486354054,216
+19350031,Đỗ Đức Thành Danh,KHDL15B,danh.19350031@student.iuh.edu.vn,973696469,106
+19350041,Trần Phạm Ngọc Trâm,HTTT15A,tram.19350041@student.iuh.edu.vn,875277925,86
+19350051,Nguyễn Thị Mỹ Hảo,HTTT15B,hao.19350051@student.iuh.edu.vn,613472937,77
+19350061,Huỳnh Tố Trang,HTTT15A,trang.19350061@student.iuh.edu.vn,436955397,65
+19350071,Quách Hồng Kiều Diễm,KHMT15B,diem.19350071@student.iuh.edu.vn,764893244,240
+19350081,Nguyễn Thành Tài,KHDL15A,tai.19350081@student.iuh.edu.vn,656416284,148
+19350091,Đỗ Thị Thu Hiếu,KTPM15A,hieu.19350091@student.iuh.edu.vn,729568220,228
+19350101,Lê Minh Thuận,HTTT15A,thuan.19350101@student.iuh.edu.vn,921677973,19
+19350111,Nguyễn Hoàng Thảo Anh,KHMT15B,anh.19350111@student.iuh.edu.vn,395152197,16
+19350121,Lương Võ Lan Phương,KTPM15B,phuong.19350121@student.iuh.edu.vn,872101533,122
+19350131,Trắc Thị Tố Trinh,HTTT15C,trinh.19350131@student.iuh.edu.vn,647990597,133
+19350141,Huỳnh Thị Ngọc Tuyền,HTTT15A,tuyen.19350141@student.iuh.edu.vn,554981604,160
+19350151,Dương Thúy Kiều,HTTT15B,kieu.19350151@student.iuh.edu.vn,229377782,16
+19350161,Phạm Thị Loan,HTTT15A,loan.19350161@student.iuh.edu.vn,589970413,209
+19350171,Ngô Thị Kim Mẫn,KTPM15B,man.19350171@student.iuh.edu.vn,445232754,36
+19350181,Huỳnh Thương,HTTT15B,thuong.19350181@student.iuh.edu.vn,518449977,63
+19350191,Lê Huỳnh Trúc Ly,KHDL15B,ly.19350191@student.iuh.edu.vn,749692972,225
+19350201,Nguyễn Thu Ngân,HTTT15B,ngan.19350201@student.iuh.edu.vn,505790949,166
+19350211,Trần Hồng Bảo Ngọc,KHDL15A,ngoc.19350211@student.iuh.edu.vn,357177649,3
+19350221,Thạch Chanh Sai Gia,KHDL15A,gia.19350221@student.iuh.edu.vn,288988332,95
+19350231,Nguyễn Phương Ngân,KTPM15A,ngan.19350231@student.iuh.edu.vn,701412633,108
+19350241,Nguyễn Huỳnh Mai Trúc,HTTT15A,truc.19350241@student.iuh.edu.vn,729557529,2
+19350251,Châu Lan Anh,KTPM15B,anh.19350251@student.iuh.edu.vn,682246336,67
+19350261,Võ Ngọc Hân,HTTT15B,han.19350261@student.iuh.edu.vn,851148329,290
+19350271,Chim Nhật Hoàng,KTPM15B,hoang.19350271@student.iuh.edu.vn,272575729,218
+19350281,Thái Thị Yến Nhi,HTTT15B,nhi.19350281@student.iuh.edu.vn,316580334,265
+19350291,Cao Hoàng Phương Trinh,KTPM15A,trinh.19350291@student.iuh.edu.vn,424362675,291
+19350301,Hồng Thị Khánh Vân,KHMT15B,van.19350301@student.iuh.edu.vn,413356732,25
+19350311,Phan Yến Vi,HTTT15B,vi.19350311@student.iuh.edu.vn,568784331,135
+19350321,Vũ Hồ Vân Nhi,HTTT15B,nhi.19350321@student.iuh.edu.vn,307024768,44
+19350331,Lê Thị Thúy Quyên,HTTT15B,quyen.19350331@student.iuh.edu.vn,338742200,247
+19350341,Nguyễn Thị Ngọc Diễm,HTTT15A,diem.19350341@student.iuh.edu.vn,567475917,206
+19350351,Phạm Lê Thu Dung,HTTT15B,dung.19350351@student.iuh.edu.vn,507046766,46
+19350361,Mai Lê Hải Đoan,HTTT15A,doan.19350361@student.iuh.edu.vn,288913098,33
+19350371,Bùi Đông Hồ,KHMT15B,ho.19350371@student.iuh.edu.vn,585809208,103
+19350381,Nguyễn Thị Kiều,KTPM15A,kieu.19350381@student.iuh.edu.vn,617762060,249
+19350391,Triệu Nam Lộc,HTTT15B,loc.19350391@student.iuh.edu.vn,567163055,3
+19350401,Nguyễn Thị Kim Ngân,KHMT15A,ngan.19350401@student.iuh.edu.vn,440537243,260
+19350411,Nguyễn Tân Đông Phát,KTPM15B,phat.19350411@student.iuh.edu.vn,915538900,114
+19350421,Lê Minh Hoàng Phượng,KHDL15A,phuong.19350421@student.iuh.edu.vn,592847654,14
+19350431,Thạch Vương Tín,HTTT15B,tin.19350431@student.iuh.edu.vn,955727872,222
+19350441,Nguyễn Thị Thanh Vân,HTTT15A,van.19350441@student.iuh.edu.vn,945611017,138
+19350451,Nguyễn Thị Hạnh Đào,HTTT15A,dao.19350451@student.iuh.edu.vn,499401720,17
+19350461,Huỳnh Thị Trúc Giang,KTPM15B,giang.19350461@student.iuh.edu.vn,508042301,144
+19350471,Huỳnh Thị Thúy Hằng,KHMT15B,hang.19350471@student.iuh.edu.vn,247133815,176
+19350481,Lê Hoàng Thiện Phúc,KTPM15B,phuc.19350481@student.iuh.edu.vn,881515419,61
+19350491,Thái Thanh Thiên,HTTT15B,thien.19350491@student.iuh.edu.vn,972320736,51
+19350501,Dương Thụy Bảo Trân,KTPM15A,tran.19350501@student.iuh.edu.vn,774260260,274
+19350511,Lê Huyền Khánh Ngọc,HTTT15A,ngoc.19350511@student.iuh.edu.vn,550828534,132
+19350521,Tô Mỹ Thạch,KHDL15B,thach.19350521@student.iuh.edu.vn,333134000,235
+19350531,Nguyễn Thị Mỹ Hân,HTTT15C,han.19350531@student.iuh.edu.vn,287157624,36
+19350541,Đoàn Thiên Nhi,KHDL15A,nhi.19350541@student.iuh.edu.vn,787805450,109
+19350551,Đặng Thị Hồng Hạnh,KTPM15A,hanh.19350551@student.iuh.edu.vn,987044637,8
+19350561,Nguyễn Thị Yến Nhi,KTPM15B,nhi.19350561@student.iuh.edu.vn,875900889,45
+19350571,Mã Ngọc Trinh,KTPM15B,trinh.19350571@student.iuh.edu.vn,979480167,81
+19350581,Huỳnh Kim Yến,KHMT15B,yen.19350581@student.iuh.edu.vn,387366058,69
+19350591,Đỗ Đức Thành Danh,HTTT15B,danh.19350591@student.iuh.edu.vn,291582932,290
+19350601,Trần Phạm Ngọc Trâm,HTTT15B,tram.19350601@student.iuh.edu.vn,299501844,11
+19350611,Nguyễn Thị Mỹ Hảo,KHDL15A,hao.19350611@student.iuh.edu.vn,991260141,186
+19350621,Huỳnh Tố Trang,HTTT15A,trang.19350621@student.iuh.edu.vn,819408155,10
+19350631,Quách Hồng Kiều Diễm,HTTT15B,diem.19350631@student.iuh.edu.vn,512896678,1
+19350641,Nguyễn Thành Tài,HTTT15B,tai.19350641@student.iuh.edu.vn,997619058,70
+19350651,Đỗ Thị Thu Hiếu,HTTT15C,hieu.19350651@student.iuh.edu.vn,931459309,292
+19350661,Lê Minh Thuận,HTTT15B,thuan.19350661@student.iuh.edu.vn,399219061,282
+19350671,Nguyễn Hoàng Thảo Anh,HTTT15A,anh.19350671@student.iuh.edu.vn,662640289,231
+19350681,Lương Võ Lan Phương,HTTT15C,phuong.19350681@student.iuh.edu.vn,943424554,240
+19350691,Trắc Thị Tố Trinh,HTTT15B,trinh.19350691@student.iuh.edu.vn,689833510,18
+19350701,Huỳnh Thị Ngọc Tuyền,KHMT15B,tuyen.19350701@student.iuh.edu.vn,444807998,243
+19350711,Dương Thúy Kiều,HTTT15B,kieu.19350711@student.iuh.edu.vn,948176009,210
+19350721,Phạm Thị Loan,KHMT15B,loan.19350721@student.iuh.edu.vn,952939191,237
+19350731,Ngô Thị Kim Mẫn,KHDL15A,man.19350731@student.iuh.edu.vn,619134161,275
+19350741,Huỳnh Thương,KTPM15B,thuong.19350741@student.iuh.edu.vn,967937173,298
+19350751,Hồng Kim Ngân,KHDL15A,ngan.19350751@student.iuh.edu.vn,460727806,130
+19350761,Đặng Thị Huỳnh Như,KHDL15B,nhu.19350761@student.iuh.edu.vn,640906021,58
+19350771,Nguyễn Thị Bích Như,HTTT15A,nhu.19350771@student.iuh.edu.vn,697565963,86
+19350781,Trần Minh Nhựt,HTTT15B,nhut.19350781@student.iuh.edu.vn,867863656,160
+19350791,Trần Thị Huyền Trâm,KTPM15A,tram.19350791@student.iuh.edu.vn,973669014,244
+19350801,Nguyễn Thị Huỳnh Châm,KHMT15A,cham.19350801@student.iuh.edu.vn,388830593,36
+19350811,Phạm Thị Cẩm Giang,KHDL15B,giang.19350811@student.iuh.edu.vn,801539131,27
+19350821,Nguyễn Gia Hân,KTPM15A,han.19350821@student.iuh.edu.vn,310183524,232
+19350831,Nguyễn Trung Hiếu,HTTT15B,hieu.19350831@student.iuh.edu.vn,352499200,68
+19350841,Huỳnh Hửu Khoa,HTTT15B,khoa.19350841@student.iuh.edu.vn,423477187,42
+19350851,Nguyễn Lâm Trúc Lam,KTPM15B,lam.19350851@student.iuh.edu.vn,534632643,202
+19350861,Nguyễn Trần Phương Linh,HTTT15B,linh.19350861@student.iuh.edu.vn,373451253,122
+19350871,Thị Thuận,HTTT15A,thuan.19350871@student.iuh.edu.vn,627278922,39
+19350881,Lê Thị Tuyết Xuân,KHMT15A,xuan.19350881@student.iuh.edu.vn,991166197,40
+19350891,Nguyễn Thị Hoài Băng,KTPM15A,bang.19350891@student.iuh.edu.vn,372521064,87
+19350901,Lê Thị Thúy Di,KHDL15A,di.19350901@student.iuh.edu.vn,921771643,70
+19350911,Nguyễn Thị Tài Duy,KHDL15A,duy.19350911@student.iuh.edu.vn,325901206,277
+19350921,Tạ Tuyết Hân,KHMT15B,han.19350921@student.iuh.edu.vn,389781481,224
+19350931,Nguyễn Cẩm Lài,KHMT15B,lai.19350931@student.iuh.edu.vn,508672945,253
+19350941,Trần Thị Kim Lít,KHMT15A,lit.19350941@student.iuh.edu.vn,570918853,86
+19350951,Đặng Thị Tuyết Minh,KHDL15B,minh.19350951@student.iuh.edu.vn,603010921,246
+19350961,Mã Thanh Như,KTPM15B,nhu.19350961@student.iuh.edu.vn,634907047,226
+19350971,Tăng Thị Thanh Thanh,HTTT15B,thanh.19350971@student.iuh.edu.vn,329589725,191
+19350981,Lê Đặng Anh Thư,KHDL15A,thu.19350981@student.iuh.edu.vn,995185151,8
+19350991,Phan Bảo Thy,KHMT15B,thy.19350991@student.iuh.edu.vn,664089075,189
+19351001,Phạm Thị Mỹ Trang,KHMT15B,trang.19351001@student.iuh.edu.vn,334412721,106
+19351011,Lê Diễm Huyền,KHDL15B,huyen.19351011@student.iuh.edu.vn,796029084,136
+19351021,Lưu Hoàng Luân,HTTT15A,luan.19351021@student.iuh.edu.vn,673624653,195
+19351031,Nguyễn Thu Thảo,KHMT15A,thao.19351031@student.iuh.edu.vn,360632745,190
+19351041,Đoàn Thị Mỹ Linh,HTTT15B,linh.19351041@student.iuh.edu.vn,328659778,101
+19351051,Mai Thị Hoa Mai,KHDL15A,mai.19351051@student.iuh.edu.vn,999538448,99
+19351061,Triệu Phước Bách,KHMT15B,bach.19351061@student.iuh.edu.vn,452554790,95
+19351071,Lê Chí Thành,KHMT15B,thanh.19351071@student.iuh.edu.vn,865616371,48
+19351081,Tăng Minh Hậu,HTTT15A,hau.19351081@student.iuh.edu.vn,945780149,149
+19351091,Phạm Chí Cường,HTTT15B,cuong.19351091@student.iuh.edu.vn,651314124,57
+19351101,Dương Thiều Gia Bảo,HTTT15A,bao.19351101@student.iuh.edu.vn,704737028,13
+19351111,Lê Thành Duy,HTTT15C,duy.19351111@student.iuh.edu.vn,793075488,247
+19351121,Nguyễn Đức Huy,KTPM15A,huy.19351121@student.iuh.edu.vn,961726880,124
+19351131,Nguyễn Thị Mộng Ngọc,KHMT15A,ngoc.19351131@student.iuh.edu.vn,580198304,125
+19351141,Dương Hữu Nhân,KHMT15A,nhan.19351141@student.iuh.edu.vn,638849261,224
+19351151,Võ Thị Yến Nhi,HTTT15B,nhi.19351151@student.iuh.edu.vn,901610661,74
+19351161,Biện Huỳnh Như,HTTT15A,nhu.19351161@student.iuh.edu.vn,378298631,186
+19351171,Trầm Văn Quá,HTTT15B,qua.19351171@student.iuh.edu.vn,976220583,38
+19351181,Lê Tấn Tài,KHMT15B,tai.19351181@student.iuh.edu.vn,394395701,25
+19351191,Ngô Như Thảo,KTPM15A,thao.19351191@student.iuh.edu.vn,398294975,284
+19351201,Võ Thị Thùy Trang,HTTT15B,trang.19351201@student.iuh.edu.vn,427330614,92
+19351211,Danh Thế Trung,HTTT15B,trung.19351211@student.iuh.edu.vn,352244640,189
+19351221,Võ Quốc Vinh,KHMT15B,vinh.19351221@student.iuh.edu.vn,416656688,299
+19351231,Nguyễn Thanh Bình,KTPM15A,binh.19351231@student.iuh.edu.vn,240069282,276
+19351241,Trần Tiến Cường,KHMT15A,cuong.19351241@student.iuh.edu.vn,759870623,9
+19351251,Nguyễn Mỹ Hạnh,HTTT15A,hanh.19351251@student.iuh.edu.vn,538507226,263
+19351261,Trần Kim Hồng,KHMT15A,hong.19351261@student.iuh.edu.vn,594711762,49
+19351271,Nguyễn Duy Khôn,HTTT15B,khon.19351271@student.iuh.edu.vn,851211324,39
+19351281,Nguyễn Thị Mai,HTTT15B,mai.19351281@student.iuh.edu.vn,751668996,68
+19351291,Huỳnh Kim Phương Ngân,HTTT15C,ngan.19351291@student.iuh.edu.vn,428773924,112
+19351301,Trần Thiện Nhân,KHDL15A,nhan.19351301@student.iuh.edu.vn,310355026,214
+19351311,Nguyễn Lâm Thanh Tân,HTTT15B,tan.19351311@student.iuh.edu.vn,254604927,43
+19351321,Trần Thanh Thanh,KHMT15A,thanh.19351321@student.iuh.edu.vn,863570971,254
+19351331,Nguyễn Thị Anh Thư,KTPM15A,thu.19351331@student.iuh.edu.vn,885266355,19
+19351341,Nguyễn Kiều Trinh,KHMT15A,trinh.19351341@student.iuh.edu.vn,431256280,231
+19351351,Lê Thành Trung,KHDL15B,trung.19351351@student.iuh.edu.vn,594217431,51
+19351361,Họ Và Tên,KHMT15B,ten.19351361@student.iuh.edu.vn,233633224,31
+19351371,Lê Quốc Tuấn,HTTT15B,tuan.19351371@student.iuh.edu.vn,428843101,144
+19351381,Lê Thế Vy,HTTT15B,vy.19351381@student.iuh.edu.vn,315012005,203
+19351391,Lê Nguyễn Tuấn Hiệp,KTPM15A,hiep.19351391@student.iuh.edu.vn,274998472,202
+19351401,Hồ Thị Ngọc Huyền,HTTT15C,huyen.19351401@student.iuh.edu.vn,507388255,167
+19351411,Nguyễn Chí Linh,HTTT15B,linh.19351411@student.iuh.edu.vn,548006226,20
+19351421,Đặng Huyền My,KTPM15B,my.19351421@student.iuh.edu.vn,478528133,270
+19351431,Lâm Kim Thoa,HTTT15B,thoa.19351431@student.iuh.edu.vn,968260556,88
+19351441,Khưu Anh Triết,HTTT15C,triet.19351441@student.iuh.edu.vn,604335810,36
+19351451,Đặng Công Danh,KHMT15B,danh.19351451@student.iuh.edu.vn,972599142,110
+19351461,Lê Thị Kim Ngân,HTTT15C,ngan.19351461@student.iuh.edu.vn,896394233,158
+19351471,Nguyễn Thanh Phong,KTPM15A,phong.19351471@student.iuh.edu.vn,772220259,175
+19351481,Phạm Đình Phúc,HTTT15B,phuc.19351481@student.iuh.edu.vn,742503318,189
+19351491,Châu Văn Tình,KHMT15B,tinh.19351491@student.iuh.edu.vn,395380349,8
+19351501,Đặng Quang Khương,HTTT15A,khuong.19351501@student.iuh.edu.vn,398729446,36
+19351511,Trương Tân Dương,KHDL15B,duong.19351511@student.iuh.edu.vn,229839277,52
+19351521,Nhâm Nhất Hậu,HTTT15B,hau.19351521@student.iuh.edu.vn,873280845,2
+19351531,Lê Bảo Công,HTTT15B,cong.19351531@student.iuh.edu.vn,234715011,187
+19351541,Đặng Quốc Dũng,HTTT15B,dung.19351541@student.iuh.edu.vn,247705578,198
+19351551,Mai Văn Đầy,KHDL15A,day.19351551@student.iuh.edu.vn,576299824,166
+19351561,Trần Công Hòa,KTPM15B,hoa.19351561@student.iuh.edu.vn,836512333,275
+19351571,Lưu Phạm Khánh Huy,HTTT15B,huy.19351571@student.iuh.edu.vn,999854346,179
+19351581,Lương Phan Duy Khang,KTPM15B,khang.19351581@student.iuh.edu.vn,976089488,69
+19351591,Nguyễn Lê Anh Khiêm,KHDL15A,khiem.19351591@student.iuh.edu.vn,763868504,258
+19351601,Phạm Trần Đăng Khoa,HTTT15A,khoa.19351601@student.iuh.edu.vn,442274436,120
+19351611,Quách Thế Kiệt,HTTT15A,kiet.19351611@student.iuh.edu.vn,343443566,229
+19351621,Bùi Phương Lan,KTPM15B,lan.19351621@student.iuh.edu.vn,457825866,210
+19351631,Nguyễn Ngọc Luyến,HTTT15A,luyen.19351631@student.iuh.edu.vn,905623961,151
+19351641,Trần Nhật Minh,KHMT15A,minh.19351641@student.iuh.edu.vn,659181060,153
+19351651,Đinh Thị Thùy Ngân,KTPM15B,ngan.19351651@student.iuh.edu.vn,678160621,173
+19351661,Nguyễn Đức Nguyên,KHMT15B,nguyen.19351661@student.iuh.edu.vn,351679806,35
+19351671,Nguyễn Ngọc Lan Phụng,HTTT15A,phung.19351671@student.iuh.edu.vn,727527484,96
+19351681,Trần Đức Phương,HTTT15A,phuong.19351681@student.iuh.edu.vn,969298131,172
+19351691,Nguyễn Hoàng Tấn,HTTT15B,tan.19351691@student.iuh.edu.vn,951770197,130
+19351701,Bùi Nguyễn Hoàng Thái,KTPM15B,thai.19351701@student.iuh.edu.vn,650069112,219
+19351711,Họ Và Tên,HTTT15B,ten.19351711@student.iuh.edu.vn,679764571,65
+19351721,Đàm Thiện Nhàn Vân,HTTT15B,van.19351721@student.iuh.edu.vn,378984213,17
+19351731,Nguyễn Thị Diễm Trân,KTPM15B,tran.19351731@student.iuh.edu.vn,906869187,283
+19351741,Nguyễn Thị Anh Thư,KHMT15A,thu.19351741@student.iuh.edu.vn,247072959,70
+19351751,Huỳnh Vũ Luân,KHMT15B,luan.19351751@student.iuh.edu.vn,471201771,92
+19351761,Nguyễn Bảo Ngọc,HTTT15A,ngoc.19351761@student.iuh.edu.vn,794652929,69
+19351771,Nguyễn Thị Xuân Tươi,KHMT15A,tuoi.19351771@student.iuh.edu.vn,562325454,251
+19351781,Nguyễn Minh Hậu,HTTT15B,hau.19351781@student.iuh.edu.vn,404846368,93
+19351791,Phạm Quốc Toàn,HTTT15A,toan.19351791@student.iuh.edu.vn,545067823,172
+19351801,Trần Châu Hải,HTTT15B,hai.19351801@student.iuh.edu.vn,937760950,267
+19351811,Nguyễn Thị Thúy Duy,KTPM15A,duy.19351811@student.iuh.edu.vn,609422638,10
+19351821,Võ Hoàng Nguyễn Vỹ,HTTT15B,vy.19351821@student.iuh.edu.vn,824248473,189
+19351831,Huỳnh Phú Hòa,KHMT15B,hoa.19351831@student.iuh.edu.vn,997498896,261
+19351841,Nguyễn Lâm Trúc Mai,KTPM15B,mai.19351841@student.iuh.edu.vn,447216926,24
+19351851,Trầm Tiến Anh,HTTT15B,anh.19351851@student.iuh.edu.vn,908915508,91
+19351861,Đặng Quách Gia Bình,HTTT15B,binh.19351861@student.iuh.edu.vn,430877074,98
+19351871,Đào Chí Bửu,HTTT15A,buu.19351871@student.iuh.edu.vn,341594396,124
+19351881,Dương Thành Đạt,KHMT15B,dat.19351881@student.iuh.edu.vn,768926855,270
+19351891,Lại Trung Nghĩa,KTPM15B,nghia.19351891@student.iuh.edu.vn,647769175,7
+19351901,Họ Và Tên,HTTT15B,ten.19351901@student.iuh.edu.vn,985019451,292
+19351911,Phạm Huỳnh Ngọc,KTPM15B,ngoc.19351911@student.iuh.edu.vn,389926295,231
+19351921,Lê Bảo Anh,HTTT15B,anh.19351921@student.iuh.edu.vn,891076714,101
+19351931,Trần Trung Khánh,HTTT15C,khanh.19351931@student.iuh.edu.vn,837340601,42
+19351941,Lâm Minh Luân,HTTT15B,luan.19351941@student.iuh.edu.vn,570357654,246
+19351951,Nguyễn Danh Nhân,KHDL15B,nhan.19351951@student.iuh.edu.vn,599299680,158
+19351961,Ông Vĩnh Toàn,HTTT15B,toan.19351961@student.iuh.edu.vn,661885270,168
+19351971,Phan Công Lĩnh,KTPM15A,linh.19351971@student.iuh.edu.vn,889038194,35
+19351981,Võ Tấn Cường,HTTT15C,cuong.19351981@student.iuh.edu.vn,999177982,37
+19351991,Đinh Nguyễn Hải Đăng,HTTT15C,dang.19351991@student.iuh.edu.vn,717273129,258
+19352001,Quách Lý Đôl,HTTT15A,dol.19352001@student.iuh.edu.vn,940228869,37
+19352011,Huỳnh Hữu Khang,HTTT15B,khang.19352011@student.iuh.edu.vn,338527593,10
+19352021,Nguyễn Trí Khôi,KHDL15B,khoi.19352021@student.iuh.edu.vn,685548839,240
+19352031,Phùng Gia Kiên,HTTT15C,kien.19352031@student.iuh.edu.vn,257550137,10
+19352041,Trần Nhật Linh,HTTT15A,linh.19352041@student.iuh.edu.vn,541679317,148
+19352051,Hà Tấn Lộc,HTTT15C,loc.19352051@student.iuh.edu.vn,804612847,293
+19352061,Tôn Trọng Lương,KHMT15A,luong.19352061@student.iuh.edu.vn,436716316,28
+19352071,Vũ Bích Ngân,KTPM15A,ngan.19352071@student.iuh.edu.vn,919024589,140
+19352081,Huỳnh Minh Nhật,KHMT15B,nhat.19352081@student.iuh.edu.vn,907850423,34
+19352091,Nguyễn Kỳ Quan,KTPM15B,quan.19352091@student.iuh.edu.vn,804082413,19
+19352101,Lưu Hồng Quân,KTPM15A,quan.19352101@student.iuh.edu.vn,756537892,228
+19352111,Nguyễn Tiến Sĩ,KHDL15A,si.19352111@student.iuh.edu.vn,849466043,258
+19352121,Trần Quốc Thái,KHMT15A,thai.19352121@student.iuh.edu.vn,749464134,82
+19352131,Trần Văn Thiện,KHDL15B,thien.19352131@student.iuh.edu.vn,845899396,188
+19352141,Đoàn Hoàng Tính,HTTT15A,tinh.19352141@student.iuh.edu.vn,808338010,150
+19352151,Nguyễn Quốc Toàn,KHDL15A,toan.19352151@student.iuh.edu.vn,868634233,143
+19352161,Nguyễn Chí Trung,HTTT15C,trung.19352161@student.iuh.edu.vn,968111488,157
+19352171,Dương Quốc Vinh,KTPM15B,vinh.19352171@student.iuh.edu.vn,970528655,188
+19352181,Phan Minh An,KHMT15A,an.19352181@student.iuh.edu.vn,604442513,149
+19352191,Nguyễn Tuấn Anh,KHDL15B,anh.19352191@student.iuh.edu.vn,372141942,31
+19352201,Hồ Bá Duy,KHMT15A,duy.19352201@student.iuh.edu.vn,557133251,150
+19352211,Lê Khánh Duy,HTTT15B,duy.19352211@student.iuh.edu.vn,603819836,78
+19352221,Nguyễn Vũ Đăng,HTTT15B,dang.19352221@student.iuh.edu.vn,860461753,185
+19352231,Trần Minh Được,KTPM15A,duoc.19352231@student.iuh.edu.vn,813052299,264
+19352241,Lê Phan Vinh Hiển,KHMT15A,hien.19352241@student.iuh.edu.vn,761010351,224
+19352251,Họ Và Tên,HTTT15B,ten.19352251@student.iuh.edu.vn,647616905,189
+19352261,Phạm Duy Hoàng,HTTT15A,hoang.19352261@student.iuh.edu.vn,486339896,162
+19352271,Châu Hoàng Huy,HTTT15A,huy.19352271@student.iuh.edu.vn,226552796,59
+19352281,Trần Thanh Huy,KHMT15B,huy.19352281@student.iuh.edu.vn,303525639,53
+19352291,Phạm Văn Khải,HTTT15A,khai.19352291@student.iuh.edu.vn,358596107,270
+19352301,Huỳnh Tấn Anh Kiệt,HTTT15B,kiet.19352301@student.iuh.edu.vn,536993932,46
+19352311,Nguyễn Tuấn Kiệt,HTTT15C,kiet.19352311@student.iuh.edu.vn,920176187,162
+19352321,Phan Hải Long,HTTT15B,long.19352321@student.iuh.edu.vn,487619269,56
+19352331,Trần Công Minh,HTTT15B,minh.19352331@student.iuh.edu.vn,784321938,157
+19352341,Triệu Đức Minh,KHDL15B,minh.19352341@student.iuh.edu.vn,412054733,60
+19352351,Phan Kim Huỳnh Như,KTPM15A,nhu.19352351@student.iuh.edu.vn,240757841,136
+19352361,Hồ Việt Phát,KHDL15B,phat.19352361@student.iuh.edu.vn,571104625,209
+19352371,Đỗ Hữu Thiện,HTTT15B,thien.19352371@student.iuh.edu.vn,711205334,208
+19352381,Võ Văn Chí Thiện,KHDL15B,thien.19352381@student.iuh.edu.vn,958729810,250
+19352391,Võ Nguyên Thịnh,HTTT15C,thinh.19352391@student.iuh.edu.vn,876716952,68
+19352401,Đào Minh Trung Thuận,HTTT15A,thuan.19352401@student.iuh.edu.vn,977161011,154
+19352411,Từ Ngọc Cẩm Tiên,KHDL15B,tien.19352411@student.iuh.edu.vn,773402366,183
+19352421,Tô Chánh Tính,KTPM15A,tinh.19352421@student.iuh.edu.vn,535372761,77
+19352431,Nguyễn Bách Xuân Toàn,HTTT15B,toan.19352431@student.iuh.edu.vn,517123740,127
+19352441,Nguyễn Phương Trang,HTTT15B,trang.19352441@student.iuh.edu.vn,844284880,26
+19352451,Ngô Minh Trung,HTTT15A,trung.19352451@student.iuh.edu.vn,622183291,34
+19352461,Nguyễn Hồ Ngọc Trung,KHDL15A,trung.19352461@student.iuh.edu.vn,523733637,282
+19352471,Nguyễn Anh Tuấn,HTTT15B,tuan.19352471@student.iuh.edu.vn,616899759,234
+19352481,Phan Bảo Tuấn,HTTT15B,tuan.19352481@student.iuh.edu.vn,497202284,285
+19352491,Bùi Thanh Tùng,HTTT15A,tung.19352491@student.iuh.edu.vn,648038957,271
+19352501,Tần Thế Vinh,KHMT15A,vinh.19352501@student.iuh.edu.vn,407980261,186
+19352511,Vũ Mạnh Thắng,HTTT15C,thang.19352511@student.iuh.edu.vn,379195779,289
+19352521,Chau Sóc Kha,HTTT15B,kha.19352521@student.iuh.edu.vn,907607915,8
+19352531,Trương Ngọc Ánh,KTPM15A,anh.19352531@student.iuh.edu.vn,824820759,177
+19352541,Nguyễn Phương Chiêu,HTTT15B,chieu.19352541@student.iuh.edu.vn,770893790,141
+19352551,Dương Quốc Cường,KHDL15B,cuong.19352551@student.iuh.edu.vn,299296072,199
+19352561,Lê Công Danh,HTTT15C,danh.19352561@student.iuh.edu.vn,847664562,248
+19352571,Lâm Hửu Duy,KHDL15A,duy.19352571@student.iuh.edu.vn,745567415,216
+19352581,Võ Khánh Duy,HTTT15C,duy.19352581@student.iuh.edu.vn,361744718,27
+19352591,Dương Tử Hào,HTTT15A,hao.19352591@student.iuh.edu.vn,903595472,66
+19352601,Họ Và Tên,KHDL15B,ten.19352601@student.iuh.edu.vn,322967753,268
+19352611,Hồ Thị Mỷ Huyền,KHDL15A,huyen.19352611@student.iuh.edu.vn,267088723,278
+19352621,Trần Huỳnh,HTTT15B,huynh.19352621@student.iuh.edu.vn,335087597,221
+19352631,Thông Tuấn Kiệt,KHDL15B,kiet.19352631@student.iuh.edu.vn,374832513,73
+19352641,Kim Ngọc Bảo Luân,HTTT15A,luan.19352641@student.iuh.edu.vn,225116019,74
+19352651,Trần Minh Luân,KHDL15A,luan.19352651@student.iuh.edu.vn,763967723,1
+19352661,Nguyễn Trà Mi,KHDL15A,mi.19352661@student.iuh.edu.vn,783278551,35
+19352671,Phạm Trí Minh,HTTT15B,minh.19352671@student.iuh.edu.vn,555007920,247
+19352681,Đinh Chung Nam,KHMT15B,nam.19352681@student.iuh.edu.vn,961232815,133
+19352691,Lê Vũ Nguyên,HTTT15A,nguyen.19352691@student.iuh.edu.vn,269600509,57
+19352701,Đào Văn Nhân,KTPM15B,nhan.19352701@student.iuh.edu.vn,645676969,23
+19352711,Lưu Trần Anh Nhựt,HTTT15B,nhut.19352711@student.iuh.edu.vn,333737911,116
+19352721,Trần Thị Hoàng Quyên,KHDL15A,quyen.19352721@student.iuh.edu.vn,741129159,75
+19352731,Trần Trúc Quỳnh,KTPM15B,quynh.19352731@student.iuh.edu.vn,790542107,295
+19352741,Trần Văn Sang,HTTT15B,sang.19352741@student.iuh.edu.vn,572481361,294
+19352751,Nguyễn Thanh Sơn,KTPM15B,son.19352751@student.iuh.edu.vn,618432421,31
+19352761,Nguyễn Tấn Tài,KTPM15A,tai.19352761@student.iuh.edu.vn,962307769,271
+19352771,Trương Quốc Thái,KTPM15A,thai.19352771@student.iuh.edu.vn,894150204,35
+19352781,Phan Thanh Thành,KHDL15A,thanh.19352781@student.iuh.edu.vn,352545114,97
+19352791,Nguyễn Thị Phương Thảo,HTTT15B,thao.19352791@student.iuh.edu.vn,593901437,227
+19352801,Nguyễn Văn Thắng,HTTT15C,thang.19352801@student.iuh.edu.vn,724698393,157
+19352811,Nguyễn Hùng Thuận,KHMT15B,thuan.19352811@student.iuh.edu.vn,348243707,8
+19352821,Lê Duy Thụy,HTTT15C,thuy.19352821@student.iuh.edu.vn,935062429,17
+19352831,Võ Minh Thư,HTTT15C,thu.19352831@student.iuh.edu.vn,663397912,233
+19352841,Mai Chí Tín,KHDL15A,tin.19352841@student.iuh.edu.vn,315363188,274
+19352851,Nguyễn Thị Như Ý,KTPM15B,y.19352851@student.iuh.edu.vn,432562999,203
+19352861,Dương Thị Keo Da,HTTT15B,da.19352861@student.iuh.edu.vn,368471863,9
+19352871,Nguyễn Hoàng Duy,HTTT15B,duy.19352871@student.iuh.edu.vn,761728943,67
+19352881,Phạm Khánh Duy,KTPM15B,duy.19352881@student.iuh.edu.vn,314071414,103
+19352891,Trần Thanh Duy,KTPM15A,duy.19352891@student.iuh.edu.vn,349396193,95
+19352901,Trương Thị Đạm,HTTT15B,dam.19352901@student.iuh.edu.vn,503010677,107
+19352911,Nguyễn Hữu Đạt,HTTT15C,dat.19352911@student.iuh.edu.vn,701061276,143
+19352921,Kiếm Thúy Hạnh,KHMT15B,hanh.19352921@student.iuh.edu.vn,325973040,199
+19352931,Lê Trần Gia Huy,HTTT15C,huy.19352931@student.iuh.edu.vn,651910531,282
+19352941,Nguyễn Huỳnh Hương,HTTT15A,huong.19352941@student.iuh.edu.vn,778186058,247
+19352951,Lê Nguyễn Quỳnh Kha,HTTT15A,kha.19352951@student.iuh.edu.vn,229396049,59
+19352961,Họ Và Tên,KHMT15B,ten.19352961@student.iuh.edu.vn,833969409,221
+19352971,Kiên Thị Ngọc Hân,KHMT15A,han.19352971@student.iuh.edu.vn,599069119,260
+19352981,Nguyễn Văn Hội,KTPM15B,hoi.19352981@student.iuh.edu.vn,551534702,233
+19352991,Nguyễn Hoàng Gia Huy,KHDL15A,huy.19352991@student.iuh.edu.vn,431140775,260
+19353001,Trần Văn Huy,HTTT15B,huy.19353001@student.iuh.edu.vn,818266957,63
+19353011,Nguyễn Tuấn Khanh,KHDL15B,khanh.19353011@student.iuh.edu.vn,547318475,9
+19353021,Hồ Anh Kiệt,KHDL15A,kiet.19353021@student.iuh.edu.vn,277087807,212
+19353031,Nguyễn Quốc Kiệt,KHMT15A,kiet.19353031@student.iuh.edu.vn,964717972,64
+19353041,Nguyễn Hoàng Linh,HTTT15A,linh.19353041@student.iuh.edu.vn,365391611,213
+19353051,Nguyễn Ngọc Lợi,HTTT15B,loi.19353051@student.iuh.edu.vn,674427393,176
+19353061,Lâm Thị Ngọc Mỹ,HTTT15A,my.19353061@student.iuh.edu.vn,497703868,192
+19353071,Nguyễn Thanh Ngân,KHDL15A,ngan.19353071@student.iuh.edu.vn,789443570,260
+19353081,Nguyễn Đông Nghi,HTTT15A,nghi.19353081@student.iuh.edu.vn,254320751,205
+19353091,Nguyễn Khánh Như,HTTT15B,nhu.19353091@student.iuh.edu.vn,564154871,55
+19353101,Lê Hoàng Phú,HTTT15C,phu.19353101@student.iuh.edu.vn,888536068,104
+19353111,Trần Hữu Quí,KHDL15A,qui.19353111@student.iuh.edu.vn,437436783,249
+19353121,Trần Mạnh Quỳnh,KHDL15A,quynh.19353121@student.iuh.edu.vn,289606041,233
+19353131,Phạm Chí Sang,KHMT15B,sang.19353131@student.iuh.edu.vn,375808280,274
+19353141,Lê Thị Chúc Thảo,KHMT15B,thao.19353141@student.iuh.edu.vn,999579685,107
+19353151,Dương Quốc Thích,KTPM15B,thich.19353151@student.iuh.edu.vn,990405326,13
+19353161,Nguyễn Minh Thông,KHMT15B,thong.19353161@student.iuh.edu.vn,889939342,298
+19353171,Lê Trung Toàn,HTTT15A,toan.19353171@student.iuh.edu.vn,636839725,76
+19353181,Trần Quang Trung,KHDL15B,trung.19353181@student.iuh.edu.vn,226019542,251
+19353191,Đinh Cẩm Tú,HTTT15A,tu.19353191@student.iuh.edu.vn,967890828,183
+19353201,Nguyễn Thị Hồng Tươi,KHDL15B,tuoi.19353201@student.iuh.edu.vn,568429754,8
+19353211,Nguyễn Hữu Tỷ,HTTT15B,ty.19353211@student.iuh.edu.vn,531283686,36
+19353221,Trần Xuân Yến,HTTT15A,yen.19353221@student.iuh.edu.vn,839645331,49
+19353231,Nguyễn Lan Anh,KHMT15B,anh.19353231@student.iuh.edu.vn,265411790,11
+19353241,Huỳnh Hoàng Ẩn,KHMT15B,an.19353241@student.iuh.edu.vn,553804919,64
+19353251,Lê Thái Bảo,KHMT15B,bao.19353251@student.iuh.edu.vn,360598844,31
+19353261,Nguyễn Trần Nhựt Bằng,HTTT15B,bang.19353261@student.iuh.edu.vn,591784527,14
+19353271,Lê Minh Chiến,HTTT15A,chien.19353271@student.iuh.edu.vn,594193151,196
+19353281,Nguyễn Hoàng Danh,HTTT15A,danh.19353281@student.iuh.edu.vn,303194066,5
+19353291,Trần Khánh Duy,HTTT15B,duy.19353291@student.iuh.edu.vn,287608729,172
+19353301,Dương Hồ Dũ,KHDL15A,du.19353301@student.iuh.edu.vn,377334873,185
+19353311,Nguyễn Vinh Hiển,HTTT15A,hien.19353311@student.iuh.edu.vn,884033764,278
+19353321,Họ Và Tên,HTTT15B,ten.19353321@student.iuh.edu.vn,321741292,73
+19353331,Nguyễn An Khang,HTTT15A,khang.19353331@student.iuh.edu.vn,855270642,105
+19353341,Trần Gia Khánh,KTPM15B,khanh.19353341@student.iuh.edu.vn,670646342,29
+19353351,Trần Đông Khôi,HTTT15C,khoi.19353351@student.iuh.edu.vn,728249798,139
+19353361,Lai Tuấn Kiệt,HTTT15A,kiet.19353361@student.iuh.edu.vn,376470899,118
+19353371,Nguyễn Hoàng Minh,KHMT15A,minh.19353371@student.iuh.edu.vn,767199477,222
+19353381,Phan Thanh Phú,HTTT15B,phu.19353381@student.iuh.edu.vn,342079205,99
+19353391,Ngô Đông Phúc,KTPM15A,phuc.19353391@student.iuh.edu.vn,437488401,244
+19353401,Trần Phước Tài,HTTT15A,tai.19353401@student.iuh.edu.vn,501905162,261
+19353411,Đoàn Trần Thành,KTPM15B,thanh.19353411@student.iuh.edu.vn,444685481,113
+19353421,Huỳnh Ngọc Thảo,KHMT15A,thao.19353421@student.iuh.edu.vn,599810782,246
+19353431,Châu Ngọc Thạch,KHMT15A,thach.19353431@student.iuh.edu.vn,986849689,66
+19353441,Trần Thị Mai Thi,HTTT15A,thi.19353441@student.iuh.edu.vn,782997435,145
+19353451,Phạm Hoàng Hữu Thọ,HTTT15A,tho.19353451@student.iuh.edu.vn,513372356,39
+19353461,Đoàn Kiều Tiên,HTTT15C,tien.19353461@student.iuh.edu.vn,600330207,198
+19353471,Nguyễn Văn Tính,KHMT15A,tinh.19353471@student.iuh.edu.vn,835864570,171
+19353481,Phạm Tấn Trung,HTTT15B,trung.19353481@student.iuh.edu.vn,523936249,9
+19353491,Sơn Thanh Tùng,HTTT15C,tung.19353491@student.iuh.edu.vn,227206501,8
+19353501,Trương Mỹ Vân,KTPM15A,van.19353501@student.iuh.edu.vn,855618356,185
+19353511,Hà Thị Ánh,KTPM15A,anh.19353511@student.iuh.edu.vn,536772556,127
+19353521,Bùi Hữu Châu,HTTT15C,chau.19353521@student.iuh.edu.vn,511884359,279
+19353531,Trần Hoàng Cương,KHDL15A,cuong.19353531@student.iuh.edu.vn,488599441,292
+19353541,Kha Thiên Duy,KHDL15B,duy.19353541@student.iuh.edu.vn,512561251,40
+19353551,Phạm Lê Nhất Duy,KHDL15B,duy.19353551@student.iuh.edu.vn,265721157,222
+19353561,Danh Quốc Đạt,HTTT15C,dat.19353561@student.iuh.edu.vn,372873851,262
+19353571,Võ Văn Đẩu,KHDL15B,dau.19353571@student.iuh.edu.vn,262494000,106
+19353581,Trịnh Phú Hậu,KTPM15B,hau.19353581@student.iuh.edu.vn,581063460,289
+19353591,Nguyễn Văn Hoàng,KTPM15B,hoang.19353591@student.iuh.edu.vn,965585480,79
+19353601,Hồ Hoàng Hôn,KTPM15A,hon.19353601@student.iuh.edu.vn,676121026,67
+19353611,Nguyễn Huy,HTTT15C,huy.19353611@student.iuh.edu.vn,969739041,217
+19353621,Nguyễn Quốc Huy,KHMT15B,huy.19353621@student.iuh.edu.vn,448054144,65
+19353631,Lâm Thị Mỹ Huyền,KHMT15B,huyen.19353631@student.iuh.edu.vn,936787815,150
+19353641,Ngô Tuấn Kha,KTPM15A,kha.19353641@student.iuh.edu.vn,823730316,156
+19353651,Đặng Hoài Linh,KHDL15A,linh.19353651@student.iuh.edu.vn,599211220,10
+19353661,Trần Nhựt Linh,HTTT15B,linh.19353661@student.iuh.edu.vn,685098867,90
+19353671,Thạch Thị Maly,HTTT15A,maly.19353671@student.iuh.edu.vn,762954824,160
+19353681,Họ Và Tên,KHMT15B,ten.19353681@student.iuh.edu.vn,418545259,292
+19353691,Nguyễn Phương Minh,KTPM15B,minh.19353691@student.iuh.edu.vn,565123128,141
+19353701,Trần Trung Ngọc,KHDL15B,ngoc.19353701@student.iuh.edu.vn,512393491,51
+19353711,Hồ Thiện Nhân,KTPM15A,nhan.19353711@student.iuh.edu.vn,736790737,83
+19353721,Lâm Nguyễn Thảo Nhi,KTPM15B,nhi.19353721@student.iuh.edu.vn,876149335,143
+19353731,Đặng Hoàng Phú,HTTT15C,phu.19353731@student.iuh.edu.vn,798115036,97
+19353741,Lê Thị Mỹ Quỳnh,HTTT15B,quynh.19353741@student.iuh.edu.vn,251791723,160
+19353751,Trần Thái Tài,HTTT15B,tai.19353751@student.iuh.edu.vn,992700533,81
+19353761,Trần Minh Tâm,HTTT15C,tam.19353761@student.iuh.edu.vn,921687152,124
+19353771,Trịnh Vĩnh Thanh,HTTT15B,thanh.19353771@student.iuh.edu.vn,259876334,110
+19353781,Lê Minh Thành,KHDL15B,thanh.19353781@student.iuh.edu.vn,454021361,173
+19353791,La Chí Thảo,HTTT15B,thao.19353791@student.iuh.edu.vn,981835567,281
+19353801,Nguyễn Bảo Thanh Thiên,HTTT15A,thien.19353801@student.iuh.edu.vn,413772091,294
+19353811,Nguyễn Anh Thư,HTTT15A,thu.19353811@student.iuh.edu.vn,760434529,224
+19353821,Lê Văn Thưởng,KHDL15A,thuong.19353821@student.iuh.edu.vn,896989660,141
+19353831,Thi Ngọc Trí,KHDL15B,tri.19353831@student.iuh.edu.vn,423388819,90
+19353841,Đặng Nhật Trường,HTTT15A,truong.19353841@student.iuh.edu.vn,550116261,199
+19353851,Đặng Anh Tuấn,KTPM15A,tuan.19353851@student.iuh.edu.vn,315055242,75
+19353861,Phạm Quốc Tuấn,HTTT15A,tuan.19353861@student.iuh.edu.vn,808915048,146
+19353871,Nguyễn Trần Thanh Tú,KHDL15B,tu.19353871@student.iuh.edu.vn,478402000,262
+19353881,Vũ Kim Tùng,HTTT15C,tung.19353881@student.iuh.edu.vn,740371941,173
+19353891,Huỳnh Lê Tỷ,HTTT15A,ty.19353891@student.iuh.edu.vn,671637638,277
+19353901,Nguyễn Văn Vỏ,HTTT15B,vo.19353901@student.iuh.edu.vn,531203920,41
+19353911,Nguyễn Ý Vy,HTTT15B,vy.19353911@student.iuh.edu.vn,882151864,244
+19353921,Nguyễn Duy Kha,HTTT15C,kha.19353921@student.iuh.edu.vn,371082725,147
+19353931,Dương Cao Lâm,HTTT15B,lam.19353931@student.iuh.edu.vn,485673064,278
+19353941,Trần Hoàn Vũ,KTPM15A,vu.19353941@student.iuh.edu.vn,359845933,34
+19353951,Lê Duy Anh,KHMT15A,anh.19353951@student.iuh.edu.vn,948914205,180
+19353961,Võ Minh Thông,HTTT15A,thong.19353961@student.iuh.edu.vn,810023516,129
+19353971,Nguyễn Anh Bằng,HTTT15C,bang.19353971@student.iuh.edu.vn,793659118,231
+19353981,Tô Thị Huỳnh Như,HTTT15C,nhu.19353981@student.iuh.edu.vn,281087700,283
+19353991,Nguyễn Chí Linh,KTPM15A,linh.19353991@student.iuh.edu.vn,857367702,118
+19354001,Họ Và Tên,HTTT15C,ten.19354001@student.iuh.edu.vn,472798003,250
+19354011,Nguyễn Hữu Phúc,KHMT15B,phuc.19354011@student.iuh.edu.vn,293250489,127
+19354021,Trần Hồng Phúc,HTTT15B,phuc.19354021@student.iuh.edu.vn,831754418,77
+19354031,Ngô Thanh Trí,HTTT15B,tri.19354031@student.iuh.edu.vn,456648264,137
+19354041,Lê Hoàng Quí,KHDL15B,qui.19354041@student.iuh.edu.vn,240109409,164
+19354051,Nguyễn Phúc Duy,KTPM15A,duy.19354051@student.iuh.edu.vn,442496347,161
+19354061,Tô Bửu Duy,HTTT15A,duy.19354061@student.iuh.edu.vn,886800811,50
+19354071,Nguyễn Trà My,HTTT15A,my.19354071@student.iuh.edu.vn,911225212,112
+19354081,Lý Hiểu Siêng,KTPM15B,sieng.19354081@student.iuh.edu.vn,372392011,209
+19354091,Hồ Thị Ngọc Trúc,KHDL15B,truc.19354091@student.iuh.edu.vn,997285002,244
+19354101,Nguyễn Thị Bảo Thư,HTTT15B,thu.19354101@student.iuh.edu.vn,447237306,74
+19354111,Bùi Hà Duy,HTTT15B,duy.19354111@student.iuh.edu.vn,625661401,220
+19354121,Huỳnh Văn Đạt,KHMT15A,dat.19354121@student.iuh.edu.vn,658572067,190
+19354131,Trương Minh Hiếu,HTTT15C,hieu.19354131@student.iuh.edu.vn,277223986,81
+19354141,Thạch Nguyên,KHMT15A,nguyen.19354141@student.iuh.edu.vn,669094034,95
+19354151,Phan Ngọc Đình Khang,KHMT15A,khang.19354151@student.iuh.edu.vn,952295505,10
+19354161,Hồ Hải Minh,KHDL15B,minh.19354161@student.iuh.edu.vn,669738763,28
+19354171,Phan Nguyễn Trọng Phát,HTTT15B,phat.19354171@student.iuh.edu.vn,401979199,126
+19354181,Phạm Hoàng Duy,HTTT15C,duy.19354181@student.iuh.edu.vn,459932271,1
+19354191,Lê Minh Kha,KTPM15B,kha.19354191@student.iuh.edu.vn,389968603,283
+19354201,Trần Thanh Nghiêm,HTTT15A,nghiem.19354201@student.iuh.edu.vn,956756687,272
+19354211,Nguyễn Thành Nhân,KTPM15B,nhan.19354211@student.iuh.edu.vn,910756043,81
+19354221,Nghị Cẩm Thi,HTTT15B,thi.19354221@student.iuh.edu.vn,913916355,20
+19354231,Mai Quốc Thịnh,KHMT15A,thinh.19354231@student.iuh.edu.vn,743270239,83
+19354241,Võ Bình Thơ,KHMT15B,tho.19354241@student.iuh.edu.vn,588038771,276
+19354251,Họ Và Tên,KHMT15B,ten.19354251@student.iuh.edu.vn,433862530,193
+19354261,Đỗ Minh Thi,HTTT15B,thi.19354261@student.iuh.edu.vn,730750220,280
+19354271,Huỳnh Tấn Thiên,KHMT15A,thien.19354271@student.iuh.edu.vn,590646682,121
+19354281,Nguyễn Thị Minh Thư,KTPM15B,thu.19354281@student.iuh.edu.vn,227452455,170
+19354291,Trần Trọng Trí,HTTT15B,tri.19354291@student.iuh.edu.vn,444596984,192
+19354301,Huỳnh Kim Trọng,HTTT15B,trong.19354301@student.iuh.edu.vn,450618129,22
+19354311,Nguyễn Thị Thu Trúc,HTTT15B,truc.19354311@student.iuh.edu.vn,851183768,226
+19354321,Vũ Thị Bích Vân,HTTT15A,van.19354321@student.iuh.edu.vn,537526359,127
+19354331,Ngô Trung Vinh,HTTT15B,vinh.19354331@student.iuh.edu.vn,464257270,153
+19354341,Nguyễn Thị Lan Anh,HTTT15A,anh.19354341@student.iuh.edu.vn,695169868,282
+19354351,Nguyễn Hoàng Bữu,HTTT15C,buu.19354351@student.iuh.edu.vn,292844605,214
+19354361,Hồ Hữu Duy,KHMT15A,duy.19354361@student.iuh.edu.vn,332314481,244
+19354371,Nguyễn Thị Thanh Hằng,KTPM15B,hang.19354371@student.iuh.edu.vn,911492259,25
+19354381,Phạm Hoàng Khang,KTPM15B,khang.19354381@student.iuh.edu.vn,606684279,43
+19354391,Nguyễn Thị Yến Khoa,HTTT15A,khoa.19354391@student.iuh.edu.vn,692879857,295
+19354401,Trần Đăng Khoa,KHMT15A,khoa.19354401@student.iuh.edu.vn,557073051,98
+19354411,Nguyễn Thanh Lâm,KTPM15B,lam.19354411@student.iuh.edu.vn,447642511,198
+19354421,Võ Nhựt Linh,HTTT15A,linh.19354421@student.iuh.edu.vn,313422454,29
+19354431,Nguyễn Thị Hiếu Nghĩa,KTPM15A,nghia.19354431@student.iuh.edu.vn,461474597,262
+19354441,Nguyễn Võ Như Ngọc,KHMT15B,ngoc.19354441@student.iuh.edu.vn,643358998,195
+19354451,Võ Hoàng Nguyên,KHDL15A,nguyen.19354451@student.iuh.edu.vn,411435124,63
+19354461,Nguyễn Minh Nguyệt,KHDL15A,nguyet.19354461@student.iuh.edu.vn,951167544,217
+19354471,Dương Ngọc Phương,HTTT15A,phuong.19354471@student.iuh.edu.vn,972502787,108
+19354481,Danh Bảo Thanh,HTTT15A,thanh.19354481@student.iuh.edu.vn,833731416,261
+19354491,Nguyễn Công Thành,HTTT15A,thanh.19354491@student.iuh.edu.vn,320446392,170
+19354501,Đặng Đức Thịnh,KHDL15A,thinh.19354501@student.iuh.edu.vn,789254668,265
+19354511,Trần Thị Thanh Thủy,KTPM15A,thuy.19354511@student.iuh.edu.vn,311032395,84
+19354521,Trần Minh Tiến,HTTT15A,tien.19354521@student.iuh.edu.vn,656879445,222
+19354531,Nguyễn Thị Ngọc Trâm,KHDL15A,tram.19354531@student.iuh.edu.vn,909284709,46
+19354541,Trần Trung Trực,HTTT15B,truc.19354541@student.iuh.edu.vn,473452257,243
+19354551,Huỳnh Thị Ngọc Ty,KTPM15B,ty.19354551@student.iuh.edu.vn,699311997,51
+19354561,Lê Trường Vũ,KHMT15A,vu.19354561@student.iuh.edu.vn,792255285,68
+19354571,Vương Thanh Sơn,KHDL15A,son.19354571@student.iuh.edu.vn,922434286,230
+19354581,Huỳnh Thanh Toàn,KHMT15A,toan.19354581@student.iuh.edu.vn,574476066,195
+19354591,Phạm Thị Thuỳ Ái,HTTT15B,ai.19354591@student.iuh.edu.vn,372860698,17
+19354601,Họ Và Tên,KTPM15B,ten.19354601@student.iuh.edu.vn,510416411,58
+19354611,Phương Hoà Hiệp,HTTT15A,hiep.19354611@student.iuh.edu.vn,442184072,62
+19354621,Nguyễn Lê Phúc Huy,HTTT15C,huy.19354621@student.iuh.edu.vn,753954525,84
+19354631,Nguyễn Thị Mỹ Hạnh,HTTT15A,hanh.19354631@student.iuh.edu.vn,320684818,5
+19354641,Trần Văn Khởi,KHDL15B,khoi.19354641@student.iuh.edu.vn,888328196,200
+19354651,Lưu Thị Thùy Trang,KTPM15B,trang.19354651@student.iuh.edu.vn,920271654,114
+19354661,Nguyễn Anh Khải,HTTT15B,khai.19354661@student.iuh.edu.vn,952336879,217
+19354671,Lê Quang Minh,HTTT15A,minh.19354671@student.iuh.edu.vn,478166563,294
+19354681,Trần Phương Nhi,HTTT15C,nhi.19354681@student.iuh.edu.vn,964538338,263
+19354691,Lại Hiệp Thành,HTTT15B,thanh.19354691@student.iuh.edu.vn,788086580,196
+19354701,Lê Văn Chí Thiện,KTPM15B,thien.19354701@student.iuh.edu.vn,818627730,299
+19354711,Trần Vĩnh Thuận,KHDL15A,thuan.19354711@student.iuh.edu.vn,898421263,36
+19354721,Nguyễn Đức Trọng,HTTT15A,trong.19354721@student.iuh.edu.vn,609361408,195
+19354731,Lê Quốc Vương,HTTT15A,vuong.19354731@student.iuh.edu.vn,263481396,64
+19354741,Nguyễn Việt Đông,HTTT15C,dong.19354741@student.iuh.edu.vn,626196928,128
+19354751,Trương Công Hậu,KTPM15B,hau.19354751@student.iuh.edu.vn,815359226,37
+19354761,Huỳnh Gia Huy,KHDL15A,huy.19354761@student.iuh.edu.vn,919628917,91
+19354771,Nguyễn Vũ Luân,KHDL15A,luan.19354771@student.iuh.edu.vn,448933892,102
+19354781,Quách Trần Thuận Phong,HTTT15A,phong.19354781@student.iuh.edu.vn,644238691,276
+19354791,Dương Anh Quyên,KTPM15A,quyen.19354791@student.iuh.edu.vn,675611247,32
+19354801,Lý Thanh Tân,KTPM15A,tan.19354801@student.iuh.edu.vn,671090772,6
+19354811,Bùi Trần Trúc Thanh,KHMT15B,thanh.19354811@student.iuh.edu.vn,283755006,283
+19354821,Lê Cao Hoàng Thái,KHMT15A,thai.19354821@student.iuh.edu.vn,591604292,154
+19354831,Nguyễn Quốc Thịnh,KTPM15B,thinh.19354831@student.iuh.edu.vn,869682663,45
+19354841,Nguyễn Đình Thứ,HTTT15A,thu.19354841@student.iuh.edu.vn,858515966,204
+19354851,Lê Cảnh Trung,HTTT15B,trung.19354851@student.iuh.edu.vn,915251904,177
+19354861,Lưu Thanh Vân,KHMT15A,van.19354861@student.iuh.edu.vn,457629832,33
+19354871,Lê Quang Vinh,KHDL15A,vinh.19354871@student.iuh.edu.vn,846449243,203
+19354881,Huỳnh Thúy Ngoan,HTTT15A,ngoan.19354881@student.iuh.edu.vn,298595143,15
+19354891,Phan Ngọc Thảo,HTTT15B,thao.19354891@student.iuh.edu.vn,780505561,204
+19354901,Bùi Diễm Trâm,HTTT15C,tram.19354901@student.iuh.edu.vn,616813473,68
