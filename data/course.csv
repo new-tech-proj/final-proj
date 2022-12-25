@@ -1,81 +1,81 @@
-course_id,lecturer_in_charge_id,course_name,total_credit,theory_credit,practice_credit,self_learning_credit,major_abbr,name_code,semester_id
-1,1,Toán cao cấp 1,3,3,0,4,khdl15,2113431,1
-2,1,Giáo dục thể chất 1,5,3,2,5,khdl15,2120405,1
-3,1,Giáo dục Quốc phòng và An ninh 1,3,1,2,3,khdl15,2120501,1
-4,1,Nhập môn Tin học,3,3,0,3,khdl15,2101539,1
-5,1,Nhập môn Lập trình,4,0,4,5,khdl15,2101622,1
-6,1,Những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin,2,1,1,5,khdl15,2112007,1
-7,1,Giáo dục quốc phòng và an ninh 2,5,3,2,5,khdl15,2120502,2
-8,1,Toán cao cấp 2,3,3,0,5,khdl15,2113432,2
-9,1,Giáo dục thể chất 2,4,3,1,5,khdl15,2120406,2
-10,1,Kỹ năng làm việc nhóm,2,2,0,5,khdl15,2132001,2
-11,1,Hệ thống Máy tính,5,3,2,3,khdl15,2101567,2
-12,1,Kỹ thuật lập trình,4,2,2,3,khdl15,2101405,2
-13,1,Tiếng anh 1,2,2,0,4,khdl15,2111250,2
-14,1,Kỹ năng xây dựng kế hoạch,3,2,1,5,khdl15,2132002,2
-15,1,Quản trị doanh nghiệp,3,3,0,4,khdl15,2107510,2
-16,1,Kế toán cơ bản,3,3,0,3,khdl15,2127481,2
-17,1,Môi trường và con người,3,3,0,5,khdl15,2123800,2
-18,1,Quản trị học,3,3,0,3,khdl15,2107483,2
-19,1,Giao tiếp kinh doanh,3,3,0,4,khdl15,2107492,2
-20,1,Lập trình hướng đối tượng,4,2,2,3,khdl15,2101623,3
-21,1,Cấu trúc dữ liệu và giải thuật,4,2,2,4,khdl15,2101409,3
-22,1,Hệ cơ sở dữ liệu,5,3,2,5,khdl15,2101436,3
-23,1,Cấu trúc rời rạc,3,3,0,4,khdl15,2101402,3
-24,1,Xác suất trong Khoa học Dữ liệu,3,2,1,4,khdl15,2101676,3
-25,1,Tiếng Anh 2,3,3,0,5,khdl15,2111300,3
-26,1,Giải thuật và tối ưu hóa phân tán,3,2,1,5,khdl15,2101677,3
-27,1,Trực quan hóa dữ liệu,3,2,1,5,khdl15,2101678,3
-28,1,Đại số tuyến tính tính toán,3,2,1,5,khdl15,2101679,3
-29,1,Pháp luật đại cương,3,3,0,5,khdl15,2131472,4
-30,1,Thống kê máy tính và ứng dụng,3,2,1,3,khdl15,2101624,4
-31,1,Mạng máy tính,3,3,0,5,khdl15,2101435,4
-32,1,Nhập môn Khoa học Dữ liệu,3,2,1,3,khdl15,2101680,4
-33,1,Phương pháp luận nghiên cứu khoa học,3,3,0,4,khdl15,2113433,4
-34,1,Lập trình phân tích dữ liệu,3,2,1,3,khdl15,2101681,4
-35,1,Logic học,3,3,0,3,khdl15,2113438,4
-36,1,Phương pháp tính,3,3,0,5,khdl15,2113435,4
-37,1,Vật lý đại cương,3,3,0,5,khdl15,2113437,4
-38,1,Toán ứng dụng,4,3,1,4,khdl15,2113434,4
-39,1,Hàm phức và phép biến đổi Laplace,4,2,2,5,khdl15,2113436,4
-40,1,Quá trình ngẫu nhiên,4,2,2,3,khdl15,2101682,4
-41,1,Các ngôn ngữ truy vấn cơ sở dữ liệu,2,1,1,3,khdl15,2101683,4
-42,1,Kiến trúc hướng dịch vụ và Điện toán đám mây,3,2,1,3,khdl15,2010684,4
-43,1,Máy học,3,3,1,4,khdl15,2101631,5
-44,1,Tối ưu hóa cho Khoa học dữ liệu,5,3,2,5,khdl15,2101685,5
-45,1,Khai thác dữ liệu và ứng dụng,4,2,2,4,khdl15,2101627,5
-46,1,Những vấn đề xã hội và đạo đức nghề nghiệp,5,3,2,4,khdl15,2101655,5
-47,1,Phát triển ứng dụng,2,1,1,5,khdl15,2101657,5
-48,1,Phân tích chuỗi thời gian,3,1,2,5,khdl15,2101686,5
-49,1,Xử lý ảnh,3,1,2,5,khdl15,2101698,5
-50,1,Kỹ thuật tài chính,2,1,1,5,khdl15,2101687,5
-51,1,Tư tưởng Hồ Chí Minh,5,3,2,5,khdl15,2112005,6
-52,1,Xử lý ngôn ngữ tự nhiên,4,2,2,3,khdl15,2101444,6
-53,1,Nhập môn dữ liệu lớn,4,3,1,3,khdl15,2101582,6
-54,1,Nhập môn Robot,3,1,2,4,khdl15,2101688,6
-55,1,Tiếp thị điện tử,3,2,1,5,khdl15,2101544,6
-56,1,Tương tác người máy,3,2,1,3,khdl15,2101428,6
-57,1,Giao dịch định lượng,3,1,2,5,khdl15,2101689,6
-58,1,Công nghệ phần mềm,3,1,2,3,khdl15,2101420,6
-59,1,Tính toán song song,4,3,1,4,khdl15,2101690,6
-60,1,Khai phá đồ thị,3,2,1,5,khdl15,2101691,6
-61,1,Hệ khuyến nghị,3,1,2,5,khdl15,2101692,6
-62,1,Nhập môn an toàn thông tin,2,1,1,4,khdl15,2101411,6
-63,1,Lý thuyết trò chơi,3,2,1,5,khdl15,2101693,6
-64,1,Đường lối cách mạng của Đảng Cộng sản Việt Nam,2,1,1,3,khdl15,2112008,7
-65,1,Công nghệ mới trong phát triển ứng dụng CNTT,3,1,2,5,khdl15,2101561,7
-66,1,Thị giác máy tính,5,3,2,3,khdl15,2101694,7
-67,1,Học sâu,3,1,2,3,khdl15,2101650,7
-68,1,Phân tích dữ liệu Bayesian,2,1,1,4,khdl15,2101695,7
-69,1,Đảm bảo chất lượng và Kiểm thử phần mềm,4,3,1,3,khdl15,2101634,7
-70,1,Phân tích kinh doanh,5,3,2,3,khdl15,2101696,7
-71,1,Giải tích ngẫu nhiên cho tài chính,2,1,1,4,khdl15,2101697,7
-72,1,Tâm lý học đại cương,2,1,1,5,khdl15,2110585,7
-73,1,Xã hội học,4,2,2,3,khdl15,2113439,7
-74,1,Cơ sở văn hóa Việt Nam,5,3,2,4,khdl15,2111401,7
-75,1,Tiếng Việt thực hành,4,2,2,4,khdl15,2111402,7
-76,1,Âm nhạc – Nhạc lý và Guitar căn bản,4,2,2,3,khdl15,2112011,7
-77,1,Hội họa,3,2,1,5,khdl15,2106529,7
-78,1,Thực tập doanh nghiệp,3,1,2,3,khdl15,2101521,8
-79,1,Khóa luận tốt nghiệp,3,2,1,5,khdl15,2101523,8
-80,1,Chứng chỉ TOEIC 450,3,2,1,4,khdl15,2199450,8
+﻿lecturer_in_charge_id,course_name,total_credit,theory_credit,practice_credit,self_learning_credit
+48,Toán cao cấp 1,3,3,0,4
+57,Giáo dục thể chất 1,5,3,2,5
+65,Giáo dục Quốc phòng và An ninh 1,3,1,2,3
+12,Nhập môn Tin học,3,3,0,3
+21,Nhập môn Lập trình,4,0,4,5
+66,Những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin,2,1,1,5
+6,Giáo dục quốc phòng và an ninh 2,5,3,2,5
+63,Toán cao cấp 2,3,3,0,5
+15,Giáo dục thể chất 2,4,3,1,5
+76,Kỹ năng làm việc nhóm,2,2,0,5
+18,Hệ thống Máy tính,5,3,2,3
+71,Kỹ thuật lập trình,4,2,2,3
+61,Tiếng anh 1,2,2,0,4
+8,Kỹ năng xây dựng kế hoạch,3,2,1,5
+38,Quản trị doanh nghiệp,3,3,0,4
+54,Kế toán cơ bản,3,3,0,3
+3,Môi trường và con người,3,3,0,5
+64,Quản trị học,3,3,0,3
+36,Giao tiếp kinh doanh,3,3,0,4
+58,Lập trình hướng đối tượng,4,2,2,3
+39,Cấu trúc dữ liệu và giải thuật,4,2,2,4
+27,Hệ cơ sở dữ liệu,5,3,2,5
+22,Cấu trúc rời rạc,3,3,0,4
+2,Xác suất trong Khoa học Dữ liệu,3,2,1,4
+47,Tiếng Anh 2,3,3,0,5
+52,Giải thuật và tối ưu hóa phân tán,3,2,1,5
+14,Trực quan hóa dữ liệu,3,2,1,5
+78,Đại số tuyến tính tính toán,3,2,1,5
+74,Pháp luật đại cương,3,3,0,5
+67,Thống kê máy tính và ứng dụng,3,2,1,3
+80,Mạng máy tính,3,3,0,5
+4,Nhập môn Khoa học Dữ liệu,3,2,1,3
+31,Phương pháp luận nghiên cứu khoa học,3,3,0,4
+23,Lập trình phân tích dữ liệu,3,2,1,3
+33,Logic học,3,3,0,3
+56,Phương pháp tính,3,3,0,5
+26,Vật lý đại cương,3,3,0,5
+28,Toán ứng dụng,4,3,1,4
+37,Hàm phức và phép biến đổi Laplace,4,2,2,5
+45,Quá trình ngẫu nhiên,4,2,2,3
+34,Các ngôn ngữ truy vấn cơ sở dữ liệu,2,1,1,3
+55,Kiến trúc hướng dịch vụ và Điện toán đám mây,3,2,1,3
+60,Máy học,3,3,1,4
+32,Tối ưu hóa cho Khoa học dữ liệu,5,3,2,5
+51,Khai thác dữ liệu và ứng dụng,4,2,2,4
+43,Những vấn đề xã hội và đạo đức nghề nghiệp,5,3,2,4
+30,Phát triển ứng dụng,2,1,1,5
+50,Phân tích chuỗi thời gian,3,1,2,5
+46,Xử lý ảnh,3,1,2,5
+41,Kỹ thuật tài chính,2,1,1,5
+69,Tư tưởng Hồ Chí Minh,5,3,2,5
+19,Xử lý ngôn ngữ tự nhiên,4,2,2,3
+17,Nhập môn dữ liệu lớn,4,3,1,3
+20,Nhập môn Robot,3,1,2,4
+53,Tiếp thị điện tử,3,2,1,5
+73,Tương tác người máy,3,2,1,3
+79,Giao dịch định lượng,3,1,2,5
+72,Công nghệ phần mềm,3,1,2,3
+29,Tính toán song song,4,3,1,4
+16,Khai phá đồ thị,3,2,1,5
+10,Hệ khuyến nghị,3,1,2,5
+13,Nhập môn an toàn thông tin,2,1,1,4
+24,Lý thuyết trò chơi,3,2,1,5
+9,Đường lối cách mạng của Đảng Cộng sản Việt Nam,2,1,1,3
+40,Công nghệ mới trong phát triển ứng dụng CNTT,3,1,2,5
+59,Thị giác máy tính,5,3,2,3
+11,Học sâu,3,1,2,3
+5,Phân tích dữ liệu Bayesian,2,1,1,4
+77,Đảm bảo chất lượng và Kiểm thử phần mềm,4,3,1,3
+75,Phân tích kinh doanh,5,3,2,3
+25,Giải tích ngẫu nhiên cho tài chính,2,1,1,4
+68,Tâm lý học đại cương,2,1,1,5
+42,Xã hội học,4,2,2,3
+49,Cơ sở văn hóa Việt Nam,5,3,2,4
+70,Tiếng Việt thực hành,4,2,2,4
+62,Âm nhạc – Nhạc lý và Guitar căn bản,4,2,2,3
+1,Hội họa,3,2,1,5
+44,Thực tập doanh nghiệp,3,1,2,3
+7,Khóa luận tốt nghiệp,3,2,1,5
+35,Chứng chỉ TOEIC 450,3,2,1,4
